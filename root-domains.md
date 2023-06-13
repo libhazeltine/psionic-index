@@ -6,8 +6,7 @@
 psilinks.net | https://web.archive.org/web/\*/psilinks.net* | Already indexed
 psistudies.net | https://web.archive.org/web/\*/psistudies.net* | Already indexed
 psionicsonline.net | https://web.archive.org/web/\*/psionicsonline.net* | Already indexed.
-“psiclub”  | Unknown | 
-psiworld | Unknown | 
+“psiclub”  | Unknown, needs investigating | 
 tassadar-archives.com | https://web.archive.org/web/\*/tassadar-archives.com* | Unsure what this is.
 tassadar-archive.net | https://web.archive.org/web/\*/tassadar-archive.net*
 pyroatpsi.wordpress.com/ | https://web.archive.org/web/\*/pyroatpsi.wordpress.com*
