@@ -13,17 +13,17 @@ tassadar-archive.net | https://web.archive.org/web/\*/tassadar-archive.net*
 pyroatpsi.wordpress.com/ | https://web.archive.org/web/\*/pyroatpsi.wordpress.com*
 thepsiworld.freehostia.com/ | https://web.archive.org/web/\*/http://thepsiworld.freehostia.com/* | 
 astateofmind.eu/ | https://web.archive.org/web/\*/astateofmind.eu/* | 
-www.psc-online.org | https://web.archive.org/web/\*/psc-online.org* | This group is allegedly still active behind closed doors. Their site is still live, but I do not recall seeing anything interesting on it.
+psc-online.org | https://web.archive.org/web/\*/psc-online.org* | This group is allegedly still active behind closed doors. Their site is still live, but I do not recall seeing anything interesting on it.
 psionic.150m.com | https://web.archive.org/web/\*/psionic.150m.com/* | 
-www.ppsociety.com | https://web.archive.org/web/\*/www.ppsociety.com/* | 
+ppsociety.com | https://web.archive.org/web/\*/www.ppsociety.com/* | 
 vsociety.net/ | https://web.archive.org/web/\*/vsociety.net* |
 forums.vsociety.net/ | https://web.archive.org/web/\*/forums.vsociety.net* | 
-www.psionline.org/* | https://web.archive.org/web/\*/psionline.org* | 
-www.freewebs.com/psionicdojo/ | https://web.archive.org/web/\*/http://www.freewebs.com/psionicdojo/* | 
-www.psipalatium.com/ | https://web.archive.org/web/\*/http://www.psipalatium.com/* | Still active as of 06/2023; http://www.psipalatium.com/index.php
+psionline.org/* | https://web.archive.org/web/\*/psionline.org* | 
+freewebs.com/psionicdojo/ | https://web.archive.org/web/\*/http://www.freewebs.com/psionicdojo/* | 
+psipalatium.com/ | https://web.archive.org/web/\*/http://www.psipalatium.com/* | Still active as of 06/2023; http://www.psipalatium.com/index.php
 psinet.proboards107.com/ | https://web.archive.org/web/\*/http://psinet.proboards107.com/* | 
 psiontemple.proboards.com/ | https://web.archive.org/web/\*/http://psiontemple.proboards.com/* | 
-www.tkforums.com/ | https://web.archive.org/web/\*/http://www.tkforums.com/* | 
+tkforums.com/ | https://web.archive.org/web/\*/http://www.tkforums.com/* | 
 hmiripsion.googlepages.com/* | https://web.archive.org/web/\*/http://miripsion.googlepages.com/* | 
 psionslair.co.cc/ | https://web.archive.org/web/\*/http://psionslair.co.cc/* | 
-www.psionicsinstitute.org/ | https://web.archive.org/web/*/https://www.psionicsinstitute.org* | Still live as of 06/2023; https://www.psionicsinstitute.org/ 
+psionicsinstitute.org/ | https://web.archive.org/web/*/https://www.psionicsinstitute.org* | Still live as of 06/2023; https://www.psionicsinstitute.org/ 
