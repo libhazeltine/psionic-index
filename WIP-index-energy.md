@@ -39,3 +39,18 @@
 | ------ | ---- | ---- | ----- |
 | psionicsonline.net | Basic Shielding Techniques \<Magicdood> | https://web.archive.org/web/20080411092818/http://www.psionicsonline.net/basicshieldingtechniques | 
 | psionicsonline.net | Shielding 101 \<Zeus> | https://web.archive.org/web/20091117130616/http://www.psionicsonline.net:80/article/shielding-101-zeus | 
+
+## Perception
+
+| Source | Name  \<Author> | Link | Notes |
+| ------ | ---- | ---- | ----- |
+| psionicsonline.net | Awareness and Sensitivity \<Intrepid> | https://web.archive.org/web/20111212202032/http://www.psionicsonline.net/awareness-and-sensitivity/ | 
+| psionicsonline.net | Analytic Overlay \<JoeRoger \[UPC]> | https://web.archive.org/web/20091117120457/http://www.psionicsonline.net:80/article/analytic-overlay-joeroger-upc |
+| psionicsonline.net | The Basics of Awareness and Sensitivity \<Neveza> | https://web.archive.org/web/20080913194911/http://www.psionicsonline.net:80/content/basics-awareness-and-sensitivity-neveza |
+| psionicsonline.net | How to Receive Anything \<Peebrain> | https://web.archive.org/web/20110930064625/http://www.psionicsonline.net:80/how-to-receive-anything/ |
+| psionicsonline.net | Remote Presence, Viewing and Touch \<Lesenthe> | https://web.archive.org/web/20080827125245/http://www.psionicsonline.net:80/content/remote-presence-viewing-and-touch-lesenthe | 
+| psionicsonline.net/forums | Mental Interaction, Symbolism, and Assocation \<_forum_> | https://web.archive.org/web/20091029222622/http://www.psionicsonline.net:80/forums/mental-interaction-symbolism-and-assocation | 
+| psionicsonline.net | Blank Mind Scanning \<Miri> | https://web.archive.org/web/20091119003031/http://www.psionicsonline.net:80/article/blank-mind-scanning-miri |
+| psionicsonline.net | \[PART 1] Different Views: Physical to Non-Physical: E.S.P \<Float> | https://web.archive.org/web/20111212202029/http%253A//www.psionicsonline.net/different-views-physical-to-non-physical-esp/ | 
+| psionicsonline.net | \[PART 2] Different Views: Physical to Non-Physical: E.S.P \<Float> | https://web.archive.org/web/20111212202030/http://www.psionicsonline.net/different-views-physical-to-non-physical-esp-part-2/ |
+| psionicsonline.net | Beneath the Construct \<Lesenthe> | https://web.archive.org/web/20111109040153/http://www.psionicsonline.net:80/beneath-the-construct-revised/ |
