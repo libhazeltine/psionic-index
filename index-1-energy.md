@@ -54,3 +54,4 @@
 | psionicsonline.net | \[PART 1] Different Views: Physical to Non-Physical: E.S.P \<Float> | https://web.archive.org/web/20111212202029/http%253A//www.psionicsonline.net/different-views-physical-to-non-physical-esp/ | 
 | psionicsonline.net | \[PART 2] Different Views: Physical to Non-Physical: E.S.P \<Float> | https://web.archive.org/web/20111212202030/http://www.psionicsonline.net/different-views-physical-to-non-physical-esp-part-2/ |
 | psionicsonline.net | Beneath the Construct \<Lesenthe> | https://web.archive.org/web/20111109040153/http://www.psionicsonline.net:80/beneath-the-construct-revised/ |
+| psionicsonline.net/forums | Intuition \<_forum_> | https://web.archive.org/web/20080917081307/http://www.psilinks.net:80/forum/index.php/topic,97.0.html | 
