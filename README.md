@@ -9,4 +9,6 @@ Unlike formal parapsychology, psionics was practiced informally, by people who m
 
 While the communities of those forums, and the people who ran those blogs, are all gone, they, perhaps unknowingly, left quite a bit behind. This project seeks to organize those ruins, and build a new generation community, so that we can continue where they left off.
 
+Right now, this repo consists solely of category-sorted link indexes, but in the future it will contain direct backups of the content, manually transcribed in Markdown format.
+
 Join us (or watch from afar) -> https://placeholder.l.i.n.k/ 
