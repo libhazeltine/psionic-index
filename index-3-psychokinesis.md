@@ -18,3 +18,4 @@
 ## Specialized applications
 | psionicsonline.net/forums | TK on ice \<_forum_> | https://web.archive.org/web/20080517020707/http://www.psionicsonline.net:80/forums/index.php/topic,623.0.html |
 | psionicsonline.net | Light Dimming \<Alegiojon \[UPC]> | https://web.archive.org/web/20111212201656/http://www.psionicsonline.net/light-dimming-upc/ | 
+| psionicsonline.net | Passive Psychokinetic Force \<Shadowarrior13 \[UPC]> | https://web.archive.org/web/20111212201654/http://www.psionicsonline.net/passive-psychokinetic-force-upc/ | 
