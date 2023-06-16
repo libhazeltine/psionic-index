@@ -55,3 +55,10 @@
 | psionicsonline.net | \[PART 2] Different Views: Physical to Non-Physical: E.S.P \<Float> | https://web.archive.org/web/20111212202030/http://www.psionicsonline.net/different-views-physical-to-non-physical-esp-part-2/ |
 | psionicsonline.net | Beneath the Construct \<Lesenthe> | https://web.archive.org/web/20111109040153/http://www.psionicsonline.net:80/beneath-the-construct-revised/ |
 | psionicsonline.net/forums | Intuition \<_forum_> | https://web.archive.org/web/20080917081307/http://www.psilinks.net:80/forum/index.php/topic,97.0.html | 
+
+## Healing
+
+| Source | Name  \<Author> | Link | Notes |
+| ------ | ---- | ---- | ----- |
+| psionicsonline.net | The Basics of Healing \<Neveza> | https://web.archive.org/web/20080415212124/http://www.psionicsonline.net/basicsofhealingneveza | 
+| psistudies.net | Healing Technique \<Psi_Ninja> | https://web.archive.org/web/20071205095236/http://psistudies.net:80/_articles_backup/healing_psininja.html | 
