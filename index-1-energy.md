@@ -62,3 +62,9 @@
 | ------ | ---- | ---- | ----- |
 | psionicsonline.net | The Basics of Healing \<Neveza> | https://web.archive.org/web/20080415212124/http://www.psionicsonline.net/basicsofhealingneveza | 
 | psistudies.net | Healing Technique \<Psi_Ninja> | https://web.archive.org/web/20071205095236/http://psistudies.net:80/_articles_backup/healing_psininja.html | 
+
+## Advanced
+
+| Source | Name  \<Author> | Link | Notes |
+| ------ | ---- | ---- | ----- |
+| psionicsonline.net | Three Easy Steps to: Flaring \<Jynx493> | https://web.archive.org/web/20080411092822/http://www.psionicsonline.net:80/flaring | 
