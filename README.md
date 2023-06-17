@@ -1,6 +1,6 @@
 # [The Hazeltine Library](https://github.com/libhazeltine/libhazeltine)
 
-TODO: remove this + next line before sending link to anyone
+TODO: remove this + next line + fill in the guilded link before sending link to anyone
 ## ***Look at you! This isn't supposed to be seen yet. Come back in a few weeks***.
 
 A curated collection of content from psionics message boards from the Wayback Machine. Psionics is defined as the use of psychic abilities and energies in a context independent of wider spirituality.
@@ -11,4 +11,8 @@ While the communities of those forums, and the people who ran those blogs, are a
 
 Right now, this repo consists solely of category-sorted link indexes, but in the future it will contain direct backups of the content, manually transcribed in Markdown format.
 
-Join us (or watch from afar) -> https://placeholder.l.i.n.k/ 
+### Project Links
+
+**Join us on Guilded** -> [[PLACEHOLDER LINKKKKKKKK]]
+
+Suggest content for the library -> https://www.github.com/libhazeltine/libhazeltine/issues/new?labels=content-suggestion
