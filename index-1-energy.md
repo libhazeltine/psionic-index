@@ -1,7 +1,6 @@
 # Energy Manipulation Index
 
 ## Introduction
-
 | Source | Name \<Author> | Link | Notes |
 | ------ | ---- | ---- | ----- |
 | psistudies.net | Energy Manipulation and Psiballs \<Brandon R> | https://web.archive.org/web/20071223145443/http://psistudies.net:80/_articles_backup/basic-psi-manip.html | 
@@ -11,7 +10,6 @@
 | psionicsonline.net | Basic Energy Management \<Innerfire> | https://web.archive.org/web/20090827005702/http://www.psionicsonline.net:80/article/basic-energy-management-innerfire | 
 
 ## Charging and Cultivation
-
 | Source | Name  \<Author> | Link | Notes |
 | ------ | ---- | ---- | ----- |
 | psistudies.net | Charging by \<3k> | https://web.archive.org/web/20071223145448/http://psistudies.net:80/_articles_backup/charging-3k.html | 
@@ -19,7 +17,6 @@
 | psionicsonline.net | Gathering Psi \<Roger Demis> | https://web.archive.org/web/20080313094759/http://www.psionicsonline.net/gatheringpsiroger |
 
 ## Constructs and Programming
-
 | Source | Name  \<Author> | Link | Notes |
 | ------ | ---- | ---- | ----- |
 | psistudies.net | Understanding Constructs \<XPWarrior3> | https://web.archive.org/web/20071205095224/http://psistudies.net:80/_articles_backup/constructs-xpw3.html | 
@@ -34,14 +31,12 @@
 | psionicsonline.net | Advanced Energy Manipulation and Programming \<Hech\[UPC]> | https://web.archive.org/web/20111212201947/http://www.psionicsonline.net/advanced-energy-manipulation-and-programming-upc/ |
 
 ## Shielding
-
 | Source | Name  \<Author> | Link | Notes |
 | ------ | ---- | ---- | ----- |
 | psionicsonline.net | Basic Shielding Techniques \<Magicdood> | https://web.archive.org/web/20080411092818/http://www.psionicsonline.net/basicshieldingtechniques | 
 | psionicsonline.net | Shielding 101 \<Zeus> | https://web.archive.org/web/20091117130616/http://www.psionicsonline.net:80/article/shielding-101-zeus | 
 
 ## Perception
-
 | Source | Name  \<Author> | Link | Notes |
 | ------ | ---- | ---- | ----- |
 | psionicsonline.net | Awareness and Sensitivity \<Intrepid> | https://web.archive.org/web/20111212202032/http://www.psionicsonline.net/awareness-and-sensitivity/ | 
@@ -57,14 +52,12 @@
 | psionicsonline.net/forums | Intuition \<_forum_> | https://web.archive.org/web/20080917081307/http://www.psilinks.net:80/forum/index.php/topic,97.0.html | 
 
 ## Healing
-
 | Source | Name  \<Author> | Link | Notes |
 | ------ | ---- | ---- | ----- |
 | psionicsonline.net | The Basics of Healing \<Neveza> | https://web.archive.org/web/20080415212124/http://www.psionicsonline.net/basicsofhealingneveza | 
 | psistudies.net | Healing Technique \<Psi_Ninja> | https://web.archive.org/web/20071205095236/http://psistudies.net:80/_articles_backup/healing_psininja.html | 
 
 ## Advanced
-
 | Source | Name  \<Author> | Link | Notes |
 | ------ | ---- | ---- | ----- |
 | psionicsonline.net | Three Easy Steps to: Flaring \<Jynx493> | https://web.archive.org/web/20080411092822/http://www.psionicsonline.net:80/flaring | 
