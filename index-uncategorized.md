@@ -20,12 +20,7 @@
 | psionicsonline.net | Astral Projection: Your First Steps \<Float> | https://web.archive.org/web/20091119001935/http://www.psionicsonline.net:80/article/astral-projection-your-first-steps-float |
 | psionicsonline.net | Out-of-Body Experiences: The Manual \<Metalforever> | https://web.archive.org/web/20091119002600/http://www.psionicsonline.net:80/article/out-body-experiences-manual-metalforever |
 
-## Combat and Sparring (pls don't hurt people pls :)
-| Source | Name \<Author> | Link | Notes |
-| ------ | ---- | ---- | ----- |
-| psistudies.net | How to Spar \<Gonzo> | https://web.archive.org/web/20071205095241/http://psistudies.net:80/_articles_backup/howto-spar.html |
-| psistudies.net | Constructs in Combat \<miri> | https://web.archive.org/web/20071205095219/http://psistudies.net:80/_articles_backup/constructs-in-combat-miri.html | 
-| psilinks.net/forum | Eye Irritation \[construct] \<_forum_> | https://web.archive.org/web/20081005111244/http://www.psilinks.net:80/forum/index.php/topic,86.0.html
+
 
 ## Other
 | Source | Name \<Author> | Link | Notes |
