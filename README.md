@@ -1,7 +1,5 @@
 # [The Hazeltine Library](https://github.com/libhazeltine/libhazeltine)
 
-## ***This project is in beta. Some stuff may be missing. Please don't share the link to this repo until this line is gone.***.
-
 A curated collection of content from psionics message boards from the Wayback Machine. Psionics is defined as the use of psychic abilities and energies in a context independent of wider spirituality.
 
 Unlike formal parapsychology, psionics was practiced informally, by people who made money in other hobbies, and who shared information openly, without paywalls, on a somewhat-decentralized network of forums and blogs. 
