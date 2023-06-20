@@ -7,8 +7,7 @@ psilinks.net | [Link](https://web.archive.org/web/\*/psilinks.net*) | Already in
 psistudies.net | [Link](https://web.archive.org/web/\*/psistudies.net*) | Already indexed
 psionicsonline.net | [Link](https://web.archive.org/web/\*/psionicsonline.net*) | Already indexed.
 “psiclub”  | Unknown, needs investigating | 
-tassadar-archives.com | [Link](https://web.archive.org/web/\*/tassadar-archives.com*) | Unsure what this is.
-tassadar-archive.net | [Link](https://web.archive.org/web/\*/tassadar-archive.net*)
+tassadar-archive.net | [Link](https://web.archive.org/web/\*/tassadar-archive.net*) | In progress. See issue [#002](https://github.com/libhazeltine/libhazeltine/issues/2).
 pyroatpsi.wordpress.com/ | [Link](https://web.archive.org/web/\*/pyroatpsi.wordpress.com*)
 thepsiworld.freehostia.com/ | [Link](https://web.archive.org/web/\*/http://thepsiworld.freehostia.com/*) | 
 astateofmind.eu/ | [Link](https://web.archive.org/web/\*/astateofmind.eu/*) | 
