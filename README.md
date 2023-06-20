@@ -12,4 +12,4 @@ Right now, this repo consists solely of category-sorted link indexes, but in the
 
 Suggest content for the library -> https://www.github.com/libhazeltine/libhazeltine/issues/new?labels=content-suggestion
 
-Our chat server is coming soon. Express interest -> https://www.github.com/libhazeltine/libhazeltine/issues/new?labels=chatroom-interest-request
+Interested in a potential chat server? Tell me -> https://www.github.com/libhazeltine/libhazeltine/issues/new?labels=chatroom-interest-request
