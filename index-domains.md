@@ -10,6 +10,7 @@ psionicsonline.net | [Link](https://web.archive.org/web/\*/psionicsonline.net*) 
 tassadar-archive.net | [Link](https://web.archive.org/web/\*/tassadar-archive.net*) | In progress. See issue [#002](https://github.com/libhazeltine/libhazeltine/issues/2).
 pyroatpsi.wordpress.com/ | [Link](https://web.archive.org/web/\*/pyroatpsi.wordpress.com*)
 thepsiworld.freehostia.com/ | [Link](https://web.archive.org/web/\*/http://thepsiworld.freehostia.com/*) | 
+freewebs.com/jedikaren | [Link](https://web.archive.org/web/*/http://freewebs.com/jedikaren/*) | 
 astateofmind.eu/ | [Link](https://web.archive.org/web/\*/astateofmind.eu/*) | 
 psc-online.org | [Link](https://web.archive.org/web/\*/psc-online.org*) | This group is allegedly still active behind closed doors. Their site is still live, but I do not recall seeing anything interesting on it.
 psionic.150m.com | [Link](https://web.archive.org/web/\*/psionic.150m.com/*) | 
