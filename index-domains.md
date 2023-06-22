@@ -3,12 +3,12 @@
 
 | Domain | WebArchive URL list link | Notes |
 | ------ | ------------------------ | ------|
-psilinks.net | [Link](https://web.archive.org/web/\*/psilinks.net*) | Indexed.
-psistudies.net | [Link](https://web.archive.org/web/\*/psistudies.net*) | Indexed.
-psionicsonline.net | [Link](https://web.archive.org/web/\*/psionicsonline.net*) | Indexed.
+psilinks.net | [Link](https://web.archive.org/web/\*/psilinks.net*) | ✅ Indexed.
+psistudies.net | [Link](https://web.archive.org/web/\*/psistudies.net*) | ✅ Indexed.
+psionicsonline.net | [Link](https://web.archive.org/web/\*/psionicsonline.net*) | ✅ Indexed.
 “psiclub”  | Unknown, needs investigating | 
-tassadar-archive.net | [Link](https://web.archive.org/web/\*/tassadar-archive.net*) | Indexed.
-psionicvisionaries.blogspot.com | [Link](https://http://psionicvisionaries.blogspot.com/) | Still live, not on Wayback however. See link.
+tassadar-archive.net | [Link](https://web.archive.org/web/\*/tassadar-archive.net*) | ✅ Indexed.
+psionicvisionaries.blogspot.com | [Link](https://http://psionicvisionaries.blogspot.com/) | ✅ Still live, not on Wayback however. See link.
 psionguild.org | [Link](https://web.archive.org/web/*/psionguild.org*) | [Still live](https://www.thepsionguild.org), only partially archived.
 pyroatpsi.wordpress.com/ | [Link](https://web.archive.org/web/\*/pyroatpsi.wordpress.com*)
 thepsiworld.freehostia.com/ | [Link](https://web.archive.org/web/\*/http://thepsiworld.freehostia.com/*) | 
