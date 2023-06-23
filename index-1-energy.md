@@ -6,6 +6,7 @@
 | psistudies.net | Energy Manipulation and Psiballs \<Brandon R> | https://web.archive.org/web/20071223145443/http://psistudies.net:80/_articles_backup/basic-psi-manip.html | 
 | psistudies.net | PsiBall Creation by \<PsiGnome> | https://web.archive.org/web/20071205095307/http://psistudies.net:80/_articles_backup/psiballcreation-psignome.html |
 | psionicsonline.net\/forums | Energy manipulation Practice. \<_forum_> | https://web.archive.org/web/20080927204311/http://www.psionicsonline.net:80/forums/energy-manipulation-practice | 
+| psionguild.org/forums | Awareness Exercise \<_forums_> | https://web.archive.org/web/20090105175233/http://www.psionguild.org/forums/archive/index.php/t-1761.html | 
 | psionicsonline.net | Field Refinement \<Archaic\[UPC]> | https://web.archive.org/web/20091117130608/http://www.psionicsonline.net:80/article/field-refinement-archaic-upc | 
 | psionicsonline.net | Basic Energy Management \<Innerfire> | https://web.archive.org/web/20090827005702/http://www.psionicsonline.net:80/article/basic-energy-management-innerfire | 
 
