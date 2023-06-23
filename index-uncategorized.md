@@ -29,3 +29,4 @@
 | youtube.com \[NOT ARCHIVED] | Science and the taboo of psi \<Dean Radin> | https://youtube.com/watch?v=qw_O9Qiwqew | 
 | psionicvisionaries.blogspot.com | Psionics, How To Get Better Without Practice | https://web.archive.org/web/20230622030743/http://psionicvisionaries.blogspot.com/2008/02/psionics-how-to-get-better-without.html | 
 | psionguild.org | Various Exercises for Development of Psi Abilities \<No Author> | https://web.archive.org/web/20071030124053/http://www.psionguild.org/exercises.html
+| psionguild.org | Introduction to Psionics and Dealing with Skeptics \<KMiller> | https://web.archive.org/web/20110706052309/http://psionguild.org:80/education/articles/foundation/introduction-to-psionics-and-dealing-with-skeptics/ |

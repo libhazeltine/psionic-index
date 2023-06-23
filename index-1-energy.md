@@ -3,6 +3,7 @@
 ## Introduction
 | Source | Name \<Author> | Link | Notes |
 | ------ | ---- | ---- | ----- |
+| psionguild.org | Grounding and Centering \<Tetra> | https://web.archive.org/web/20110705064330/http://psionguild.org:80/education/articles/foundation/grounding-centering |
 | psistudies.net | Energy Manipulation and Psiballs \<Brandon R> | https://web.archive.org/web/20071223145443/http://psistudies.net:80/_articles_backup/basic-psi-manip.html | 
 | psistudies.net | PsiBall Creation by \<PsiGnome> | https://web.archive.org/web/20071205095307/http://psistudies.net:80/_articles_backup/psiballcreation-psignome.html |
 | psionicsonline.net\/forums | Energy manipulation Practice. \<_forum_> | https://web.archive.org/web/20080927204311/http://www.psionicsonline.net:80/forums/energy-manipulation-practice | 
@@ -51,6 +52,7 @@
 | psionicsonline.net | \[PART 2] Different Views: Physical to Non-Physical: E.S.P \<Float> | https://web.archive.org/web/20111212202030/http://www.psionicsonline.net/different-views-physical-to-non-physical-esp-part-2/ |
 | psionicsonline.net | Beneath the Construct \<Lesenthe> | https://web.archive.org/web/20111109040153/http://www.psionicsonline.net:80/beneath-the-construct-revised/ |
 | psionicsonline.net/forums | Intuition \<_forum_> | https://web.archive.org/web/20080917081307/http://www.psilinks.net:80/forum/index.php/topic,97.0.html | 
+| psionguild.org | Scanning Constructs and Energy \<Vladimir> | https://web.archive.org/web/20110706063911/http://psionguild.org:80/education/articles/constructs/scanning-constructs-energy/ | 
 
 ## Healing
 | Source | Name  \<Author> | Link | Notes |
