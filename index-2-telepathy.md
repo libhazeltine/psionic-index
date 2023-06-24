@@ -13,7 +13,8 @@
 | psionicsonline.net | Psionic Signatures \<Lidless_i \[UPC]> | https://web.archive.org/web/20091117130611/http://www.psionicsonline.net:80/article/psionic-signatures-lidlessi-upc
 | psionicsonline.net | The Basics of Telepathy \<Neveza> | https://web.archive.org/web/20081013023705/http://www.psionicsonline.net/content/basics-telepathy-neveza |
 | psionicsonline.net | The Basics of Telepathy \<Sheepking \[UPC]> | https://web.archive.org/web/20091119002551/http://www.psionicsonline.net:80/article/basics-telepathy-sheepking-upc | 
-
+| psionguild.org | The Telepathy Manual \<Keith Miller, Myriad, Rainsong> | https://web.archive.org/web/20120214154249/http://psionguild.org:80/education/articles/mental-abilities/telepathy-manual | 
+| psionguild.org | How To Create Psionic Links \<Winged Wolf> | https://web.archive.org/web/20120215121441/http://psionguild.org:80/education/articles/foundation/how-to-create-psionic-links | 
 
 # Non-informational forum threads 
 | Source | Name | Link | Notes |

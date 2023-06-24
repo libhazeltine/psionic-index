@@ -17,6 +17,7 @@
 | psistudies.net | Charging by \<3k> | https://web.archive.org/web/20071223145448/http://psistudies.net:80/_articles_backup/charging-3k.html | 
 | psistudies.net | Mind Feeding \<Mordak> | https://web.archive.org/web/20071205095247/http://psistudies.net:80/_articles_backup/mindfeeding-mordak.html |
 | psionicsonline.net | Gathering Psi \<Roger Demis> | https://web.archive.org/web/20080313094759/http://www.psionicsonline.net/gatheringpsiroger |
+| psionguild.org | How To Charge \<Winged Wolf> | https://web.archive.org/web/20120214163626/http://psionguild.org:80/education/articles/foundation/how-to-charge | 
 
 ## Constructs and Programming
 | Source | Name  \<Author> | Link | Notes |
@@ -37,10 +38,12 @@
 | ------ | ---- | ---- | ----- |
 | psionicsonline.net | Basic Shielding Techniques \<Magicdood> | https://web.archive.org/web/20080411092818/http://www.psionicsonline.net/basicshieldingtechniques | 
 | psionicsonline.net | Shielding 101 \<Zeus> | https://web.archive.org/web/20091117130616/http://www.psionicsonline.net:80/article/shielding-101-zeus | 
+| psionguild.org | Elementary Psionic Shielding \<Vladimir> | https://web.archive.org/web/20120214163811/http://psionguild.org:80/education/articles/defense-combat/elementary-psionic-shielding | 
 
 ## Perception
 | Source | Name  \<Author> | Link | Notes |
 | ------ | ---- | ---- | ----- |
+| psionguild.org | Energy Sensing \<Winged Wolf> | https://web.archive.org/web/20120209204136/http://psionguild.org:80/education/articles/foundation/energy-sensing |
 | psionicsonline.net | Awareness and Sensitivity \<Intrepid> | https://web.archive.org/web/20111212202032/http://www.psionicsonline.net/awareness-and-sensitivity/ | 
 | psionicsonline.net | Analytic Overlay \<JoeRoger \[UPC]> | https://web.archive.org/web/20091117120457/http://www.psionicsonline.net:80/article/analytic-overlay-joeroger-upc |
 | psionicsonline.net | The Basics of Awareness and Sensitivity \<Neveza> | https://web.archive.org/web/20080913194911/http://www.psionicsonline.net:80/content/basics-awareness-and-sensitivity-neveza |
@@ -53,6 +56,8 @@
 | psionicsonline.net | Beneath the Construct \<Lesenthe> | https://web.archive.org/web/20111109040153/http://www.psionicsonline.net:80/beneath-the-construct-revised/ |
 | psionicsonline.net/forums | Intuition \<_forum_> | https://web.archive.org/web/20080917081307/http://www.psilinks.net:80/forum/index.php/topic,97.0.html | 
 | psionguild.org | Scanning Constructs and Energy \<Vladimir> | https://web.archive.org/web/20110706063911/http://psionguild.org:80/education/articles/constructs/scanning-constructs-energy/ | 
+| psionguild.org | Awareness Exercise \<Winged Wolf> | https://web.archive.org/web/20120215121420/http://psionguild.org:80/education/articles/foundation/awareness-exercise | 
+| psionguild.org | Drop and Drift Method \<KMiller> | https://web.archive.org/web/20120215145746/http://psionguild.org:80/education/articles/physical-abilities/drop-drift-method/ |
 
 ## Healing
 | Source | Name  \<Author> | Link | Notes |
