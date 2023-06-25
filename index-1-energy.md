@@ -10,6 +10,7 @@
 | psionguild.org/forums | Awareness Exercise \<_forums_> | https://web.archive.org/web/20090105175233/http://www.psionguild.org/forums/archive/index.php/t-1761.html | 
 | psionicsonline.net | Field Refinement \<Archaic\[UPC]> | https://web.archive.org/web/20091117130608/http://www.psionicsonline.net:80/article/field-refinement-archaic-upc | 
 | psionicsonline.net | Basic Energy Management \<Innerfire> | https://web.archive.org/web/20090827005702/http://www.psionicsonline.net:80/article/basic-energy-management-innerfire | 
+| psionguild.org | Basic Psiballs \<Ally> | https://web.archive.org/web/20130122212441/http://psionguild.org:80/education/articles/constructs/basic-psiballs | 
 
 ## Charging and Cultivation
 | Source | Name  \<Author> | Link | Notes |
@@ -32,6 +33,9 @@
 | psionicsonline.net | Binding Constructs to Objects \<Shadowarrior13 \[UPC]> | https://web.archive.org/web/20091117130600/http://www.psionicsonline.net:80/article/binding-constructs-objects-shadowarrior13-upc | 
 | psionicsonline.net\/forums | Interesting area of effect enchantment or programming, in your private space \<_forum_> | https://web.archive.org/web/20110524030000/http://www.psionicsonline.net:80/forums/index.php/topic,2868.0.html | 
 | psionicsonline.net | Advanced Energy Manipulation and Programming \<Hech\[UPC]> | https://web.archive.org/web/20111212201947/http://www.psionicsonline.net/advanced-energy-manipulation-and-programming-upc/ |
+| psionguild.org | Construct Creation \<Winged Wolf> | https://web.archive.org/web/20130122212453/http://psionguild.org:80/education/articles/constructs/construct-creation | 
+| psionguild.org | Basic Construct Design and Programming \<Anayan> | https://web.archive.org/web/20130124030743/http://psionguild.org:80/education/articles/constructs/basic-construct-design-programming | 
+| psionguild.org | 
 
 ## Shielding
 | Source | Name  \<Author> | Link | Notes |
@@ -39,6 +43,7 @@
 | psionicsonline.net | Basic Shielding Techniques \<Magicdood> | https://web.archive.org/web/20080411092818/http://www.psionicsonline.net/basicshieldingtechniques | 
 | psionicsonline.net | Shielding 101 \<Zeus> | https://web.archive.org/web/20091117130616/http://www.psionicsonline.net:80/article/shielding-101-zeus | 
 | psionguild.org | Elementary Psionic Shielding \<Vladimir> | https://web.archive.org/web/20120214163811/http://psionguild.org:80/education/articles/defense-combat/elementary-psionic-shielding | 
+| psionguild.org | Shielding <Winged Wolf, Anka> | https://web.archive.org/web/20131011134539/http://psionguild.org/education/articles/defense-combat/shielding/ | 
 
 ## Perception
 | Source | Name  \<Author> | Link | Notes |
@@ -65,7 +70,10 @@
 | psionicsonline.net | The Basics of Healing \<Neveza> | https://web.archive.org/web/20080415212124/http://www.psionicsonline.net/basicsofhealingneveza | 
 | psistudies.net | Healing Technique \<Psi_Ninja> | https://web.archive.org/web/20071205095236/http://psistudies.net:80/_articles_backup/healing_psininja.html | 
 
-## Advanced
+## Construct Applications
 | Source | Name  \<Author> | Link | Notes |
 | ------ | ---- | ---- | ----- |
+| psionguild.org | Psionic Construct Applications \<KMiller> | https://web.archive.org/web/20130122212516/http://psionguild.org:80/education/articles/constructs/psionic-construct-applications | 
+| psionguild.org | Shopping Mall Energy Node \<Winged Wolf> | https://web.archive.org/web/20130124030836/http://psionguild.org:80/education/articles/constructs/shopping-mall-energy-node | 
+| psionguild.org | Wards \<Anka> | https://web.archive.org/web/20131011115833/http://psionguild.org/education/articles/defense-combat/wards/ |
 | psionicsonline.net | Three Easy Steps to: Flaring \<Jynx493> | https://web.archive.org/web/20080411092822/http://www.psionicsonline.net:80/flaring | 

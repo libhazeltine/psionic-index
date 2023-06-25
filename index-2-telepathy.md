@@ -23,3 +23,4 @@
 | psilinks.net/forum | Telepathy With Animals | https://web.archive.org/web/20080307025152/http://www.psilinks.net:80/forum/index.php/topic,204.0.html | 
 | psilinks.net/forum | Telepathic Illusion or what? | https://web.archive.org/web/20081005173939/http://www.psilinks.net:80/forum/index.php/topic,472.0.html | 
 | psilinks.net/forum | \[Ethics of] Mind control | https://web.archive.org/web/20080917081731/http://www.psilinks.net:80/forum/index.php/topic,50.0.html | 
+| psionguild.com/forums | Telepathy and Empathy...with pets | https://web.archive.org/web/20140221140348/http://psionguild.org:80/forums/archive/index.php/t-4843.html
