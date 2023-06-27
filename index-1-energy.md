@@ -35,7 +35,6 @@
 | psionicsonline.net | Advanced Energy Manipulation and Programming \<Hech\[UPC]> | https://web.archive.org/web/20111212201947/http://www.psionicsonline.net/advanced-energy-manipulation-and-programming-upc/ |
 | psionguild.org | Construct Creation \<Winged Wolf> | https://web.archive.org/web/20130122212453/http://psionguild.org:80/education/articles/constructs/construct-creation | 
 | psionguild.org | Basic Construct Design and Programming \<Anayan> | https://web.archive.org/web/20130124030743/http://psionguild.org:80/education/articles/constructs/basic-construct-design-programming | 
-| psionguild.org | 
 
 ## Shielding
 | Source | Name  \<Author> | Link | Notes |
