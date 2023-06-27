@@ -8,7 +8,7 @@
 | psistudies.net | Psychokinesis Manual \<Apollo> | https://web.archive.org/web/20071204214140/http://psistudies.net:80/_articles_backup/psychokinesisManual_Apollo.html | Combines useful and useless. | 
 | psionicsonline.net | Floats Telekinesis Article \<Float> | https://web.archive.org/web/20111212201651/http://www.psionicsonline.net/floats-telekinesis-article/
 | psionicsonline.net | Telekinesis Techniques \<JoeT> | https://web.archive.org/web/20111212201650/http://www.psionicsonline.net/telekinesis-techniques/ | 
-
+| psionguild.org/forums | TK Technique for Beginners \<_forums_> | https://web.archive.org/web/20140223011236/http://psionguild.org:80/forums/archive/index.php/t-7329.html | 
 
 ## Advancing your practice
 | psionicsonline.net/forums | Having Trouble progressing? \<_forum_> | https://web.archive.org/web/20080508214048/http://www.psionicsonline.net:80/forums/index.php/topic,450.0.html |

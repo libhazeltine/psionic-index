@@ -16,11 +16,14 @@
 | psionguild.org | The Telepathy Manual \<Keith Miller, Myriad, Rainsong> | https://web.archive.org/web/20120214154249/http://psionguild.org:80/education/articles/mental-abilities/telepathy-manual | 
 | psionguild.org | How To Create Psionic Links \<Winged Wolf> | https://web.archive.org/web/20120215121441/http://psionguild.org:80/education/articles/foundation/how-to-create-psionic-links | 
 
-# Non-informational forum threads 
+# Other 
 | Source | Name | Link | Notes |
 | ------ | ---- | ---- | ----- |
+| psionguild.org/forums | Dreamwalking Question \<_forums_> | https://web.archive.org/web/20140223155048/http://psionguild.org:80/forums/archive/index.php/t-2615.html | 
 | psionicsonline.net/forums | Empathic chain? | https://web.archive.org/web/20080917050453/http://www.psionicsonline.net:80/forums/empathic-chain | 
 | psilinks.net/forum | Telepathy With Animals | https://web.archive.org/web/20080307025152/http://www.psilinks.net:80/forum/index.php/topic,204.0.html | 
 | psilinks.net/forum | Telepathic Illusion or what? | https://web.archive.org/web/20081005173939/http://www.psilinks.net:80/forum/index.php/topic,472.0.html | 
 | psilinks.net/forum | \[Ethics of] Mind control | https://web.archive.org/web/20080917081731/http://www.psilinks.net:80/forum/index.php/topic,50.0.html | 
-| psionguild.com/forums | Telepathy and Empathy...with pets | https://web.archive.org/web/20140221140348/http://psionguild.org:80/forums/archive/index.php/t-4843.html
+| psionguild.org/forums | Telepathy and Empathy...with pets | https://web.archive.org/web/20140221140348/http://psionguild.org:80/forums/archive/index.php/t-4843.html
+| psionguild.org/forums | Physical Possession \<_forums_> | https://web.archive.org/web/20140224020657/http://psionguild.org:80/forums/archive/index.php/t-7637.html
+
