@@ -12,8 +12,9 @@ psionicsonline.net | [Link](https://web.archive.org/web/\*/psionicsonline.net*) 
 tassadar-archive.net | [Link](https://web.archive.org/web/\*/tassadar-archive.net*) | ✅ Indexed.
 psionicvisionaries.blogspot.com | [Link](https://http://psionicvisionaries.blogspot.com/) | ✅ \| Still live, not on Wayback however. See link.
 psionguild.org | [Link](https://web.archive.org/web/*/psionguild.org*) | ✅ \| [Still live](https://www.thepsionguild.org), only partially archived.
-pyroatpsi.wordpress.com/ | [Link](https://web.archive.org/web/\*/pyroatpsi.wordpress.com*)
+pyroatpsi.wordpress.com/ | [Link](https://web.archive.org/web/\*/pyroatpsi.wordpress.com*) | ✅ \| Nothing interesting.
 thepsiworld.freehostia.com/ | [Link](https://web.archive.org/web/\*/http://thepsiworld.freehostia.com/*) | 
+thepsiworld.proboards37.com/ | [Link](https://web.archive.org/web\/*/http://thepsiworld.proboards37.com/*)
 freewebs.com/jedikaren | [Link](https://web.archive.org/web/*/http://freewebs.com/jedikaren/*) | 
 astateofmind.eu/ | [Link](https://web.archive.org/web/\*/astateofmind.eu/*) | 
 psipog | N/A | Archived in a zip file, accessible [here](https://web.archive.org/web/20130321035504/http://www.psipog.net/) |
