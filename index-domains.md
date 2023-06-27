@@ -1,5 +1,7 @@
 # Root Domains
- Starting points for searching for articles/threads to be considered noteworthy for archival. See workflow documentation (TBD) for what to do with these.
+**This is the admin's TODO list.**
+You're free to explore these, but none of the content has been reviewed or filtered in any way.
+Inclusion on this list is not, in any way, an endorsement of any kind. (That's what the other indexes are for.)
 
 | Domain | WebArchive URL list link | Notes |
 | ------ | ------------------------ | ------|
@@ -14,6 +16,7 @@ pyroatpsi.wordpress.com/ | [Link](https://web.archive.org/web/\*/pyroatpsi.wordp
 thepsiworld.freehostia.com/ | [Link](https://web.archive.org/web/\*/http://thepsiworld.freehostia.com/*) | 
 freewebs.com/jedikaren | [Link](https://web.archive.org/web/*/http://freewebs.com/jedikaren/*) | 
 astateofmind.eu/ | [Link](https://web.archive.org/web/\*/astateofmind.eu/*) | 
+psipog | N/A | Archived in a zip file, accessible [here](https://web.archive.org/web/20130321035504/http://www.psipog.net/) |
 psc-online.org | [Link](https://web.archive.org/web/\*/psc-online.org*) | This group is allegedly still active behind closed doors. Their site is still live, but I do not recall seeing anything interesting on it.
 psionic.150m.com | [Link](https://web.archive.org/web/\*/psionic.150m.com/*) | 
 ppsociety.com | [Link](https://web.archive.org/web/\*/www.ppsociety.com/*) | 
