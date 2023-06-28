@@ -14,7 +14,7 @@ psionicvisionaries.blogspot.com | [Link](https://http://psionicvisionaries.blogs
 psionguild.org | [Link](https://web.archive.org/web/*/psionguild.org*) | ✅ \| [Still live](https://www.thepsionguild.org), only partially archived.
 pyroatpsi.wordpress.com/ | [Link](https://web.archive.org/web/\*/pyroatpsi.wordpress.com*) | ✅ \| Nothing interesting.
 thepsiworld.freehostia.com/ | [Link](https://web.archive.org/web/\*/http://thepsiworld.freehostia.com/*) |  ✅ Indexed.
-psiworld.psilinks.net | [Link](https://web.archive.org/web/*/http://psiworld.psilinks.net)
+psiworld.psilinks.net | [Link](https://web.archive.org/web/*/http://psiworld.psilinks.net) |  ✅ Indexed.
 thepsiworld.proboards37.com/ | [Link](https://web.archive.org/web\/*/http://thepsiworld.proboards37.com/*)
 artofpsionics.proboards56.com | [Link](https://web.archive.org/web/*/artofpsionics.proboards56.com*)
 freewebs.com/jedikaren | [Link](https://web.archive.org/web/*/http://freewebs.com/jedikaren/*) | 
