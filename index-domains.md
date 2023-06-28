@@ -13,7 +13,8 @@ tassadar-archive.net | [Link](https://web.archive.org/web/\*/tassadar-archive.ne
 psionicvisionaries.blogspot.com | [Link](https://http://psionicvisionaries.blogspot.com/) | ✅ \| Still live, not on Wayback however. See link.
 psionguild.org | [Link](https://web.archive.org/web/*/psionguild.org*) | ✅ \| [Still live](https://www.thepsionguild.org), only partially archived.
 pyroatpsi.wordpress.com/ | [Link](https://web.archive.org/web/\*/pyroatpsi.wordpress.com*) | ✅ \| Nothing interesting.
-thepsiworld.freehostia.com/ | [Link](https://web.archive.org/web/\*/http://thepsiworld.freehostia.com/*) | 
+thepsiworld.freehostia.com/ | [Link](https://web.archive.org/web/\*/http://thepsiworld.freehostia.com/*) |  ✅ Indexed.
+psiworld.psilinks.net | [Link](https://web.archive.org/web/*/http://psiworld.psilinks.net)
 thepsiworld.proboards37.com/ | [Link](https://web.archive.org/web\/*/http://thepsiworld.proboards37.com/*)
 artofpsionics.proboards56.com | [Link](https://web.archive.org/web/*/artofpsionics.proboards56.com*)
 freewebs.com/jedikaren | [Link](https://web.archive.org/web/*/http://freewebs.com/jedikaren/*) | 
@@ -30,7 +31,7 @@ psipalatium.com/ | [Link](https://web.archive.org/web/\*/http://www.psipalatium.
 psinet.proboards107.com/ | [Link](https://web.archive.org/web/\*/http://psinet.proboards107.com/*) | 
 psiontemple.proboards.com/ | [Link](https://web.archive.org/web/\*/http://psiontemple.proboards.com/*) | 
 tkforums.com/ | [Link](https://web.archive.org/web/\*/http://www.tkforums.com/*) | 
-hmiripsion.googlepages.com/* | [Link](https://web.archive.org/web/\*/http://miripsion.googlepages.com/*) | 
+miripsion.googlepages.com/* | [Link](https://web.archive.org/web/\*/http://miripsion.googlepages.com/*) | 
 psionslair.co.cc/ | [Link](https://web.archive.org/web/\*/http://psionslair.co.cc/*) | 
 psionicsinstitute.org/ | [Link](https://web.archive.org/web/*/https://www.psionicsinstitute.org*) | Still live as of 06/2023; https://www.psionicsinstitute.org/ 
 shiftedperspectives.net | [Link](https://web.archive.org/web/*/shiftedperspectives.net*) | 
