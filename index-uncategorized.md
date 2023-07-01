@@ -31,6 +31,7 @@
 | Source | Name \<Author> | Link | Notes |
 | ------ | ---- | ---- | ----- |
 | youtube.com \[NOT ARCHIVED] | Science and the taboo of psi \<Dean Radin> | https://youtube.com/watch?v=qw_O9Qiwqew | 
+| thepsiworld.proboards37.com | Precognition - Recognizing and Inducing \<xpwarrior3> | https://web.archive.org/web/20061107144959/http://thepsiworld.proboards37.com:80/index.cgi?action=display&amp;board=foreseeing&amp;thread=1132975156&amp;page=1 | 
 | psionicvisionaries.blogspot.com | Psionics, How To Get Better Without Practice | https://web.archive.org/web/20230622030743/http://psionicvisionaries.blogspot.com/2008/02/psionics-how-to-get-better-without.html | 
 | psionguild.org | Various Exercises for Development of Psi Abilities \<No Author> | https://web.archive.org/web/20120214171930/http://psionguild.org:80/education/articles/foundation/various-exercises-for-development
 | psionguild.org | Introduction to Psionics and Dealing with Skeptics \<KMiller> | https://web.archive.org/web/20110706052309/http://psionguild.org:80/education/articles/foundation/introduction-to-psionics-and-dealing-with-skeptics/ |
