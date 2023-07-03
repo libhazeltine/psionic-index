@@ -36,3 +36,4 @@ psionslair.co.cc/ | [Link](https://web.archive.org/web/\*/http://psionslair.co.c
 psionicsinstitute.org/ | [Link](https://web.archive.org/web/*/https://www.psionicsinstitute.org*) | Still live as of 06/2023; https://www.psionicsinstitute.org/ 
 shiftedperspectives.net | [Link](https://web.archive.org/web/*/shiftedperspectives.net*) | 
 tkforums.com | [Link](https://web.archive.org/web/*/tkforums.com*) | 
+freewebs.com/psionicstudents | [Link](https://web.archive.org/web/*/http://www.freewebs.com/psionicstudents/*) | 

@@ -26,6 +26,7 @@
 | psionicsonline.net | Out-of-Body Experiences: The Manual \<Metalforever> | https://web.archive.org/web/20091119002600/http://www.psionicsonline.net:80/article/out-body-experiences-manual-metalforever |
 | psionguild.org | Drop and Drift Method \<KMiller> | https://web.archive.org/web/20120215145746/http://psionguild.org:80/education/articles/physical-abilities/drop-drift-method/ |
 | thepsiworld.proboards37.com | The Tibetan Exercise of Paradox \<sash> | https://web.archive.org/web/20061024202940/http://thepsiworld.proboards37.com:80/index.cgi?board=astr&action=display&thread=1144183943
+| thepsiworld.proboards37.com | A few methods for AP \<Darin Rosewood> | https://web.archive.org/web/20070527050112/http://thepsiworld.proboards37.com:80/index.cgi?board=astr&action=display&thread=1178480134 |
 
 ## Other
 | Source | Name \<Author> | Link | Notes |
