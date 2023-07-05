@@ -62,6 +62,7 @@
 | psionguild.org | Scanning Constructs and Energy \<Vladimir> | https://web.archive.org/web/20110706063911/http://psionguild.org:80/education/articles/constructs/scanning-constructs-energy/ | 
 | psionguild.org | Awareness Exercise \<Winged Wolf> | https://web.archive.org/web/20120215121420/http://psionguild.org:80/education/articles/foundation/awareness-exercise | 
 | psionguild.org | Drop and Drift Method \<KMiller> | https://web.archive.org/web/20120215145746/http://psionguild.org:80/education/articles/physical-abilities/drop-drift-method/ |
+| thepsiworld.proboards37.com | a little game \<GEOvanne> | https://web.archive.org/web/20070526025853/http://thepsiworld.proboards37.com:80/index.cgi?board=foreseeing&action=display&thread=1169485075 |
 
 ## Healing
 | Source | Name  \<Author> | Link | Notes |
