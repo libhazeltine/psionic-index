@@ -43,6 +43,7 @@
 | psionicsonline.net | Shielding 101 \<Zeus> | https://web.archive.org/web/20091117130616/http://www.psionicsonline.net:80/article/shielding-101-zeus | 
 | psionguild.org | Elementary Psionic Shielding \<Vladimir> | https://web.archive.org/web/20120214163811/http://psionguild.org:80/education/articles/defense-combat/elementary-psionic-shielding | 
 | psionguild.org | Shielding <Winged Wolf, Anka> | https://web.archive.org/web/20131011134539/http://psionguild.org/education/articles/defense-combat/shielding/ | 
+| thepsiworld.proboards37.com | Consecration \[Shielding technique] \<Intrigue> | https://web.archive.org/web/20070527043733/http://thepsiworld.proboards37.com:80/index.cgi?board=shie&action=display&thread=1175316762
 
 ## Perception
 | Source | Name  \<Author> | Link | Notes |
