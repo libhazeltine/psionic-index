@@ -19,6 +19,7 @@
 | psistudies.net | Mind Feeding \<Mordak> | https://web.archive.org/web/20071205095247/http://psistudies.net:80/_articles_backup/mindfeeding-mordak.html |
 | psionicsonline.net | Gathering Psi \<Roger Demis> | https://web.archive.org/web/20080313094759/http://www.psionicsonline.net/gatheringpsiroger |
 | psionguild.org | How To Charge \<Winged Wolf> | https://web.archive.org/web/20120214163626/http://psionguild.org:80/education/articles/foundation/how-to-charge | 
+| thepsiworld.proboards37.com | Gathering \<_forums_> | https://web.archive.org/web/20070527044113/http://thepsiworld.proboards37.com:80/index.cgi?board=gpsi&action=display&thread=1177624130
 
 ## Constructs and Programming
 | Source | Name  \<Author> | Link | Notes |
