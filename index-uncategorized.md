@@ -36,3 +36,4 @@
 | psionicvisionaries.blogspot.com | Psionics, How To Get Better Without Practice | https://web.archive.org/web/20230622030743/http://psionicvisionaries.blogspot.com/2008/02/psionics-how-to-get-better-without.html | 
 | psionguild.org | Various Exercises for Development of Psi Abilities \<No Author> | https://web.archive.org/web/20120214171930/http://psionguild.org:80/education/articles/foundation/various-exercises-for-development
 | psionguild.org | Introduction to Psionics and Dealing with Skeptics \<KMiller> | https://web.archive.org/web/20110706052309/http://psionguild.org:80/education/articles/foundation/introduction-to-psionics-and-dealing-with-skeptics/ |
+| totse.com | Psionic Training Guide \<Xirokoto> | https://web.archive.org/web/20070520064617/http://www.totse.com/en/fringe/dreams_auras_astral_projection/psionictrainin191367.html | 
