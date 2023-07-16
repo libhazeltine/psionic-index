@@ -14,5 +14,4 @@ While the communities of those forums, and the people who ran those blogs, are a
 
 Suggest content for the library -> https://www.github.com/libhazeltine/libhazeltine/issues/new?labels=content-suggestion
 
-Interested in a potential chat server? Tell me -> https://www.github.com/libhazeltine/libhazeltine/issues/new?labels=chatroom-interest-request
-
+Join the Hazeltine Library discord -> https://www.discord.com/invite/u6vazqaBT4
