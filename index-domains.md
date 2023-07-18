@@ -15,7 +15,7 @@ psionguild.org | [Link](https://web.archive.org/web/*/psionguild.org*) | ✅ \| 
 pyroatpsi.wordpress.com/ | [Link](https://web.archive.org/web/\*/pyroatpsi.wordpress.com*) | ✅ \| Nothing interesting.
 thepsiworld.freehostia.com/ | [Link](https://web.archive.org/web/\*/http://thepsiworld.freehostia.com/*) |  ✅ Indexed.
 psiworld.psilinks.net | [Link](https://web.archive.org/web/*/http://psiworld.psilinks.net) |  ✅ Indexed.
-thepsiworld.proboards37.com/ | [Link](https://web.archive.org/web\/*/http://thepsiworld.proboards37.com/*)
+thepsiworld.proboards37.com/ | [Link](https://web.archive.org/web\/*/http://thepsiworld.proboards37.com/*)|  ✅ Indexed.
 artofpsionics.proboards56.com | [Link](https://web.archive.org/web/*/artofpsionics.proboards56.com*)
 freewebs.com/jedikaren | [Link](https://web.archive.org/web/*/http://freewebs.com/jedikaren/*) | 
 astateofmind.eu/ | [Link](https://web.archive.org/web/\*/astateofmind.eu/*) | 
