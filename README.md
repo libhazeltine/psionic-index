@@ -1,6 +1,6 @@
 # [The Hazeltine Library](https://github.com/libhazeltine/libhazeltine)
 
-*Version 4, Project phase A*
+*Version 5, Project phase A*
 
 A curated collection of content from psionics message boards from the Wayback Machine. Psionics is defined as the use of psychic abilities and energies in a context independent of wider spirituality.
 
