@@ -66,12 +66,14 @@
 | psionguild.org | Drop and Drift Method \<KMiller> | https://web.archive.org/web/20120215145746/http://psionguild.org:80/education/articles/physical-abilities/drop-drift-method/ |
 | thepsiworld.proboards37.com | a little game \<GEOvanne> | https://web.archive.org/web/20070526025853/http://thepsiworld.proboards37.com:80/index.cgi?board=foreseeing&action=display&thread=1169485075 |
 | thepsiworld.proboards37.com | The way to scan explained \<durial> | https://web.archive.org/web/20071011182857/http://thepsiworld.proboards37.com:80/index.cgi?board=scan&action=display&thread=1190506343&page=1
+| artofpsionics.proboards.com | Sensing Article \<Stolide> | https://web.archive.org/web/20230721065555/https://artofpsionics.proboards.com/thread/143/sensing-article
 
 ## Healing
 | Source | Name  \<Author> | Link | Notes |
 | ------ | ---- | ---- | ----- |
 | psionicsonline.net | The Basics of Healing \<Neveza> | https://web.archive.org/web/20080415212124/http://www.psionicsonline.net/basicsofhealingneveza | 
 | psistudies.net | Healing Technique \<Psi_Ninja> | https://web.archive.org/web/20071205095236/http://psistudies.net:80/_articles_backup/healing_psininja.html | 
+| artofpsionics.proboards.com | Healing and Your Energy Body \<Spilledchemicals> | https://web.archive.org/web/20230721065053/https://artofpsionics.proboards.com/thread/63/healing-energy-body
 
 ## Construct Applications
 | Source | Name  \<Author> | Link | Notes |

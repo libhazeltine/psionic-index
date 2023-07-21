@@ -5,6 +5,7 @@
 | ------ | ---- | ---- | ----- |
 | psionicsonline.net/forums | Controlling Empathy \<_forum_> | https://web.archive.org/web/20080317090043/http://www.psionicsonline.net:80/forums/index.php/topic,280.0.html | 
 | psionicsonline.net | Empathic Broadcasting \<Jaci> | https://web.archive.org/web/20080916005724/http://www.psionicsonline.net:80/content/empathic-broadcasting-jaci | 
+| artofpsionics.proboards.com | Art of Emotions "Empathy" \<Drynal> | https://web.archive.org/web/20230721065906/https://artofpsionics.proboards.com/thread/89/art-emotions-empathy
 
 
 # Telepathy
