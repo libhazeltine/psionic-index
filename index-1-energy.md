@@ -11,6 +11,7 @@
 | psionicsonline.net | Field Refinement \<Archaic\[UPC]> | https://web.archive.org/web/20091117130608/http://www.psionicsonline.net:80/article/field-refinement-archaic-upc | 
 | psionicsonline.net | Basic Energy Management \<Innerfire> | https://web.archive.org/web/20090827005702/http://www.psionicsonline.net:80/article/basic-energy-management-innerfire | 
 | psionguild.org | Basic Psiballs \<Ally> | https://web.archive.org/web/20130122212441/http://psionguild.org:80/education/articles/constructs/basic-psiballs | 
+| freewebs.com/jedikaren | The First Psi Ball \<Maticolotto> | https://web.archive.org/web/20070510050059/http://www.freewebs.com:80/jedikaren/firstpsiball.htm
 
 ## Charging and Cultivation
 | Source | Name  \<Author> | Link | Notes |
@@ -20,6 +21,7 @@
 | psionicsonline.net | Gathering Psi \<Roger Demis> | https://web.archive.org/web/20080313094759/http://www.psionicsonline.net/gatheringpsiroger |
 | psionguild.org | How To Charge \<Winged Wolf> | https://web.archive.org/web/20120214163626/http://psionguild.org:80/education/articles/foundation/how-to-charge | 
 | thepsiworld.proboards37.com | Gathering \<_forums_> | https://web.archive.org/web/20070527044113/http://thepsiworld.proboards37.com:80/index.cgi?board=gpsi&action=display&thread=1177624130
+| freewebs.com/jedikaren | The Flow of Psi \<no credit given> | https://web.archive.org/web/20070529181721/http://www.freewebs.com:80/jedikaren/flow.htm
 
 ## Constructs and Programming
 | Source | Name  \<Author> | Link | Notes |
@@ -45,6 +47,7 @@
 | psionguild.org | Elementary Psionic Shielding \<Vladimir> | https://web.archive.org/web/20120214163811/http://psionguild.org:80/education/articles/defense-combat/elementary-psionic-shielding | 
 | psionguild.org | Shielding <Winged Wolf, Anka> | https://web.archive.org/web/20131011134539/http://psionguild.org/education/articles/defense-combat/shielding/ | 
 | thepsiworld.proboards37.com | Consecration \[Shielding technique] \<Intrigue> | https://web.archive.org/web/20070527043733/http://thepsiworld.proboards37.com:80/index.cgi?board=shie&action=display&thread=1175316762
+| freewebs.com/jedikaren | How-to-guide for shielding \<NeoPsychic> | https://web.archive.org/web/20071221045444/http://www.freewebs.com:80/jedikaren/shields.htm
 
 ## Perception
 | Source | Name  \<Author> | Link | Notes |

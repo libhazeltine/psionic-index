@@ -28,11 +28,22 @@
 | thepsiworld.proboards37.com | The Tibetan Exercise of Paradox \<sash> | https://web.archive.org/web/20061024202940/http://thepsiworld.proboards37.com:80/index.cgi?board=astr&action=display&thread=1144183943
 | thepsiworld.proboards37.com | A few methods for AP \<Darin Rosewood> | https://web.archive.org/web/20070527050112/http://thepsiworld.proboards37.com:80/index.cgi?board=astr&action=display&thread=1178480134 |
 
+## Precognition
+| Source | Name \<Author> | Link | Notes |
+| ------ | ---- | ---- | ----- |
+| thepsiworld.proboards37.com | Precognition - Recognizing and Inducing \<xpwarrior3> | https://web.archive.org/web/20061107144959/http://thepsiworld.proboards37.com:80/index.cgi?action=display&amp;board=foreseeing&amp;thread=1132975156&amp;page=1 | 
+| freewebs.com/jedikaren | To Tell or Not To Tell \<JediKaren> | https://web.archive.org/web/20070326180525/http://www.freewebs.com/jedikaren/totell.htm
+
+
+## Offense/Defense
+| Source | Name\<Author> | Link | Notes
+| ------ | ---- | ---- | ----- |
+| freewebs.com/jedikaren | Breaking Shields \<Garenzo> | https://web.archive.org/web/20071221031700/http://www.freewebs.com:80/jedikaren/breakshield.htm
+
 ## Other
 | Source | Name \<Author> | Link | Notes |
 | ------ | ---- | ---- | ----- |
 | youtube.com \[NOT ARCHIVED] | Science and the taboo of psi \<Dean Radin> | https://youtube.com/watch?v=qw_O9Qiwqew | 
-| thepsiworld.proboards37.com | Precognition - Recognizing and Inducing \<xpwarrior3> | https://web.archive.org/web/20061107144959/http://thepsiworld.proboards37.com:80/index.cgi?action=display&amp;board=foreseeing&amp;thread=1132975156&amp;page=1 | 
 | psionicvisionaries.blogspot.com | Psionics, How To Get Better Without Practice | https://web.archive.org/web/20230622030743/http://psionicvisionaries.blogspot.com/2008/02/psionics-how-to-get-better-without.html | 
 | psionguild.org | Various Exercises for Development of Psi Abilities \<No Author> | https://web.archive.org/web/20120214171930/http://psionguild.org:80/education/articles/foundation/various-exercises-for-development
 | psionguild.org | Introduction to Psionics and Dealing with Skeptics \<KMiller> | https://web.archive.org/web/20110706052309/http://psionguild.org:80/education/articles/foundation/introduction-to-psionics-and-dealing-with-skeptics/ |
