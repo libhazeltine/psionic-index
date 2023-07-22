@@ -49,7 +49,7 @@
 | thepsiworld.proboards37.com | Consecration \[Shielding technique] \<Intrigue> | https://web.archive.org/web/20070527043733/http://thepsiworld.proboards37.com:80/index.cgi?board=shie&action=display&thread=1175316762
 | freewebs.com/jedikaren | How-to-guide for shielding \<NeoPsychic> | https://web.archive.org/web/20071221045444/http://www.freewebs.com:80/jedikaren/shields.htm
 
-## Perception
+## Perception and Scanning
 | Source | Name  \<Author> | Link | Notes |
 | ------ | ---- | ---- | ----- |
 | psionguild.org | Energy Sensing \<Winged Wolf> | https://web.archive.org/web/20120209204136/http://psionguild.org:80/education/articles/foundation/energy-sensing |
@@ -70,6 +70,7 @@
 | thepsiworld.proboards37.com | a little game \<GEOvanne> | https://web.archive.org/web/20070526025853/http://thepsiworld.proboards37.com:80/index.cgi?board=foreseeing&action=display&thread=1169485075 |
 | thepsiworld.proboards37.com | The way to scan explained \<durial> | https://web.archive.org/web/20071011182857/http://thepsiworld.proboards37.com:80/index.cgi?board=scan&action=display&thread=1190506343&page=1
 | artofpsionics.proboards.com | Sensing Article \<Stolide> | https://web.archive.org/web/20230721065555/https://artofpsionics.proboards.com/thread/143/sensing-article
+| freewebs.com/jedikaren | Remote Viewing \<JediKaren> | https://web.archive.org/web/20071020184806/http://www.freewebs.com:80/jedikaren/rv.htm
 
 ## Healing
 | Source | Name  \<Author> | Link | Notes |
@@ -77,6 +78,9 @@
 | psionicsonline.net | The Basics of Healing \<Neveza> | https://web.archive.org/web/20080415212124/http://www.psionicsonline.net/basicsofhealingneveza | 
 | psistudies.net | Healing Technique \<Psi_Ninja> | https://web.archive.org/web/20071205095236/http://psistudies.net:80/_articles_backup/healing_psininja.html | 
 | artofpsionics.proboards.com | Healing and Your Energy Body \<Spilledchemicals> | https://web.archive.org/web/20230721065053/https://artofpsionics.proboards.com/thread/63/healing-energy-body
+| freewebs.com/jedikaren | About Healing \<JediKaren> | https://web.archive.org/web/20071022021149/http://freewebs.com:80/jedikaren/abouthealing.htm
+| freewebs.com/jedikaren | Healing Headaches \<JediKaren> | https://web.archive.org/web/20071022021154/http://freewebs.com:80/jedikaren/headaches.htm
+| freewebs.com/jedikaren | Numbing \<JediKaren> | https://web.archive.org/web/20071022021159/http://freewebs.com:80/jedikaren/numbing.htm
 
 ## Construct Applications
 | Source | Name  \<Author> | Link | Notes |

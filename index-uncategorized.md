@@ -9,7 +9,8 @@
 | psionicvisionaries.blogspot.com | Meditation \<Tantalus> | https://web.archive.org/web/20230622025434/http://psionicvisionaries.blogspot.com/2008/01/meditation.html |
 | psionguild.org | Getting in Focus \<PaleHorse> | https://web.archive.org/web/20120211192315/http://psionguild.org:80/education/articles/foundation/getting-in-focus/
 | psionguild.org | Improving Your Technique \<Maverick1> | https://web.archive.org/web/20120214154228/http://psionguild.org:80/education/articles/foundation/improving-your-technique | 
-| psionguild.org | Concentration Exercise \<Winged Wolf> | https://web.archive.org/web/20120215120646/http://psionguild.org:80/education/articles/foundation/concentration-excercise
+| psionguild.org | Concentration Exercise \<Winged Wolf> | https://web.archive.org/web/20120215120646/http://psionguild.org:80/education/articles/foundation/concentration-excercise |
+| freewebs.com/jedikaren | Staying on Topic \<JediKaren> | https://web.archive.org/web/20080102135227/http://www.freewebs.com:80/jedikaren/staying.htm |
 
 ## Common Problems
 | Source | Name \<Author> | Link | Notes |
@@ -27,6 +28,7 @@
 | psionguild.org | Drop and Drift Method \<KMiller> | https://web.archive.org/web/20120215145746/http://psionguild.org:80/education/articles/physical-abilities/drop-drift-method/ |
 | thepsiworld.proboards37.com | The Tibetan Exercise of Paradox \<sash> | https://web.archive.org/web/20061024202940/http://thepsiworld.proboards37.com:80/index.cgi?board=astr&action=display&thread=1144183943
 | thepsiworld.proboards37.com | A few methods for AP \<Darin Rosewood> | https://web.archive.org/web/20070527050112/http://thepsiworld.proboards37.com:80/index.cgi?board=astr&action=display&thread=1178480134 |
+| freewebs.com/jedikaren | About the Astral Plane \<JediKaren> | https://web.archive.org/web/20071222002836/http://www.freewebs.com:80/jedikaren/howtoap.htm
 
 ## Precognition
 | Source | Name \<Author> | Link | Notes |
