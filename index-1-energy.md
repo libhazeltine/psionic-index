@@ -30,7 +30,7 @@
 | psistudies.net | Basic Programming, Simplified \<Miri> | https://web.archive.org/web/20071205095257/http://psistudies.net:80/_articles_backup/programming-simplified-miri.html | 
 | psistudies.net | Practicing programming without making constructs \<Miri> | https://web.archive.org/web/20071205095252/http://psistudies.net:80/_articles_backup/programming-practice-miri.html | 
 | psionicsonline.net | Constructs for Newbies \<Lesenthe> | https://web.archive.org/web/20091009095620/http://www.psionicsonline.net:80/article/constructs-newbies-lesenthe | 
-| psionicsonline.net | Basic Energy Programming \<Hech\[UPC]> | https://web.archive.org/web/20111212201942/http://www.psionicsonline.net/basic-energy-programming-upc/ | 
+| psionicsonline.net | Basic Energy Programming \<Hech \[UPC]> | https://web.archive.org/web/20111212201942/http://www.psionicsonline.net/basic-energy-programming-upc/ | 
 | psionicsonline.net | Planning and Programming \<Lesenthe> | https://web.archive.org/web/20130710233943/http://psionicsonline.net:80/book/export/html/7322 | 
 | psionicsonline.net | Designing Constructs \<Miri> | https://web.archive.org/web/20111212201944/http://www.psionicsonline.net/designing-constructs/ | 
 | psionicsonline.net | Binding Constructs to Objects \<Shadowarrior13 \[UPC]> | https://web.archive.org/web/20091117130600/http://www.psionicsonline.net:80/article/binding-constructs-objects-shadowarrior13-upc | 
@@ -38,6 +38,7 @@
 | psionicsonline.net | Advanced Energy Manipulation and Programming \<Hech\[UPC]> | https://web.archive.org/web/20111212201947/http://www.psionicsonline.net/advanced-energy-manipulation-and-programming-upc/ |
 | psionguild.org | Construct Creation \<Winged Wolf> | https://web.archive.org/web/20130122212453/http://psionguild.org:80/education/articles/constructs/construct-creation | 
 | psionguild.org | Basic Construct Design and Programming \<Anayan> | https://web.archive.org/web/20130124030743/http://psionguild.org:80/education/articles/constructs/basic-construct-design-programming | 
+| astateofmind.eu | Shelling \<Hech \[UPC]> | https://web.archive.org/web/20100202212950/http://astateofmind.eu:80/2008/12/07/shelling
 
 ## Shielding
 | Source | Name  \<Author> | Link | Notes |
@@ -71,6 +72,8 @@
 | thepsiworld.proboards37.com | The way to scan explained \<durial> | https://web.archive.org/web/20071011182857/http://thepsiworld.proboards37.com:80/index.cgi?board=scan&action=display&thread=1190506343&page=1
 | artofpsionics.proboards.com | Sensing Article \<Stolide> | https://web.archive.org/web/20230721065555/https://artofpsionics.proboards.com/thread/143/sensing-article
 | freewebs.com/jedikaren | Remote Viewing \<JediKaren> | https://web.archive.org/web/20071020184806/http://www.freewebs.com:80/jedikaren/rv.htm
+| astateofmind.eu | Remote Viewing: A Look Upon the Abstract \<DagoRed \[UPC]> | https://web.archive.org/web/20081207053358/http://astateofmind.eu:80/2008/12/05/remote-viewing-a-look-upon-the-abstract/
+| astateofmind.eu | Rudimentary Scanning \<Jaci \[UPC]> | https://web.archive.org/web/20100204151549/http://astateofmind.eu:80/2008/12/06/rudimentary-scanning/
 
 ## Healing
 | Source | Name  \<Author> | Link | Notes |

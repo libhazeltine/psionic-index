@@ -29,12 +29,18 @@
 | thepsiworld.proboards37.com | The Tibetan Exercise of Paradox \<sash> | https://web.archive.org/web/20061024202940/http://thepsiworld.proboards37.com:80/index.cgi?board=astr&action=display&thread=1144183943
 | thepsiworld.proboards37.com | A few methods for AP \<Darin Rosewood> | https://web.archive.org/web/20070527050112/http://thepsiworld.proboards37.com:80/index.cgi?board=astr&action=display&thread=1178480134 |
 | freewebs.com/jedikaren | About the Astral Plane \<JediKaren> | https://web.archive.org/web/20071222002836/http://www.freewebs.com:80/jedikaren/howtoap.htm
+| astateofmind.eu | An Introduction to Remote Touch \<Jonn \[UPC]> | https://web.archive.org/web/20100523120850/http://astateofmind.eu:80/2008/11/19/an-introduction-to-remote-touch/
 
 ## Precognition
 | Source | Name \<Author> | Link | Notes |
 | ------ | ---- | ---- | ----- |
 | thepsiworld.proboards37.com | Precognition - Recognizing and Inducing \<xpwarrior3> | https://web.archive.org/web/20061107144959/http://thepsiworld.proboards37.com:80/index.cgi?action=display&amp;board=foreseeing&amp;thread=1132975156&amp;page=1 | 
 | freewebs.com/jedikaren | To Tell or Not To Tell \<JediKaren> | https://web.archive.org/web/20070326180525/http://www.freewebs.com/jedikaren/totell.htm
+
+## Micro-PK
+| Source | Name \<Author> | Link | Notes |
+| ------ | ---- | ---- | ----- |
+| astateofmind.eu | Introduction to Micro Psychokinesis \<No Author \[UPC]> | https://web.archive.org/web/20090414184938/http://astateofmind.eu/2008/11/30/introduction-to-micro-psychokinesis/
 
 
 ## Offense/Defense

@@ -17,8 +17,8 @@ thepsiworld.freehostia.com/ | [Link](https://web.archive.org/web/\*/http://theps
 psiworld.psilinks.net | [Link](https://web.archive.org/web/*/http://psiworld.psilinks.net) |  ✅ Indexed.
 thepsiworld.proboards37.com/ | [Link](https://web.archive.org/web\/*/http://thepsiworld.proboards37.com/*)|  ✅ Indexed.
 artofpsionics.proboards56.com | [Link](https://web.archive.org/web/*/artofpsionics.proboards56.com*) | ✅ Indexed. Still live at https://artofpsionics.proboards.com/. 
-freewebs.com/jedikaren | [Link](https://web.archive.org/web/*/http://freewebs.com/jedikaren/*) | 
-astateofmind.eu/ | [Link](https://web.archive.org/web/\*/astateofmind.eu/*) | 
+freewebs.com/jedikaren | [Link](https://web.archive.org/web/*/http://freewebs.com/jedikaren/*) | ✅ Indexed.
+astateofmind.eu/ | [Link](https://web.archive.org/web/\*/astateofmind.eu/*) | [-] In progress.
 psipog | N/A | Archived in a zip file, accessible [here](https://web.archive.org/web/20130321035504/http://www.psipog.net/) |
 psc-online.org | [Link](https://web.archive.org/web/\*/psc-online.org*) | This group is allegedly still active behind closed doors. Their site is still live, but I do not recall seeing anything interesting on it.
 psionic.150m.com | [Link](https://web.archive.org/web/\*/psionic.150m.com/*) | 
