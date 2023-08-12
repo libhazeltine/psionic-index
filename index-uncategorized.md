@@ -47,6 +47,7 @@
 | Source | Name\<Author> | Link | Notes
 | ------ | ---- | ---- | ----- |
 | freewebs.com/jedikaren | Breaking Shields \<Garenzo> | https://web.archive.org/web/20071221031700/http://www.freewebs.com:80/jedikaren/breakshield.htm
+| astateofmind.eu | Types of psychic attacks & defence against them \<Nathan> | https://web.archive.org/web/20100411013703/http://astateofmind.eu:80/2010/04/08/types-of-psychic-attacks-defence-against-them/
 
 ## Other
 | Source | Name \<Author> | Link | Notes |
@@ -56,3 +57,4 @@
 | psionguild.org | Various Exercises for Development of Psi Abilities \<No Author> | https://web.archive.org/web/20120214171930/http://psionguild.org:80/education/articles/foundation/various-exercises-for-development
 | psionguild.org | Introduction to Psionics and Dealing with Skeptics \<KMiller> | https://web.archive.org/web/20110706052309/http://psionguild.org:80/education/articles/foundation/introduction-to-psionics-and-dealing-with-skeptics/ |
 | totse.com | Psionic Training Guide \<Xirokoto> | https://web.archive.org/web/20070520064617/http://www.totse.com/en/fringe/dreams_auras_astral_projection/psionictrainin191367.html | 
+| astateofmind.eu | 5 steps to read an object with psychometry \<Nathan> | https://web.archive.org/web/20100404012436/http://astateofmind.eu:80/2010/04/02/5-steps-to-read-an-object-with-psychometry/ | 

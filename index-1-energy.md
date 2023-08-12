@@ -4,6 +4,7 @@
 | Source | Name \<Author> | Link | Notes |
 | ------ | ---- | ---- | ----- |
 | psionguild.org | Grounding and Centering \<Tetra> | https://web.archive.org/web/20110705064330/http://psionguild.org:80/education/articles/foundation/grounding-centering |
+| astateofmind.eu | 3 steps to ground yourself \<Nathan> | https://web.archive.org/web/20100426065445/http://astateofmind.eu:80/2010/04/22/3-steps-to-ground-yourself/ | 
 | psistudies.net | Energy Manipulation and Psiballs \<Brandon R> | https://web.archive.org/web/20071223145443/http://psistudies.net:80/_articles_backup/basic-psi-manip.html | 
 | psistudies.net | PsiBall Creation by \<PsiGnome> | https://web.archive.org/web/20071205095307/http://psistudies.net:80/_articles_backup/psiballcreation-psignome.html |
 | psionicsonline.net\/forums | Energy manipulation Practice. \<_forum_> | https://web.archive.org/web/20080927204311/http://www.psionicsonline.net:80/forums/energy-manipulation-practice | 
@@ -74,6 +75,7 @@
 | freewebs.com/jedikaren | Remote Viewing \<JediKaren> | https://web.archive.org/web/20071020184806/http://www.freewebs.com:80/jedikaren/rv.htm
 | astateofmind.eu | Remote Viewing: A Look Upon the Abstract \<DagoRed \[UPC]> | https://web.archive.org/web/20081207053358/http://astateofmind.eu:80/2008/12/05/remote-viewing-a-look-upon-the-abstract/
 | astateofmind.eu | Rudimentary Scanning \<Jaci \[UPC]> | https://web.archive.org/web/20100204151549/http://astateofmind.eu:80/2008/12/06/rudimentary-scanning/
+| astateofmind.eu | How to use your memories to improve clairvoyance \<Nathaniel> | https://web.archive.org/web/20101213024804/http://astateofmind.eu:80/2010/12/03/memories-improve-clairvoyance/
 
 ## Healing
 | Source | Name  \<Author> | Link | Notes |
