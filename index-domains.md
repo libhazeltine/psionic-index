@@ -19,10 +19,10 @@ thepsiworld.proboards37.com/ | [Link](https://web.archive.org/web\/*/http://thep
 artofpsionics.proboards56.com | [Link](https://web.archive.org/web/*/artofpsionics.proboards56.com*) | ✅ Indexed. Still live at https://artofpsionics.proboards.com/. 
 freewebs.com/jedikaren | [Link](https://web.archive.org/web/*/http://freewebs.com/jedikaren/*) | ✅ Indexed.
 astateofmind.eu/ | [Link](https://web.archive.org/web/\*/astateofmind.eu/*) | ✅ Indexed.
-psc-online.org | [Link](https://web.archive.org/web/\*/psc-online.org*) | [-] In progress.
-psipog | N/A | Archived in a zip file, accessible [here](https://web.archive.org/web/20130321035504/http://www.psipog.net/) |
+psc-online.org | [Link](https://web.archive.org/web/\*/psc-online.org*) | ✅ Indexed.
 psionic.150m.com | [Link](https://web.archive.org/web/\*/psionic.150m.com/*) | 
 ppsociety.com | [Link](https://web.archive.org/web/\*/www.ppsociety.com/*) | 
+psipog | N/A | Archived in a zip file, accessible [here](https://web.archive.org/web/20130321035504/http://www.psipog.net/) |
 vsociety.net/ | [Link](https://web.archive.org/web/\*/vsociety.net*) |
 forums.vsociety.net/ | [Link](https://web.archive.org/web/\*/forums.vsociety.net*) | 
 psionline.org/* | [Link](https://web.archive.org/web/\*/psionline.org*) | 
