@@ -7,6 +7,7 @@
 | psionicsonline.net | Empathic Broadcasting \<Jaci> | https://web.archive.org/web/20080916005724/http://www.psionicsonline.net:80/content/empathic-broadcasting-jaci | 
 | artofpsionics.proboards.com | Art of Emotions "Empathy" \<Drynal> | https://web.archive.org/web/20230721065906/https://artofpsionics.proboards.com/thread/89/art-emotions-empathy|
 | freewebs.com/jedikaren | The Cursed Gift \<JediKaren> | https://web.archive.org/web/20071222002831/http://www.freewebs.com:80/jedikaren/generalempathy.htm
+| psc-online.org | Empathy \<Rainsong> | https://web.archive.org/web/20180507171851/http://psc-online.org/doku.php?id=blog:empathy
 
 
 # Telepathy
@@ -18,6 +19,7 @@
 | psionguild.org | The Telepathy Manual \<Keith Miller, Myriad, Rainsong> | https://web.archive.org/web/20120214154249/http://psionguild.org:80/education/articles/mental-abilities/telepathy-manual | 
 | psionguild.org | How To Create Psionic Links \<Winged Wolf> | https://web.archive.org/web/20120215121441/http://psionguild.org:80/education/articles/foundation/how-to-create-psionic-links | 
 | astateofmind.eu | How to Learn Telepathy \<Shadowarrior13 \[UPC], Hech \[UPC]> | https://web.archive.org/web/20100327103229/http://astateofmind.eu:80/2008/11/29/how-to-learn-telepathy/ | 
+| psc-online.org | Sending \<Rainsong> | https://web.archive.org/web/20180507171914/http://psc-online.org/doku.php?id=blog:sending |
 
 # Other 
 | Source | Name | Link | Notes |

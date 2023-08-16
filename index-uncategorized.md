@@ -30,7 +30,7 @@
 | thepsiworld.proboards37.com | A few methods for AP \<Darin Rosewood> | https://web.archive.org/web/20070527050112/http://thepsiworld.proboards37.com:80/index.cgi?board=astr&action=display&thread=1178480134 |
 | freewebs.com/jedikaren | About the Astral Plane \<JediKaren> | https://web.archive.org/web/20071222002836/http://www.freewebs.com:80/jedikaren/howtoap.htm
 | astateofmind.eu | An Introduction to Remote Touch \<Jonn \[UPC]> | https://web.archive.org/web/20100523120850/http://astateofmind.eu:80/2008/11/19/an-introduction-to-remote-touch/
-| psc-online.org | Dreamwalking and Lucid Dreaming \<Rainsong> | https://web.archive.org/web/20180520213349/http://psc-online.org/2012/06/dreamwalking-and-lucid-dreaming/
+| psc-online.org | Dreamwalking and Lucid Dreaming \<Rainsong> | https://web.archive.org/web/20180507171847/http://psc-online.org/doku.php?id=blog:dreamwalking_and_lucid_dreams
 
 ## Precognition
 | Source | Name \<Author> | Link | Notes |

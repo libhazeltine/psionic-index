@@ -40,6 +40,7 @@
 | psionguild.org | Construct Creation \<Winged Wolf> | https://web.archive.org/web/20130122212453/http://psionguild.org:80/education/articles/constructs/construct-creation | 
 | psionguild.org | Basic Construct Design and Programming \<Anayan> | https://web.archive.org/web/20130124030743/http://psionguild.org:80/education/articles/constructs/basic-construct-design-programming | 
 | astateofmind.eu | Shelling \<Hech \[UPC]> | https://web.archive.org/web/20100202212950/http://astateofmind.eu:80/2008/12/07/shelling
+| psc-online.org | Energetic Cords and Tendrils \<Rainsong> | https://web.archive.org/web/20180507171922/http://psc-online.org/doku.php?id=blog:tendrils
 
 ## Shielding
 | Source | Name  \<Author> | Link | Notes |
@@ -50,6 +51,7 @@
 | psionguild.org | Shielding <Winged Wolf, Anka> | https://web.archive.org/web/20131011134539/http://psionguild.org/education/articles/defense-combat/shielding/ | 
 | thepsiworld.proboards37.com | Consecration \[Shielding technique] \<Intrigue> | https://web.archive.org/web/20070527043733/http://thepsiworld.proboards37.com:80/index.cgi?board=shie&action=display&thread=1175316762
 | freewebs.com/jedikaren | How-to-guide for shielding \<NeoPsychic> | https://web.archive.org/web/20071221045444/http://www.freewebs.com:80/jedikaren/shields.htm
+| psc-online.org | Stone Tower Shields, and About Shielding Generally \<Rainsong> | https://web.archive.org/web/20180507171401/http://psc-online.org/doku.php?id=blog:stone_tower_shield
 
 ## Perception and Scanning
 | Source | Name  \<Author> | Link | Notes |
