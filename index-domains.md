@@ -20,8 +20,8 @@ artofpsionics.proboards56.com | [Link](https://web.archive.org/web/*/artofpsioni
 freewebs.com/jedikaren | [Link](https://web.archive.org/web/*/http://freewebs.com/jedikaren/*) | ✅ Indexed.
 astateofmind.eu/ | [Link](https://web.archive.org/web/\*/astateofmind.eu/*) | ✅ Indexed.
 psc-online.org | [Link](https://web.archive.org/web/\*/psc-online.org*) | ✅ Indexed.
-psionic.150m.com | [Link](https://web.archive.org/web/\*/psionic.150m.com/*) | 
-ppsociety.com | [Link](https://web.archive.org/web/\*/www.ppsociety.com/*) | 
+psionic.150m.com | [Link](https://web.archive.org/web/\*/psionic.150m.com/*) | ✅ Absolutely nothing interesting
+ppsociety.com | [Link](https://web.archive.org/web/\*/www.ppsociety.com/*) | ✅ Indexed.
 psipog | N/A | Archived in a zip file, accessible [here](https://web.archive.org/web/20130321035504/http://www.psipog.net/) |
 vsociety.net/ | [Link](https://web.archive.org/web/\*/vsociety.net*) |
 forums.vsociety.net/ | [Link](https://web.archive.org/web/\*/forums.vsociety.net*) | 
@@ -38,3 +38,4 @@ shiftedperspectives.net | [Link](https://web.archive.org/web/*/shiftedperspectiv
 tkforums.com | [Link](https://web.archive.org/web/*/tkforums.com*) | 
 freewebs.com/psionicstudents | [Link](https://web.archive.org/web/*/http://www.freewebs.com/psionicstudents/*) | 
 pyroar.tripod.com | [Link](https://web.archive.org/web/*/http://pyroar.tripod.com/*) | 
+psiscape.net | [Link](https://web.archive.org/web/*/http://www.psiscape.net/*) | 

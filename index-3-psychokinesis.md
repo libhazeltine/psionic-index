@@ -13,6 +13,9 @@
 | freewebs.com/jedikaren | From Psiwheels to Pencils: A Training Guide \<NeoPsychic> | https://web.archive.org/web/20071221045439/http://www.freewebs.com:80/jedikaren/penciltk.htm
 
 ## Advancing your practice
+| ppsociety.com | More psi-wheel exercises \<No author> | https://web.archive.org/web/20050224031439/http://ppsociety.com:80/w_exercisev.php?id=4 |
+| ppsociety.com | Paper and thread \<No author> | https://web.archive.org/web/20050224031459/http://ppsociety.com:80/w_exercisev.php?id=2
+| ppsociety.com | Rolled up foil |<No author> | https://web.archive.org/web/20050224104104/http://ppsociety.com:80/w_exercisev.php?id=6
 | psionicsonline.net/forums | Having Trouble progressing? \<_forum_> | https://web.archive.org/web/20080508214048/http://www.psionicsonline.net:80/forums/index.php/topic,450.0.html |
 | psistudies.net | After the psiwheel \<Frau12> | https://web.archive.org/web/20071205095231/http://psistudies.net:80/_articles_backup/fraud12-After_the_psiwheel.html | 
 

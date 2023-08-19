@@ -59,3 +59,4 @@
 | psionguild.org | Introduction to Psionics and Dealing with Skeptics \<KMiller> | https://web.archive.org/web/20110706052309/http://psionguild.org:80/education/articles/foundation/introduction-to-psionics-and-dealing-with-skeptics/ |
 | totse.com | Psionic Training Guide \<Xirokoto> | https://web.archive.org/web/20070520064617/http://www.totse.com/en/fringe/dreams_auras_astral_projection/psionictrainin191367.html | 
 | astateofmind.eu | 5 steps to read an object with psychometry \<Nathan> | https://web.archive.org/web/20100404012436/http://astateofmind.eu:80/2010/04/02/5-steps-to-read-an-object-with-psychometry/ | 
+| ppsociety.com | Another vision on learning TK (Bone breathing) \<Dragor> | https://web.archive.org/web/20050223201453/http://ppsociety.com:80/w_articlev.php?id=9 |
