@@ -22,9 +22,8 @@ astateofmind.eu/ | [Link](https://web.archive.org/web/\*/astateofmind.eu/*) | �
 psc-online.org | [Link](https://web.archive.org/web/\*/psc-online.org*) | ✅ Indexed.
 psionic.150m.com | [Link](https://web.archive.org/web/\*/psionic.150m.com/*) | ✅ Absolutely nothing interesting
 ppsociety.com | [Link](https://web.archive.org/web/\*/www.ppsociety.com/*) | ✅ Indexed.
-psipog | N/A | Archived in a zip file, accessible [here](https://web.archive.org/web/20130321035504/http://www.psipog.net/) |
-vsociety.net/ | [Link](https://web.archive.org/web/\*/vsociety.net*) |
-forums.vsociety.net/ | [Link](https://web.archive.org/web/\*/forums.vsociety.net*) | 
+vsociety.net/ | [Link](https://web.archive.org/web/\*/vsociety.net*) | ✅ Indexed.
+forums.vsociety.net/ | [Link](https://web.archive.org/web/\*/forums.vsociety.net*) | [-] In progress.
 psionline.org/* | [Link](https://web.archive.org/web/\*/psionline.org*) | 
 freewebs.com/psionicdojo/ | [Link](https://web.archive.org/web/\*/http://www.freewebs.com/psionicdojo/*) | 
 psipalatium.com/ | [Link](https://web.archive.org/web/\*/http://www.psipalatium.com/*) | Still active as of 06/2023; http://www.psipalatium.com/index.php
@@ -39,3 +38,4 @@ tkforums.com | [Link](https://web.archive.org/web/*/tkforums.com*) |
 freewebs.com/psionicstudents | [Link](https://web.archive.org/web/*/http://www.freewebs.com/psionicstudents/*) | 
 pyroar.tripod.com | [Link](https://web.archive.org/web/*/http://pyroar.tripod.com/*) | 
 psiscape.net | [Link](https://web.archive.org/web/*/http://www.psiscape.net/*) | 
+psipog | N/A | Archived in a zip file, accessible [here](https://web.archive.org/web/20130321035504/http://www.psipog.net/) |
