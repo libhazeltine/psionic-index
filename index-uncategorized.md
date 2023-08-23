@@ -60,3 +60,19 @@
 | totse.com | Psionic Training Guide \<Xirokoto> | https://web.archive.org/web/20070520064617/http://www.totse.com/en/fringe/dreams_auras_astral_projection/psionictrainin191367.html | 
 | astateofmind.eu | 5 steps to read an object with psychometry \<Nathan> | https://web.archive.org/web/20100404012436/http://astateofmind.eu:80/2010/04/02/5-steps-to-read-an-object-with-psychometry/ | 
 | ppsociety.com | Another vision on learning TK (Bone breathing) \<Dragor> | https://web.archive.org/web/20050223201453/http://ppsociety.com:80/w_articlev.php?id=9 |
+
+## "Dynamic Psi" - vsociety.net
+| Name \<Author> | Link |
+| -------------- | ---- | 
+| (index) Welcome to Fundamental Psi \<Mobius> | https://web.archive.org/web/20180909141127/http://forums.vsociety.net/index.php?topic=10393.0
+| (1-0) Fundamental Dynamic Psi for the Beginning Practitioner \<Mobius> | https://web.archive.org/web/20180612165124/http://forums.vsociety.net/index.php?topic=9683.0 |
+| (1-0A) Focal Meditation \<kobok> | https://web.archive.org/web/20190119132224/http://forums.vsociety.net/index.php?topic=4867.0
+| (1-1) Fundamental Psi: Introduction to Kinetics \<Mobius> | https://web.archive.org/web/20180612165611/http://forums.vsociety.net/index.php?topic=9836.0
+| (1-1A) Introduction to Kinetics \<kobok> | https://web.archive.org/web/20190625002649/http://forums.vsociety.net/index.php?topic=4868.0
+| (1-2) Fundamental Psi: Future Selection \<Mobius> | https://web.archive.org/web/20180612165731/http://forums.vsociety.net/index.php?topic=9907.0
+| (1-3) Fundamental Psi: Masters of Transformation | https://web.archive.org/web/20180612165815/http://forums.vsociety.net/index.php?topic=9995.0
+| (2-1) Fundamental Psi: Inner Meditation and Linking \<XIII> | https://web.archive.org/web/20180612165835/http://forums.vsociety.net/index.php?topic=10067.0
+| (2-2) Fundamental Psi: Scanning \<XIII> | https://web.archive.org/web/20180612165902/http://forums.vsociety.net/index.php?topic=10154.0
+| (2-3) Fundamental Psi: The Conceptual Domain \<XIII> | https://web.archive.org/web/20180612165923/http://forums.vsociety.net/index.php?topic=10224.0
+| (3-1) Fundamental Psi: Introduction to Energy \<Mobius> | https://web.archive.org/web/20180612165952/http://forums.vsociety.net/index.php?topic=10460.0
+| (3-2) Fundamental Psi: Constructs, Grounding, and Filtering \<XIII> | https://web.archive.org/web/20180612170021/http://forums.vsociety.net/index.php/topic,11138.0.html
