@@ -31,4 +31,4 @@
 | psilinks.net/forum | \[Ethics of] Mind control | https://web.archive.org/web/20080917081731/http://www.psilinks.net:80/forum/index.php/topic,50.0.html | 
 | psionguild.org/forums | Telepathy and Empathy...with pets | https://web.archive.org/web/20140221140348/http://psionguild.org:80/forums/archive/index.php/t-4843.html
 | psionguild.org/forums | Physical Possession \<_forums_> | https://web.archive.org/web/20140224020657/http://psionguild.org:80/forums/archive/index.php/t-7637.html
-
+| forums.vsociety.net | Telepathy conundrum \[foreign languages] \<_forums_> | https://web.archive.org/web/20100707181143/http://forums.vsociety.net/index.php/topic,10974.0/prev_next,next.html | 
