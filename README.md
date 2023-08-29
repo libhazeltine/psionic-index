@@ -1,4 +1,4 @@
-# [The Hazeltine Library](https://github.com/libhazeltine/libhazeltine)
+# [The Hazeltine Library](https://github.com/libhazeltine/libhazeltine) \[WIP\]
 
 *Phase 1*
 
