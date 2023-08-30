@@ -13,6 +13,10 @@
 | psionicsonline.net | Basic Energy Management \<Innerfire> | https://web.archive.org/web/20090827005702/http://www.psionicsonline.net:80/article/basic-energy-management-innerfire | 
 | psionguild.org | Basic Psiballs \<Ally> | https://web.archive.org/web/20130122212441/http://psionguild.org:80/education/articles/constructs/basic-psiballs | 
 | freewebs.com/jedikaren | The First Psi Ball \<Maticolotto> | https://web.archive.org/web/20070510050059/http://www.freewebs.com:80/jedikaren/firstpsiball.htm
+| forums.vsociety.net | Energy Manipulation Guide [1/3] \<ChezNips> | https://web.archive.org/web/20190623182335/http://forums.vsociety.net/index.php/topic,10829.0.html
+| forums.vsociety.net | Energy Manipulation Guide [2/3] \<ChezNips> | https://web.archive.org/web/20190623185019/http://forums.vsociety.net/index.php/topic,10829.15.html
+| forums.vsociety.net | Energy Manipulation Guide [3/3] \<ChezNips> | https://web.archive.org/web/20190625002101/http://forums.vsociety.net/index.php/topic,10829.30.html
+
 
 ## Charging and Cultivation
 | Source | Name  \<Author> | Link | Notes |
@@ -99,3 +103,4 @@
 | psionguild.org | Shopping Mall Energy Node \<Winged Wolf> | https://web.archive.org/web/20130124030836/http://psionguild.org:80/education/articles/constructs/shopping-mall-energy-node | 
 | psionguild.org | Wards \<Anka> | https://web.archive.org/web/20131011115833/http://psionguild.org/education/articles/defense-combat/wards/ |
 | psionicsonline.net | Three Easy Steps to: Flaring \<Jynx493> | https://web.archive.org/web/20080411092822/http://www.psionicsonline.net:80/flaring | 
+| forums.vsociety.net | The Secondary Cerebral Cortex of the Psion \<Kettle> | https://web.archive.org/web/20190623185029/http://forums.vsociety.net/index.php/topic,11619.0.html
