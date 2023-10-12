@@ -16,6 +16,7 @@
 | forums.vsociety.net | Benefits of Meditation \<ChezNips> | https://web.archive.org/web/20140914080607/http://forums.vsociety.net/index.php/topic,10826.0.html
 | forums.vsociety.net | Altered States \<ChezNips> | https://web.archive.org/web/20140914044502/http://forums.vsociety.net/index.php/topic,10825.0.html
 | forums.vsociety.net | Brain Training \<ChezNips> | https://web.archive.org/web/20180925203804/http://forums.vsociety.net/index.php/topic,10827.0.html
+| forums.vsociety.net | Relaxation \<Neo> | https://web.archive.org/web/20130512140516/http%253A//forums.vsociety.net/index.php/topic%252C10.0/prev_next%252Cnext.html |
 
 ## Common Problems
 | Source | Name \<Author> | Link | Notes |
@@ -54,6 +55,9 @@
 | ------ | ---- | ---- | ----- |
 | freewebs.com/jedikaren | Breaking Shields \<Garenzo> | https://web.archive.org/web/20071221031700/http://www.freewebs.com:80/jedikaren/breakshield.htm
 | astateofmind.eu | Types of psychic attacks & defence against them \<Nathan> | https://web.archive.org/web/20100411013703/http://astateofmind.eu:80/2010/04/08/types-of-psychic-attacks-defence-against-them/
+| forums.vsociety.net | Any ways to harm people (besides yourself) doing psi? (1 of 2) \<_forums_> | https://web.archive.org/web/20130512002800/http%253A//forums.vsociety.net/index.php/topic%252C1013.0.html |
+| forums.vsociety.net | Any ways to harm people (besides yourself) doing psi? (2 of 2) \<_forums_> | https://web.archive.org/web/20130511221055/http%253A//forums.vsociety.net/index.php/topic%252C1013.15.html
+
 
 
 
@@ -67,6 +71,7 @@
 | totse.com | Psionic Training Guide \<Xirokoto> | https://web.archive.org/web/20070520064617/http://www.totse.com/en/fringe/dreams_auras_astral_projection/psionictrainin191367.html | 
 | astateofmind.eu | 5 steps to read an object with psychometry \<Nathan> | https://web.archive.org/web/20100404012436/http://astateofmind.eu:80/2010/04/02/5-steps-to-read-an-object-with-psychometry/ | 
 | ppsociety.com | Another vision on learning TK (Bone breathing) \<Dragor> | https://web.archive.org/web/20050223201453/http://ppsociety.com:80/w_articlev.php?id=9 |
+
 
 
 ## "Dynamic Psi" - vsociety.net
