@@ -14,6 +14,6 @@ While the communities of those forums, and the people who ran those blogs, are a
 
 Suggest content for the library -> https://www.github.com/libhazeltine/libhazeltine/issues/new?labels=content-suggestion
 
-Join the partner discord -> https://disboard.org/server/1071814425574645830#
+Join the partner discord -> https://discord.gg/RrRucarmJe
 
 **Donate to the Internet Archive** -> https://archive.org/donate
