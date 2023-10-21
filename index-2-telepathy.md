@@ -20,6 +20,7 @@
 | psionguild.org | How To Create Psionic Links \<Winged Wolf> | https://web.archive.org/web/20120215121441/http://psionguild.org:80/education/articles/foundation/how-to-create-psionic-links | 
 | astateofmind.eu | How to Learn Telepathy \<Shadowarrior13 \[UPC], Hech \[UPC]> | https://web.archive.org/web/20100327103229/http://astateofmind.eu:80/2008/11/29/how-to-learn-telepathy/ | 
 | psc-online.org | Sending \<Rainsong> | https://web.archive.org/web/20180507171914/http://psc-online.org/doku.php?id=blog:sending |
+| forums.vsociety.net | Telepathy Exercise \<kobok> | https://web.archive.org/web/20130510084247/http%253A//forums.vsociety.net/index.php?topic%253D4829.0 | 
 
 # Other 
 | Source | Name | Link | Notes |
