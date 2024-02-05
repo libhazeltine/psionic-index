@@ -25,10 +25,9 @@ ppsociety.com | [Link](https://web.archive.org/web/\*/www.ppsociety.com/*) | ✅
 vsociety.net/ | [Link](https://web.archive.org/web/\*/vsociety.net*) | ✅ Indexed.
 forums.vsociety.net/ | [Link](https://web.archive.org/web/\*/forums.vsociety.net*) | ✅ Indexed.
 psionline.org/* | [Link](https://web.archive.org/web/\*/psionline.org*) | ✅ Indexed.
-freewebs.com/psionicdojo/ | [Link](https://web.archive.org/web/\*/http://www.freewebs.com/psionicdojo/*) | [-] In progress.
-psipalatium.com/ | [Link](https://web.archive.org/web/\*/http://www.psipalatium.com/*) | Still active as of 06/2023; http://www.psipalatium.com/index.php
-psinet.proboards107.com/ | [Link](https://web.archive.org/web/\*/http://psinet.proboards107.com/*) | 
-psiontemple.proboards.com/ | [Link](https://web.archive.org/web/\*/http://psiontemple.proboards.com/*) | 
+freewebs.com/psionicdojo/ | [Link](https://web.archive.org/web/\*/http://www.freewebs.com/psionicdojo/*) | ✅ Indexed.
+psinet.proboards107.com/ | [Link](https://web.archive.org/web/\*/http://psinet.proboards107.com/*) | ✅ Indexed.
+psiontemple.proboards.com/ | [Link](https://web.archive.org/web/\*/http://psiontemple.proboards.com/*) | [-] Up next
 tkforums.com/ | [Link](https://web.archive.org/web/\*/http://www.tkforums.com/*) | 
 miripsion.googlepages.com/* | [Link](https://web.archive.org/web/\*/http://miripsion.googlepages.com/*) | 
 psionslair.co.cc/ | [Link](https://web.archive.org/web/\*/http://psionslair.co.cc/*) | 
@@ -38,4 +37,5 @@ tkforums.com | [Link](https://web.archive.org/web/*/tkforums.com*) |
 freewebs.com/psionicstudents | [Link](https://web.archive.org/web/*/http://www.freewebs.com/psionicstudents/*) | 
 pyroar.tripod.com | [Link](https://web.archive.org/web/*/http://pyroar.tripod.com/*) | 
 psiscape.net | [Link](https://web.archive.org/web/*/http://www.psiscape.net/*) | 
+psipalatium.com/ | [Link](https://web.archive.org/web/\*/http://www.psipalatium.com/*) | Still active as of 06/2023; http://www.psipalatium.com/index.php
 psipog | N/A | Archived in a zip file, accessible [here](https://web.archive.org/web/20130321035504/http://www.psipog.net/) |
