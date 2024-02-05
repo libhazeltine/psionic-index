@@ -13,6 +13,10 @@
 | psionicsonline.net | Basic Energy Management \<Innerfire> | https://web.archive.org/web/20090827005702/http://www.psionicsonline.net:80/article/basic-energy-management-innerfire | 
 | psionguild.org | Basic Psiballs \<Ally> | https://web.archive.org/web/20130122212441/http://psionguild.org:80/education/articles/constructs/basic-psiballs | 
 | freewebs.com/jedikaren | The First Psi Ball \<Maticolotto> | https://web.archive.org/web/20070510050059/http://www.freewebs.com:80/jedikaren/firstpsiball.htm
+| forums.vsociety.net | Energy Manipulation Guide [1/3] \<ChezNips> | https://web.archive.org/web/20190623182335/http://forums.vsociety.net/index.php/topic,10829.0.html
+| forums.vsociety.net | Energy Manipulation Guide [2/3] \<ChezNips> | https://web.archive.org/web/20190623185019/http://forums.vsociety.net/index.php/topic,10829.15.html
+| forums.vsociety.net | Energy Manipulation Guide [3/3] \<ChezNips> | https://web.archive.org/web/20190625002101/http://forums.vsociety.net/index.php/topic,10829.30.html
+
 
 ## Charging and Cultivation
 | Source | Name  \<Author> | Link | Notes |
@@ -41,6 +45,7 @@
 | psionguild.org | Basic Construct Design and Programming \<Anayan> | https://web.archive.org/web/20130124030743/http://psionguild.org:80/education/articles/constructs/basic-construct-design-programming | 
 | astateofmind.eu | Shelling \<Hech \[UPC]> | https://web.archive.org/web/20100202212950/http://astateofmind.eu:80/2008/12/07/shelling
 | psc-online.org | Energetic Cords and Tendrils \<Rainsong> | https://web.archive.org/web/20180507171922/http://psc-online.org/doku.php?id=blog:tendrils
+| forums.vsociety.net | Programming Constructs/Thoughtforms \<ChezNips> | https://web.archive.org/web/20100707165358/http://forums.vsociety.net/index.php/topic,10838.0.html
 
 ## Shielding
 | Source | Name  \<Author> | Link | Notes |
@@ -52,6 +57,9 @@
 | thepsiworld.proboards37.com | Consecration \[Shielding technique] \<Intrigue> | https://web.archive.org/web/20070527043733/http://thepsiworld.proboards37.com:80/index.cgi?board=shie&action=display&thread=1175316762
 | freewebs.com/jedikaren | How-to-guide for shielding \<NeoPsychic> | https://web.archive.org/web/20071221045444/http://www.freewebs.com:80/jedikaren/shields.htm
 | psc-online.org | Stone Tower Shields, and About Shielding Generally \<Rainsong> | https://web.archive.org/web/20180507171401/http://psc-online.org/doku.php?id=blog:stone_tower_shield
+| forums.vsociety.net | How to Shield \<ChezNips> | https://web.archive.org/web/20100707170046/http://forums.vsociety.net/index.php/topic,10831.0.html
+| forums.vsociety.net | Shielding: The Dynamic Psi Perspective \<Kettle> | https://web.archive.org/web/20140703005508/http://forums.vsociety.net/index.php/topic,14903.0.html
+| forums.vsociety.net | I would like to share an article on shielding if I may \<Sigma> | https://web.archive.org/web/20130719183900/http://forums.vsociety.net/index.php/topic,10094.0/prev_next,next.html
 
 ## Perception and Scanning
 | Source | Name  \<Author> | Link | Notes |
@@ -96,3 +104,4 @@
 | psionguild.org | Shopping Mall Energy Node \<Winged Wolf> | https://web.archive.org/web/20130124030836/http://psionguild.org:80/education/articles/constructs/shopping-mall-energy-node | 
 | psionguild.org | Wards \<Anka> | https://web.archive.org/web/20131011115833/http://psionguild.org/education/articles/defense-combat/wards/ |
 | psionicsonline.net | Three Easy Steps to: Flaring \<Jynx493> | https://web.archive.org/web/20080411092822/http://www.psionicsonline.net:80/flaring | 
+| forums.vsociety.net | The Secondary Cerebral Cortex of the Psion \<Kettle> | https://web.archive.org/web/20190623185029/http://forums.vsociety.net/index.php/topic,11619.0.html

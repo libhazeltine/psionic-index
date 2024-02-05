@@ -20,6 +20,7 @@
 | psionguild.org | How To Create Psionic Links \<Winged Wolf> | https://web.archive.org/web/20120215121441/http://psionguild.org:80/education/articles/foundation/how-to-create-psionic-links | 
 | astateofmind.eu | How to Learn Telepathy \<Shadowarrior13 \[UPC], Hech \[UPC]> | https://web.archive.org/web/20100327103229/http://astateofmind.eu:80/2008/11/29/how-to-learn-telepathy/ | 
 | psc-online.org | Sending \<Rainsong> | https://web.archive.org/web/20180507171914/http://psc-online.org/doku.php?id=blog:sending |
+| forums.vsociety.net | Telepathy Exercise \<kobok> | https://web.archive.org/web/20130510084247/http%253A//forums.vsociety.net/index.php?topic%253D4829.0 | 
 
 # Other 
 | Source | Name | Link | Notes |
@@ -31,4 +32,4 @@
 | psilinks.net/forum | \[Ethics of] Mind control | https://web.archive.org/web/20080917081731/http://www.psilinks.net:80/forum/index.php/topic,50.0.html | 
 | psionguild.org/forums | Telepathy and Empathy...with pets | https://web.archive.org/web/20140221140348/http://psionguild.org:80/forums/archive/index.php/t-4843.html
 | psionguild.org/forums | Physical Possession \<_forums_> | https://web.archive.org/web/20140224020657/http://psionguild.org:80/forums/archive/index.php/t-7637.html
-
+| forums.vsociety.net | Telepathy conundrum \[foreign languages] \<_forums_> | https://web.archive.org/web/20100707181143/http://forums.vsociety.net/index.php/topic,10974.0/prev_next,next.html | 
