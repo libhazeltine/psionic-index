@@ -57,7 +57,7 @@
 | astateofmind.eu | Types of psychic attacks & defence against them \<Nathan> | https://web.archive.org/web/20100411013703/http://astateofmind.eu:80/2010/04/08/types-of-psychic-attacks-defence-against-them/
 | forums.vsociety.net | Any ways to harm people (besides yourself) doing psi? (1 of 2) \<_forums_> | https://web.archive.org/web/20130512002800/http%253A//forums.vsociety.net/index.php/topic%252C1013.0.html |
 | forums.vsociety.net | Any ways to harm people (besides yourself) doing psi? (2 of 2) \<_forums_> | https://web.archive.org/web/20130511221055/http%253A//forums.vsociety.net/index.php/topic%252C1013.15.html
-
+| psionline.org | How to Alter Your Signature \<FrozenFlames> | https://web.archive.org/web/20071114083124/http://www.psionline.org:80/2007/10/cullens-guide-to-energy-manipulation.html
 
 
 

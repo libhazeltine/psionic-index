@@ -24,8 +24,8 @@ psionic.150m.com | [Link](https://web.archive.org/web/\*/psionic.150m.com/*) | �
 ppsociety.com | [Link](https://web.archive.org/web/\*/www.ppsociety.com/*) | ✅ Indexed.
 vsociety.net/ | [Link](https://web.archive.org/web/\*/vsociety.net*) | ✅ Indexed.
 forums.vsociety.net/ | [Link](https://web.archive.org/web/\*/forums.vsociety.net*) | ✅ Indexed.
-psionline.org/* | [Link](https://web.archive.org/web/\*/psionline.org*) | [-] In progress.
-freewebs.com/psionicdojo/ | [Link](https://web.archive.org/web/\*/http://www.freewebs.com/psionicdojo/*) | 
+psionline.org/* | [Link](https://web.archive.org/web/\*/psionline.org*) | ✅ Indexed.
+freewebs.com/psionicdojo/ | [Link](https://web.archive.org/web/\*/http://www.freewebs.com/psionicdojo/*) | [-] In progress.
 psipalatium.com/ | [Link](https://web.archive.org/web/\*/http://www.psipalatium.com/*) | Still active as of 06/2023; http://www.psipalatium.com/index.php
 psinet.proboards107.com/ | [Link](https://web.archive.org/web/\*/http://psinet.proboards107.com/*) | 
 psiontemple.proboards.com/ | [Link](https://web.archive.org/web/\*/http://psiontemple.proboards.com/*) | 
