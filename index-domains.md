@@ -27,8 +27,8 @@ forums.vsociety.net/ | [Link](https://web.archive.org/web/\*/forums.vsociety.net
 psionline.org/* | [Link](https://web.archive.org/web/\*/psionline.org*) | ✅ Indexed.
 freewebs.com/psionicdojo/ | [Link](https://web.archive.org/web/\*/http://www.freewebs.com/psionicdojo/*) | ✅ Indexed.
 psinet.proboards107.com/ | [Link](https://web.archive.org/web/\*/http://psinet.proboards107.com/*) | ✅ Indexed.
-psiontemple.proboards.com/ | [Link](https://web.archive.org/web/\*/http://psiontemple.proboards.com/*) | [-] Up next
-tkforums.com/ | [Link](https://web.archive.org/web/\*/http://www.tkforums.com/*) | 
+psiontemple.proboards.com/ | [Link](https://web.archive.org/web/\*/http://psiontemple.proboards.com/*) | ✅ Indexed.
+tkforums.com/ | [Link](https://web.archive.org/web/\*/http://www.tkforums.com/*) | [-] In progress
 miripsion.googlepages.com/* | [Link](https://web.archive.org/web/\*/http://miripsion.googlepages.com/*) | 
 psionslair.co.cc/ | [Link](https://web.archive.org/web/\*/http://psionslair.co.cc/*) | 
 psionicsinstitute.org/ | [Link](https://web.archive.org/web/*/https://www.psionicsinstitute.org*) | Still live as of 06/2023; https://www.psionicsinstitute.org/ 
