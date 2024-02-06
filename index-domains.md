@@ -28,14 +28,14 @@ psionline.org/* | [Link](https://web.archive.org/web/\*/psionline.org*) | ✅ In
 freewebs.com/psionicdojo/ | [Link](https://web.archive.org/web/\*/http://www.freewebs.com/psionicdojo/*) | ✅ Indexed.
 psinet.proboards107.com/ | [Link](https://web.archive.org/web/\*/http://psinet.proboards107.com/*) | ✅ Indexed.
 psiontemple.proboards.com/ | [Link](https://web.archive.org/web/\*/http://psiontemple.proboards.com/*) | ✅ Indexed.
-tkforums.com/ | [Link](https://web.archive.org/web/\*/http://www.tkforums.com/*) | [-] In progress
-miripsion.googlepages.com/* | [Link](https://web.archive.org/web/\*/http://miripsion.googlepages.com/*) | 
-psionslair.co.cc/ | [Link](https://web.archive.org/web/\*/http://psionslair.co.cc/*) | 
-psionicsinstitute.org/ | [Link](https://web.archive.org/web/*/https://www.psionicsinstitute.org*) | Still live as of 06/2023; https://www.psionicsinstitute.org/ 
+tkforums.com/ | [Link](https://web.archive.org/web/\*/http://www.tkforums.com/*) | ✅ Indexed.
+miripsion.googlepages.com/* | [Link](https://web.archive.org/web/\*/http://miripsion.googlepages.com/*) | ✅ Indexed.
+psionslair.co.cc/ | [Link](https://web.archive.org/web/\*/http://psionslair.co.cc/*) | [-] In progress
 shiftedperspectives.net | [Link](https://web.archive.org/web/*/shiftedperspectives.net*) | 
 tkforums.com | [Link](https://web.archive.org/web/*/tkforums.com*) | 
 freewebs.com/psionicstudents | [Link](https://web.archive.org/web/*/http://www.freewebs.com/psionicstudents/*) | 
 pyroar.tripod.com | [Link](https://web.archive.org/web/*/http://pyroar.tripod.com/*) | 
 psiscape.net | [Link](https://web.archive.org/web/*/http://www.psiscape.net/*) | 
+psionicsinstitute.org/ | [Link](https://web.archive.org/web/*/https://www.psionicsinstitute.org*) | Still live as of 06/2023; https://www.psionicsinstitute.org/ 
 psipalatium.com/ | [Link](https://web.archive.org/web/\*/http://www.psipalatium.com/*) | Still active as of 06/2023; http://www.psipalatium.com/index.php
 psipog | N/A | Archived in a zip file, accessible [here](https://web.archive.org/web/20130321035504/http://www.psipog.net/) |

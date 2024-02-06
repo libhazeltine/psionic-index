@@ -46,6 +46,7 @@
 | astateofmind.eu | Shelling \<Hech \[UPC]> | https://web.archive.org/web/20100202212950/http://astateofmind.eu:80/2008/12/07/shelling
 | psc-online.org | Energetic Cords and Tendrils \<Rainsong> | https://web.archive.org/web/20180507171922/http://psc-online.org/doku.php?id=blog:tendrils
 | forums.vsociety.net | Programming Constructs/Thoughtforms \<ChezNips> | https://web.archive.org/web/20100707165358/http://forums.vsociety.net/index.php/topic,10838.0.html
+| miripsion.googlepages.com | Advanced constructs - A brief guide to the daunting \<miri> | https://web.archive.org/web/20090607140830/http://miripsion.googlepages.com:80/advancedconstructs |
 
 ## Shielding
 | Source | Name  \<Author> | Link | Notes |
