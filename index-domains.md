@@ -3,6 +3,7 @@
 You're free to explore these, but none of the content has been reviewed or filtered in any way.
 Inclusion on this list is not, in any way, an endorsement of any kind. (That's what the other indexes are for.)
 
+## Standard Workflow
 | Domain | WebArchive URL list link | Notes |
 | ------ | ------------------------ | ------|
 psilinks.net | [Link](https://web.archive.org/web/\*/psilinks.net*) | ✅ Indexed.
@@ -30,12 +31,25 @@ psinet.proboards107.com/ | [Link](https://web.archive.org/web/\*/http://psinet.p
 psiontemple.proboards.com/ | [Link](https://web.archive.org/web/\*/http://psiontemple.proboards.com/*) | ✅ Indexed.
 tkforums.com/ | [Link](https://web.archive.org/web/\*/http://www.tkforums.com/*) | ✅ Indexed.
 miripsion.googlepages.com/* | [Link](https://web.archive.org/web/\*/http://miripsion.googlepages.com/*) | ✅ Indexed.
-psionslair.co.cc/ | [Link](https://web.archive.org/web/\*/http://psionslair.co.cc/*) | [-] In progress
-shiftedperspectives.net | [Link](https://web.archive.org/web/*/shiftedperspectives.net*) | 
-tkforums.com | [Link](https://web.archive.org/web/*/tkforums.com*) | 
 freewebs.com/psionicstudents | [Link](https://web.archive.org/web/*/http://www.freewebs.com/psionicstudents/*) | 
 pyroar.tripod.com | [Link](https://web.archive.org/web/*/http://pyroar.tripod.com/*) | 
 psiscape.net | [Link](https://web.archive.org/web/*/http://www.psiscape.net/*) | 
-psionicsinstitute.org/ | [Link](https://web.archive.org/web/*/https://www.psionicsinstitute.org*) | Still live as of 06/2023; https://www.psionicsinstitute.org/ 
-psipalatium.com/ | [Link](https://web.archive.org/web/\*/http://www.psipalatium.com/*) | Still active as of 06/2023; http://www.psipalatium.com/index.php
-psipog | N/A | Archived in a zip file, accessible [here](https://web.archive.org/web/20130321035504/http://www.psipog.net/) |
+
+## Major tasks
+ - [shiftedperspectives.net](https://web.archive.org/web/*/shiftedperspectives.net*) 
+   - 5100+ pages on WebArchive, will need significant time investment.
+   - [=] In queue.
+ - psionicsinstitute.org - [Live as of 02/2024](https://www.psionicsinstitute.org/), [WebArchive link](https://web.archive.org/web/*/https://www.psionicsinstitute.org*) 
+   - Need to figure out how to mix live content with archives.
+   - [=] In queue.
+ - psipalatium.com - [Live as of 02/2024](http://www.psipalatium.com/index.php), [WebArchive link](https://web.archive.org/web/*/http://www.psipalatium.com/*) 
+   - Same situation as psionicsinstitute.org
+   - [=] In queue.
+ - [psionicsonline.net](https://web.archive.org/web/*/psionicsonline.net*)
+   - Need to reinvestigate. IIRC some of this site was structured in a weird way that I never actually accounted for, so some of it was ignored.
+   - [=] In queue.
+ - psipog.net - [Full site backup from closure](https://web.archive.org/web/20130321035504/http://www.psipog.net/), [WebArchive link](https://web.archive.org/web/*/http://www.psipog.net/*)
+   - Compressed archive is more comprehensive than webarchives, so I'll have to manually fill in paths to the selfhosted archive.
+      - Text contents and file listings are at https://github.com/libhazeltine/psipog-lhz/tree/main
+      - HTML-rendered contents at https://libhazeltine.github.io/psipog-lhz/
+   - [=] In queue.
