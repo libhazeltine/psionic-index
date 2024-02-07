@@ -31,13 +31,15 @@ psinet.proboards107.com/ | [Link](https://web.archive.org/web/\*/http://psinet.p
 psiontemple.proboards.com/ | [Link](https://web.archive.org/web/\*/http://psiontemple.proboards.com/*) | ✅ Indexed.
 tkforums.com/ | [Link](https://web.archive.org/web/\*/http://www.tkforums.com/*) | ✅ Indexed.
 miripsion.googlepages.com/* | [Link](https://web.archive.org/web/\*/http://miripsion.googlepages.com/*) | ✅ Indexed.
-freewebs.com/psionicstudents | [Link](https://web.archive.org/web/*/http://www.freewebs.com/psionicstudents/*) | 
-pyroar.tripod.com | [Link](https://web.archive.org/web/*/http://pyroar.tripod.com/*) | 
-psiscape.net | [Link](https://web.archive.org/web/*/http://www.psiscape.net/*) | 
+freewebs.com/psionicstudents | [Link](https://web.archive.org/web/*/http://www.freewebs.com/psionicstudents/*) | ✅ Indexed.
+pyroar.tripod.com | [Link](https://web.archive.org/web/*/http://pyroar.tripod.com/*) | ✅ Indexed.
 
 ## Major tasks
+ - [psiscape.net](https://web.archive.org/web/*/http://www.psiscape.net/*)
+   - 5100+ pages on WebArchive, requires significant time investment.
+   - [=] In queue.
  - [shiftedperspectives.net](https://web.archive.org/web/*/shiftedperspectives.net*) 
-   - 5100+ pages on WebArchive, will need significant time investment.
+   - Same situation as psiscape.net
    - [=] In queue.
  - psionicsinstitute.org - [Live as of 02/2024](https://www.psionicsinstitute.org/), [WebArchive link](https://web.archive.org/web/*/https://www.psionicsinstitute.org*) 
    - Need to figure out how to mix live content with archives.
