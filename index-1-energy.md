@@ -47,6 +47,7 @@
 | psc-online.org | Energetic Cords and Tendrils \<Rainsong> | https://web.archive.org/web/20180507171922/http://psc-online.org/doku.php?id=blog:tendrils
 | forums.vsociety.net | Programming Constructs/Thoughtforms \<ChezNips> | https://web.archive.org/web/20100707165358/http://forums.vsociety.net/index.php/topic,10838.0.html
 | miripsion.googlepages.com | Advanced constructs - A brief guide to the daunting \<miri> | https://web.archive.org/web/20090607140830/http://miripsion.googlepages.com:80/advancedconstructs |
+| psiscape.net | Making Constructs: To Add-In All Programs Conciously or Not? \<_forums_> | https://web.archive.org/web/20060104114845/http://www.psiscape.net:80/phpBB2/viewtopic.php?t=420&amp;sid=50acb108e615e6a42354c460329cc376
 
 ## Shielding
 | Source | Name  \<Author> | Link | Notes |
@@ -62,7 +63,7 @@
 | forums.vsociety.net | Shielding: The Dynamic Psi Perspective \<Kettle> | https://web.archive.org/web/20140703005508/http://forums.vsociety.net/index.php/topic,14903.0.html
 | forums.vsociety.net | I would like to share an article on shielding if I may \<Sigma> | https://web.archive.org/web/20130719183900/http://forums.vsociety.net/index.php/topic,10094.0/prev_next,next.html
 
-## Perception and Scanning
+## Sensitivity, Perception, and Scanning
 | Source | Name  \<Author> | Link | Notes |
 | ------ | ---- | ---- | ----- |
 | psionguild.org | Energy Sensing \<Winged Wolf> | https://web.archive.org/web/20120209204136/http://psionguild.org:80/education/articles/foundation/energy-sensing |
@@ -87,6 +88,10 @@
 | astateofmind.eu | Remote Viewing: A Look Upon the Abstract \<DagoRed \[UPC]> | https://web.archive.org/web/20081207053358/http://astateofmind.eu:80/2008/12/05/remote-viewing-a-look-upon-the-abstract/
 | astateofmind.eu | Rudimentary Scanning \<Jaci \[UPC]> | https://web.archive.org/web/20100204151549/http://astateofmind.eu:80/2008/12/06/rudimentary-scanning/
 | astateofmind.eu | How to use your memories to improve clairvoyance \<Nathaniel> | https://web.archive.org/web/20101213024804/http://astateofmind.eu:80/2010/12/03/memories-improve-clairvoyance/
+| psiscape.net | Scanning and reporting on scan [in parallel] \<_forums_> | https://web.archive.org/web/20060104112312/http://www.psiscape.net:80/phpBB2/viewtopic.php?t=241&amp;sid=b0d6706e86eae33b7931687a73506cbe
+| psiscape.net | Moving awarness, increasing sensitivity \<_forums_> | https://web.archive.org/web/20060104114343/http://www.psiscape.net:80/phpBB2/viewtopic.php?t=284&amp;sid=b0d6706e86eae33b7931687a73506cbe
+| psiscape.net | Sensitivity [training methods] \<_forums_> | https://web.archive.org/web/20060104115101/http://www.psiscape.net:80/phpBB2/viewtopic.php?t=442&amp;sid=b0d6706e86eae33b7931687a73506cbe
+| psiscape.net | Increasing Sensitivity... \<_forums_> | https://web.archive.org/web/20060104165656/http://www.psiscape.net:80/phpBB2/viewtopic.php?t=182&amp;sid=641e3c2f0e6bd2ed12cd9f5206a934e2
 
 ## Healing
 | Source | Name  \<Author> | Link | Notes |
