@@ -6,7 +6,7 @@ Inclusion on this list is not, in any way, an endorsement of any kind. (That's w
 ## Major indexing tasks
  - [psiscape.net](https://web.archive.org/web/*/http://www.psiscape.net/*)
    - 5100+ pages on WebArchive, requires significant time investment.
-   - [=] In queue.
+   -  ✅ Done.
  - [shiftedperspectives.net](https://web.archive.org/web/*/shiftedperspectives.net*) 
    - Same situation as psiscape.net
    - [=] In queue.
