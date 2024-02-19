@@ -23,6 +23,8 @@
 | forums.vsociety.net | Telepathy Exercise \<kobok> | https://web.archive.org/web/20130510084247/http%253A//forums.vsociety.net/index.php?topic%253D4829.0 | 
 | psiontemple.proboards.com | Telepathy \<Orion> | https://web.archive.org/web/20180312020552/http://psiontemple.proboards.com/thread/98/lesson-6-telepathy?page=1 | 
 | psiontemple.proboards.com | Telepathic Suggestion \<Orion> | https://web.archive.org/web/20160708163347/http://psiontemple.proboards.com/thread/99/lesson-6-5-telepathic-suggestion | 
+| hearxmexpsi.blogspot.com | Telepathy Article \<Nervous> | https://web.archive.org/web/20240219015027/http://hearxmexpsi.blogspot.com/2009/06/never-worked-day-in-my-life.html
+
 
 # Other 
 | Source | Name | Link | Notes |
