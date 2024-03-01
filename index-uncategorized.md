@@ -73,6 +73,8 @@
 | totse.com | Psionic Training Guide \<Xirokoto> | https://web.archive.org/web/20070520064617/http://www.totse.com/en/fringe/dreams_auras_astral_projection/psionictrainin191367.html | 
 | astateofmind.eu | 5 steps to read an object with psychometry \<Nathan> | https://web.archive.org/web/20100404012436/http://astateofmind.eu:80/2010/04/02/5-steps-to-read-an-object-with-psychometry/ | 
 | ppsociety.com | Another vision on learning TK (Bone breathing) \<Dragor> | https://web.archive.org/web/20050223201453/http://ppsociety.com:80/w_articlev.php?id=9 |
+| shiftedperspectives.net | The Uses of Psi \<JediKaren> | https://web.archive.org/web/20120423020145/http://shiftedperspectives.net:80/articles.php?id=64
+| shiftedperspectives.net | Experimenting with Psi \<Notagh> | https://web.archive.org/web/20110915032938/http://shiftedperspectives.net:80/forum/index.php?topic=1921.0
 
 
 
