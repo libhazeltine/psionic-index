@@ -24,6 +24,7 @@
 | psiontemple.proboards.com | Telepathy \<Orion> | https://web.archive.org/web/20180312020552/http://psiontemple.proboards.com/thread/98/lesson-6-telepathy?page=1 | 
 | psiontemple.proboards.com | Telepathic Suggestion \<Orion> | https://web.archive.org/web/20160708163347/http://psiontemple.proboards.com/thread/99/lesson-6-5-telepathic-suggestion | 
 | shiftedperspectives.net | I don't know if you guys do [telepathic suggestion] like this but.... \<_forums_> | https://web.archive.org/web/20101223094531/http://shiftedperspectives.net/forum/index.php/topic,972.0.html
+| shiftedperspectives.net | Sending and Receiving \<Stolide Demens> | https://web.archive.org/web/20120423020211/http://shiftedperspectives.net/articles.php?id=100
 
 # Other 
 | Source | Name | Link | Notes |

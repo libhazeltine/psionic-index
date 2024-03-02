@@ -60,6 +60,8 @@
 | forums.vsociety.net | Any ways to harm people (besides yourself) doing psi? (2 of 2) \<_forums_> | https://web.archive.org/web/20130511221055/http%253A//forums.vsociety.net/index.php/topic%252C1013.15.html
 | psionline.org | How to Alter Your Signature \<FrozenFlames> | https://web.archive.org/web/20071114083124/http://www.psionline.org:80/2007/10/cullens-guide-to-energy-manipulation.html
 | psiscape.net | Non-Shielding Defences against Empathy and/or Telepathy \<_forum_> | https://web.archive.org/web/20060104125631/http://www.psiscape.net:80/phpBB2/viewtopic.php?t=74&amp;start=0&amp;sid=cca37b8afffb4b9eedee37f4967b39c6
+| shiftedperspectives.net | Intermediate Combat \<Stolide Demens> | https://web.archive.org/web/20120423020200/http://shiftedperspectives.net/articles.php?id=106
+| shiftedperspectives.net | Offensive Constructs \<Stolide Demens> | https://web.archive.org/web/20120423020200/http://shiftedperspectives.net/articles.php?id=95
 
 
 
