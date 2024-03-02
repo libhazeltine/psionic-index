@@ -10,6 +10,9 @@ Inclusion on this list is not, in any way, an endorsement of any kind. (That's w
  - [shiftedperspectives.net](https://web.archive.org/web/*/shiftedperspectives.net*) 
    - Same situation as psiscape.net
    - [-] In progress, see [the branch](https://github.com/libhazeltine/libhazeltine/tree/shiftedperspectives).
+ - [thepsiworld.net](https://web.archive.org/web/*/http://www.thepsiworld.net/*)
+   - 1600+ pages, so not as? bad
+   - [=] In queue
  - psionicsinstitute.org - [Live as of 02/2024](https://www.psionicsinstitute.org/), [WebArchive link](https://web.archive.org/web/*/https://www.psionicsinstitute.org*) 
    - Need to figure out how to mix live content with archives.
    - [=] In queue.
