@@ -77,6 +77,7 @@
 | ppsociety.com | Another vision on learning TK (Bone breathing) \<Dragor> | https://web.archive.org/web/20050223201453/http://ppsociety.com:80/w_articlev.php?id=9 |
 | shiftedperspectives.net | The Uses of Psi \<JediKaren> | https://web.archive.org/web/20120423020145/http://shiftedperspectives.net:80/articles.php?id=64
 | shiftedperspectives.net | Experimenting with Psi \<Notagh> | https://web.archive.org/web/20110915032938/http://shiftedperspectives.net:80/forum/index.php?topic=1921.0
+| shiftedperspectives.net | Adfeng's Technique Stash \<The Adfeng> | https://web.archive.org/web/20171210051347/http://shiftedperspectives.net:80/forum/index.php?topic=2811.0
 
 
 
