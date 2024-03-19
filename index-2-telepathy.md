@@ -25,6 +25,8 @@
 | psiontemple.proboards.com | Telepathic Suggestion \<Orion> | https://web.archive.org/web/20160708163347/http://psiontemple.proboards.com/thread/99/lesson-6-5-telepathic-suggestion | 
 | shiftedperspectives.net | I don't know if you guys do [telepathic suggestion] like this but.... \<_forums_> | https://web.archive.org/web/20101223094531/http://shiftedperspectives.net/forum/index.php/topic,972.0.html
 | shiftedperspectives.net | Sending and Receiving \<Stolide Demens> | https://web.archive.org/web/20120423020211/http://shiftedperspectives.net/articles.php?id=100
+| hearxmexpsi.blogspot.com | Telepathy Article \<Nervous> | https://web.archive.org/web/20240219015027/http://hearxmexpsi.blogspot.com/2009/06/never-worked-day-in-my-life.html
+
 
 # Other 
 | Source | Name | Link | Notes |
@@ -37,3 +39,4 @@
 | psionguild.org/forums | Telepathy and Empathy...with pets | https://web.archive.org/web/20140221140348/http://psionguild.org:80/forums/archive/index.php/t-4843.html
 | psionguild.org/forums | Physical Possession \<_forums_> | https://web.archive.org/web/20140224020657/http://psionguild.org:80/forums/archive/index.php/t-7637.html
 | forums.vsociety.net | Telepathy conundrum \[foreign languages] \<_forums_> | https://web.archive.org/web/20100707181143/http://forums.vsociety.net/index.php/topic,10974.0/prev_next,next.html | 
+| shiftedperspectives.net | Psi and Insects \<_forums_> | https://web.archive.org/web/20101223143006/http://shiftedperspectives.net/forum/index.php/topic,1332.0.html
