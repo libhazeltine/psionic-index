@@ -60,6 +60,8 @@
 | forums.vsociety.net | Any ways to harm people (besides yourself) doing psi? (2 of 2) \<_forums_> | https://web.archive.org/web/20130511221055/http%253A//forums.vsociety.net/index.php/topic%252C1013.15.html
 | psionline.org | How to Alter Your Signature \<FrozenFlames> | https://web.archive.org/web/20071114083124/http://www.psionline.org:80/2007/10/cullens-guide-to-energy-manipulation.html
 | psiscape.net | Non-Shielding Defences against Empathy and/or Telepathy \<_forum_> | https://web.archive.org/web/20060104125631/http://www.psiscape.net:80/phpBB2/viewtopic.php?t=74&amp;start=0&amp;sid=cca37b8afffb4b9eedee37f4967b39c6
+| shiftedperspectives.net | Intermediate Combat \<Stolide Demens> | https://web.archive.org/web/20120423020200/http://shiftedperspectives.net/articles.php?id=106
+| shiftedperspectives.net | Offensive Constructs \<Stolide Demens> | https://web.archive.org/web/20120423020200/http://shiftedperspectives.net/articles.php?id=95
 
 
 
@@ -73,6 +75,9 @@
 | totse.com | Psionic Training Guide \<Xirokoto> | https://web.archive.org/web/20070520064617/http://www.totse.com/en/fringe/dreams_auras_astral_projection/psionictrainin191367.html | 
 | astateofmind.eu | 5 steps to read an object with psychometry \<Nathan> | https://web.archive.org/web/20100404012436/http://astateofmind.eu:80/2010/04/02/5-steps-to-read-an-object-with-psychometry/ | 
 | ppsociety.com | Another vision on learning TK (Bone breathing) \<Dragor> | https://web.archive.org/web/20050223201453/http://ppsociety.com:80/w_articlev.php?id=9 |
+| shiftedperspectives.net | The Uses of Psi \<JediKaren> | https://web.archive.org/web/20120423020145/http://shiftedperspectives.net:80/articles.php?id=64
+| shiftedperspectives.net | Experimenting with Psi \<Notagh> | https://web.archive.org/web/20110915032938/http://shiftedperspectives.net:80/forum/index.php?topic=1921.0
+| shiftedperspectives.net | Adfeng's Technique Stash \<The Adfeng> | https://web.archive.org/web/20171210051347/http://shiftedperspectives.net:80/forum/index.php?topic=2811.0
 
 
 

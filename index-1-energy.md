@@ -16,6 +16,9 @@
 | forums.vsociety.net | Energy Manipulation Guide [1/3] \<ChezNips> | https://web.archive.org/web/20190623182335/http://forums.vsociety.net/index.php/topic,10829.0.html
 | forums.vsociety.net | Energy Manipulation Guide [2/3] \<ChezNips> | https://web.archive.org/web/20190623185019/http://forums.vsociety.net/index.php/topic,10829.15.html
 | forums.vsociety.net | Energy Manipulation Guide [3/3] \<ChezNips> | https://web.archive.org/web/20190625002101/http://forums.vsociety.net/index.php/topic,10829.30.html
+| shiftedperspectives.net | Psi Balls and Basic Constructs \<Dangpp> | https://web.archive.org/web/20120423020201/http://shiftedperspectives.net/articles.php?id=7
+| shiftedperspectives.net | The Flow of Psi \<_multiple authors_> | https://web.archive.org/web/20120423020201/http://shiftedperspectives.net/articles.php?id=9
+
 
 
 ## Charging and Cultivation
@@ -48,6 +51,7 @@
 | forums.vsociety.net | Programming Constructs/Thoughtforms \<ChezNips> | https://web.archive.org/web/20100707165358/http://forums.vsociety.net/index.php/topic,10838.0.html
 | miripsion.googlepages.com | Advanced constructs - A brief guide to the daunting \<miri> | https://web.archive.org/web/20090607140830/http://miripsion.googlepages.com:80/advancedconstructs |
 | psiscape.net | Making Constructs: To Add-In All Programs Conciously or Not? \<_forums_> | https://web.archive.org/web/20060104114845/http://www.psiscape.net:80/phpBB2/viewtopic.php?t=420&amp;sid=50acb108e615e6a42354c460329cc376
+| shiftedperspectives.net | Understanding Constructs \<XPWarrior3> | https://web.archive.org/web/20120423020202/http://shiftedperspectives.net/articles.php?id=8
 
 ## Shielding
 | Source | Name  \<Author> | Link | Notes |
@@ -92,6 +96,8 @@
 | psiscape.net | Moving awarness, increasing sensitivity \<_forums_> | https://web.archive.org/web/20060104114343/http://www.psiscape.net:80/phpBB2/viewtopic.php?t=284&amp;sid=b0d6706e86eae33b7931687a73506cbe
 | psiscape.net | Sensitivity [training methods] \<_forums_> | https://web.archive.org/web/20060104115101/http://www.psiscape.net:80/phpBB2/viewtopic.php?t=442&amp;sid=b0d6706e86eae33b7931687a73506cbe
 | psiscape.net | Increasing Sensitivity... \<_forums_> | https://web.archive.org/web/20060104165656/http://www.psiscape.net:80/phpBB2/viewtopic.php?t=182&amp;sid=641e3c2f0e6bd2ed12cd9f5206a934e2
+| shiftedperspectives.net | Feeling and Using Psi \<Orion> | https://web.archive.org/web/20120423020200/http://shiftedperspectives.net/articles.php?id=83
+| shiftedperspectives.net | On Psychological Interpretations of Subtle Energy \<Stolide Demens> | https://web.archive.org/web/20120423020215/http://shiftedperspectives.net/articles.php?id=110
 
 ## Healing
 | Source | Name  \<Author> | Link | Notes |
@@ -111,3 +117,4 @@
 | psionguild.org | Wards \<Anka> | https://web.archive.org/web/20131011115833/http://psionguild.org/education/articles/defense-combat/wards/ |
 | psionicsonline.net | Three Easy Steps to: Flaring \<Jynx493> | https://web.archive.org/web/20080411092822/http://www.psionicsonline.net:80/flaring | 
 | forums.vsociety.net | The Secondary Cerebral Cortex of the Psion \<Kettle> | https://web.archive.org/web/20190623185029/http://forums.vsociety.net/index.php/topic,11619.0.html
+| shiftedperspectives.net | Cloaking Shields \<Stolide Demens> | https://web.archive.org/web/20120423020159/http://shiftedperspectives.net/articles.php?id=98

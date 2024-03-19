@@ -9,7 +9,7 @@ Inclusion on this list is not, in any way, an endorsement of any kind. (That's w
    -  ✅ Done.
  - [shiftedperspectives.net](https://web.archive.org/web/*/shiftedperspectives.net*) 
    - Same situation as psiscape.net
-   - [-] In progress, see [the branch](https://github.com/libhazeltine/libhazeltine/tree/shiftedperspectives).
+   - ✅ Done.
  - [thepsiworld.net](https://web.archive.org/web/*/http://www.thepsiworld.net/*)
    - 1600+ pages, so not as? bad
    - [=] In queue
