@@ -14,6 +14,6 @@ While the communities of those forums, and the people who ran those blogs, are a
 
 ### Sources and Support
 
-*The Hazeltine Library Archives and their development is made possible by data from the Internet Archive.* 
+*The Hazeltine Library Archives and their development are made possible by data from the Internet Archive.* 
 
 *Show your support for projects like this and more:* https://archive.org/donate
