@@ -2,6 +2,8 @@
 
 *Phase 1*
 
+\[UPDATE, SPRING 2024\] **This is, and always has been a data preservation project. Links to or backups of content in this repository does not inherently imply an endorsement of that content,** nor does it mean that the information is meaningful to me or my practice. However, I have no intention of cancelling or stopping this project at the moment.
+
 A curated collection of content from psionics message boards from the Wayback Machine. Psionics is defined as the use of psychic abilities and energies in a context independent of wider spirituality.
 
 Unlike formal parapsychology, psionics was practiced informally, by people who made money in other hobbies, and who shared information openly, without paywalls, on a somewhat-decentralized network of forums and blogs. 
@@ -10,8 +12,8 @@ While the communities of those forums, and the people who ran those blogs, are a
 
 **Right now, this repo consists solely of category-sorted link indexes, but in the future it will contain direct backups of the content, manually transcribed in Markdown format.**
 
-### Project Links
+### Sources and Support
 
-Suggest content for the library -> https://www.github.com/libhazeltine/libhazeltine/issues/new?labels=content-suggestion
+*The Hazeltine Library Archives and their development is made possible by data from the Internet Archive.* 
 
-**Donate to the Internet Archive** -> https://archive.org/donate
+*Show your support for projects like this and more:* https://archive.org/donate
