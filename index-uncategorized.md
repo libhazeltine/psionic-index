@@ -38,6 +38,8 @@
 | freewebs.com/jedikaren | About the Astral Plane \<JediKaren> | https://web.archive.org/web/20071222002836/http://www.freewebs.com:80/jedikaren/howtoap.htm
 | astateofmind.eu | An Introduction to Remote Touch \<Jonn \[UPC]> | https://web.archive.org/web/20100523120850/http://astateofmind.eu:80/2008/11/19/an-introduction-to-remote-touch/
 | psc-online.org | Dreamwalking and Lucid Dreaming \<Rainsong> | https://web.archive.org/web/20180507171847/http://psc-online.org/doku.php?id=blog:dreamwalking_and_lucid_dreams
+| thepsiworld.net | Faking AP through Constructs \<Chain the Warforged> | https://web.archive.org/web/20080819132327/http://www.thepsiworld.net:80/forum/index.php/topic,1376.0.html
+
 
 ## Precognition
 | Source | Name \<Author> | Link | Notes |
@@ -62,6 +64,7 @@
 | psiscape.net | Non-Shielding Defences against Empathy and/or Telepathy \<_forum_> | https://web.archive.org/web/20060104125631/http://www.psiscape.net:80/phpBB2/viewtopic.php?t=74&amp;start=0&amp;sid=cca37b8afffb4b9eedee37f4967b39c6
 | shiftedperspectives.net | Intermediate Combat \<Stolide Demens> | https://web.archive.org/web/20120423020200/http://shiftedperspectives.net/articles.php?id=106
 | shiftedperspectives.net | Offensive Constructs \<Stolide Demens> | https://web.archive.org/web/20120423020200/http://shiftedperspectives.net/articles.php?id=95
+| thepsiworld.net | Exoskeletal Armor \<Chain the Warforged> | https://web.archive.org/web/20090220145430/http://www.thepsiworld.net:80/forum/index.php?topic=1018.0
 
 
 

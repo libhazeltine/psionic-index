@@ -66,6 +66,7 @@
 | forums.vsociety.net | How to Shield \<ChezNips> | https://web.archive.org/web/20100707170046/http://forums.vsociety.net/index.php/topic,10831.0.html
 | forums.vsociety.net | Shielding: The Dynamic Psi Perspective \<Kettle> | https://web.archive.org/web/20140703005508/http://forums.vsociety.net/index.php/topic,14903.0.html
 | forums.vsociety.net | I would like to share an article on shielding if I may \<Sigma> | https://web.archive.org/web/20130719183900/http://forums.vsociety.net/index.php/topic,10094.0/prev_next,next.html
+| thepsiworld.net | Basic Shielding Techniques and Thinking in Concepts by Anuboern \<Fearn> | https://web.archive.org/web/20090220084935/http://www.thepsiworld.net:80/forum/index.php/topic,2515.0/prev_next,prev.html
 
 ## Sensitivity, Perception, and Scanning
 | Source | Name  \<Author> | Link | Notes |
