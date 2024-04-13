@@ -81,6 +81,7 @@
 | shiftedperspectives.net | The Uses of Psi \<JediKaren> | https://web.archive.org/web/20120423020145/http://shiftedperspectives.net:80/articles.php?id=64
 | shiftedperspectives.net | Experimenting with Psi \<Notagh> | https://web.archive.org/web/20110915032938/http://shiftedperspectives.net:80/forum/index.php?topic=1921.0
 | shiftedperspectives.net | Adfeng's Technique Stash \<The Adfeng> | https://web.archive.org/web/20171210051347/http://shiftedperspectives.net:80/forum/index.php?topic=2811.0
+| thepsiworld.net | Tech - a new method to working with energy [Omnimancy, i believe] \<Brilenus> | https://web.archive.org/web/20090224072222/http://www.thepsiworld.net:80/forum/index.php?topic=2060.0
 
 
 

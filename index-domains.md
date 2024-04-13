@@ -1,7 +1,7 @@
 # Root Domains
 **This is the admin's TODO list.**
 You're free to explore the content linked here, but the links on this page have not been reviewed or filtered in any way.
-Inclusion on this list is not, in any way, an endorsement of any kind. (That's what the other indexes are for.)
+Inclusion on this list is not, in any way, an endorsement of any kind.
 
 ## Major indexing tasks
  - [psiscape.net](https://web.archive.org/web/*/http://www.psiscape.net/*)
@@ -12,7 +12,11 @@ Inclusion on this list is not, in any way, an endorsement of any kind. (That's w
    - ✅ Done.
  - [thepsiworld.net](https://web.archive.org/web/*/http://www.thepsiworld.net/*)
    - 1600+ pages, so not as? bad
-   - [=] In queue
+   - [-] In progress, see [the branch](https://github.com/libhazeltine/libhazeltine/tree/thepsiworld-net)
+ - \[libhazeltine] Index table layout change
+   - Change `| Source | Name \<Author> | Link | Notes |` in all markdown tables to `| Source | Name \[Notes, if any] \<Author> | Link`
+   - Remove trailing separators after links in all tables
+   - This HAS to be done in between releases to avoid merge resolution headaches
  - psionicsinstitute.org - [Live as of 02/2024](https://www.psionicsinstitute.org/), [WebArchive link](https://web.archive.org/web/*/https://www.psionicsinstitute.org*) 
    - Need to figure out how to mix live content with archives.
    - [=] In queue.
@@ -58,4 +62,4 @@ tkforums.com/ | [Link](https://web.archive.org/web/\*/http://www.tkforums.com/*)
 miripsion.googlepages.com/* | [Link](https://web.archive.org/web/\*/http://miripsion.googlepages.com/*) | ✅ Indexed.
 freewebs.com/psionicstudents | [Link](https://web.archive.org/web/*/http://www.freewebs.com/psionicstudents/*) | ✅ Indexed.
 pyroar.tripod.com | [Link](https://web.archive.org/web/*/http://pyroar.tripod.com/*) | ✅ Indexed.
-
+houseofancients.com | [Link](https://web.archive.org/web/*/www.houseofancients.com*) | [=] Needs review.
