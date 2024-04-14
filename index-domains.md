@@ -58,3 +58,12 @@ tkforums.com/ | [Link](https://web.archive.org/web/\*/http://www.tkforums.com/*)
 miripsion.googlepages.com/* | [Link](https://web.archive.org/web/\*/http://miripsion.googlepages.com/*) | ✅ Indexed. |
 freewebs.com/psionicstudents | [Link](https://web.archive.org/web/*/http://www.freewebs.com/psionicstudents/*) | ✅ Indexed. |
 pyroar.tripod.com | [Link](https://web.archive.org/web/*/http://pyroar.tripod.com/*) | ✅ Indexed. |
+
+## Source-specific notes
+### psionicsinstitute.org
+Certain sites from the forum sections of `psionicsinstitute.org` and `psionics.net16.net` have some rather weird page layout errors on the Wayback Machine.
+If you encounter these issues, you can run the following code in your browser's console to fix it:
+```js
+document.getElementById("main").style.setProperty('margin-left', '0%');
+```
+[*Never copy and paste browser commands that you do not understand.*](https://en.wikipedia.org/wiki/Self-XSS)

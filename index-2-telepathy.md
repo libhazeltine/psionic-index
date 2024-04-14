@@ -26,6 +26,7 @@
 | shiftedperspectives.net | I don't know if you guys do [telepathic suggestion] like this but.... \<Forum thread> | https://web.archive.org/web/20101223094531/http://shiftedperspectives.net/forum/index.php/topic,972.0.html |
 | shiftedperspectives.net | Sending and Receiving \<Stolide Demens> | https://web.archive.org/web/20120423020211/http://shiftedperspectives.net/articles.php?id=100 |
 | hearxmexpsi.blogspot.com | Telepathy Article \<Nervous> | https://web.archive.org/web/20240219015027/http://hearxmexpsi.blogspot.com/2009/06/never-worked-day-in-my-life.html |
+| psionics.net16.net | Some Observations on Telepathy \[ [*See notes*](./index-domains.md#psionicsinstituteorg) ] \<Kath> | https://web.archive.org/web/20110302133752/http://psionics.net16.net:80/forum/viewthread.php?thread_id=50&pid=184
 
 
 # Other 
