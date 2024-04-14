@@ -18,6 +18,9 @@
 | forums.vsociety.net | Brain Training \<ChezNips> | https://web.archive.org/web/20180925203804/http://forums.vsociety.net/index.php/topic,10827.0.html
 | forums.vsociety.net | Relaxation \<Neo> | https://web.archive.org/web/20130512140516/http%253A//forums.vsociety.net/index.php/topic%252C10.0/prev_next%252Cnext.html |
 | psiscape.net | Visualization/Focusing Exercise \<_forums_> | https://web.archive.org/web/20060104114520/http://www.psiscape.net:80/phpBB2/viewtopic.php?t=349&amp;sid=ca5e6d801b1ef9233f5f81e9eb54dd05
+| zhkyrl.brinkster.net/psionline | Keeping Your Focus \<PaleHorse> | https://web.archive.org/web/20070104125023/http://zhkyrl.brinkster.net:80/psionline/b_focus.html
+| zhkyrl.brinkster.net/psionline | The Basics of Visualization \<DevilsAdvocate> | https://web.archive.org/web/20070112055334/http://zhkyrl.brinkster.net:80/psionline/p_devilvis.html
+| zhkyrl.brinkster.net/psionline | Beyond Visualization \<DanielH> | https://web.archive.org/web/20070104125903/http://zhkyrl.brinkster.net:80/psionline/p_beyondvis.html
 
 ## Common Problems
 | Source | Name \<Author> | Link | Notes |
@@ -38,6 +41,8 @@
 | freewebs.com/jedikaren | About the Astral Plane \<JediKaren> | https://web.archive.org/web/20071222002836/http://www.freewebs.com:80/jedikaren/howtoap.htm
 | astateofmind.eu | An Introduction to Remote Touch \<Jonn \[UPC]> | https://web.archive.org/web/20100523120850/http://astateofmind.eu:80/2008/11/19/an-introduction-to-remote-touch/
 | psc-online.org | Dreamwalking and Lucid Dreaming \<Rainsong> | https://web.archive.org/web/20180507171847/http://psc-online.org/doku.php?id=blog:dreamwalking_and_lucid_dreams
+| thepsiworld.net | Faking AP through Constructs \<Chain the Warforged> | https://web.archive.org/web/20080819132327/http://www.thepsiworld.net:80/forum/index.php/topic,1376.0.html
+
 
 ## Precognition
 | Source | Name \<Author> | Link | Notes |
@@ -62,6 +67,7 @@
 | psiscape.net | Non-Shielding Defences against Empathy and/or Telepathy \<_forum_> | https://web.archive.org/web/20060104125631/http://www.psiscape.net:80/phpBB2/viewtopic.php?t=74&amp;start=0&amp;sid=cca37b8afffb4b9eedee37f4967b39c6
 | shiftedperspectives.net | Intermediate Combat \<Stolide Demens> | https://web.archive.org/web/20120423020200/http://shiftedperspectives.net/articles.php?id=106
 | shiftedperspectives.net | Offensive Constructs \<Stolide Demens> | https://web.archive.org/web/20120423020200/http://shiftedperspectives.net/articles.php?id=95
+| thepsiworld.net | Exoskeletal Armor \<Chain the Warforged> | https://web.archive.org/web/20090220145430/http://www.thepsiworld.net:80/forum/index.php?topic=1018.0
 
 
 
@@ -78,6 +84,7 @@
 | shiftedperspectives.net | The Uses of Psi \<JediKaren> | https://web.archive.org/web/20120423020145/http://shiftedperspectives.net:80/articles.php?id=64
 | shiftedperspectives.net | Experimenting with Psi \<Notagh> | https://web.archive.org/web/20110915032938/http://shiftedperspectives.net:80/forum/index.php?topic=1921.0
 | shiftedperspectives.net | Adfeng's Technique Stash \<The Adfeng> | https://web.archive.org/web/20171210051347/http://shiftedperspectives.net:80/forum/index.php?topic=2811.0
+| thepsiworld.net | Tech - a new method to working with energy [Omnimancy, i believe] \<Brilenus> | https://web.archive.org/web/20090224072222/http://www.thepsiworld.net:80/forum/index.php?topic=2060.0
 
 
 
