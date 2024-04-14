@@ -13,7 +13,7 @@ Inclusion on this list is not, in any way, an endorsement of any kind.
  - [thepsiworld.net](https://web.archive.org/web/*/http://www.thepsiworld.net/*)
    - 1600+ pages, so not as? bad
    - [-] In progress, see [the branch](https://github.com/libhazeltine/libhazeltine/tree/thepsiworld-net)
- - \[libhazeltine] Index table layout change
+ - [libhazeltine](https://github.com/libhazeltine/libhazeltine/) Index table layout change
    - Change `| Source | Name \<Author> | Link | Notes |` in all markdown tables to `| Source | Name \[Notes, if any] \<Author> | Link`
    - Remove trailing separators after links in all tables
    - This HAS to be done in between releases to avoid merge resolution headaches
@@ -28,8 +28,6 @@ Inclusion on this list is not, in any way, an endorsement of any kind.
    - [=] In queue.
  - psipog.net - [Full site backup from closure](https://web.archive.org/web/20130321035504/http://www.psipog.net/), [WebArchive link](https://web.archive.org/web/*/http://www.psipog.net/*)
    - Compressed archive is more comprehensive than webarchives, so I'll have to manually fill in paths to the selfhosted archive.
-      - Text contents and file listings are at https://github.com/libhazeltine/psipog-lhz/tree/main
-      - HTML-rendered contents at https://libhazeltine.github.io/psipog-lhz/
    - [=] In queue.
 
 ## Other sources
