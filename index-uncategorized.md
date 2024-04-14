@@ -18,6 +18,9 @@
 | forums.vsociety.net | Brain Training \<ChezNips> | https://web.archive.org/web/20180925203804/http://forums.vsociety.net/index.php/topic,10827.0.html
 | forums.vsociety.net | Relaxation \<Neo> | https://web.archive.org/web/20130512140516/http%253A//forums.vsociety.net/index.php/topic%252C10.0/prev_next%252Cnext.html |
 | psiscape.net | Visualization/Focusing Exercise \<_forums_> | https://web.archive.org/web/20060104114520/http://www.psiscape.net:80/phpBB2/viewtopic.php?t=349&amp;sid=ca5e6d801b1ef9233f5f81e9eb54dd05
+| zhkyrl.brinkster.net/psionline | Keeping Your Focus \<PaleHorse> | https://web.archive.org/web/20070104125023/http://zhkyrl.brinkster.net:80/psionline/b_focus.html
+| zhkyrl.brinkster.net/psionline | The Basics of Visualization \<DevilsAdvocate> | https://web.archive.org/web/20070112055334/http://zhkyrl.brinkster.net:80/psionline/p_devilvis.html
+| zhkyrl.brinkster.net/psionline | Beyond Visualization \<DanielH> | https://web.archive.org/web/20070104125903/http://zhkyrl.brinkster.net:80/psionline/p_beyondvis.html
 
 ## Common Problems
 | Source | Name \<Author> | Link | Notes |

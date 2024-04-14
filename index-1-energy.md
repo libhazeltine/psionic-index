@@ -52,6 +52,8 @@
 | miripsion.googlepages.com | Advanced constructs - A brief guide to the daunting \<miri> | https://web.archive.org/web/20090607140830/http://miripsion.googlepages.com:80/advancedconstructs |
 | psiscape.net | Making Constructs: To Add-In All Programs Conciously or Not? \<_forums_> | https://web.archive.org/web/20060104114845/http://www.psiscape.net:80/phpBB2/viewtopic.php?t=420&amp;sid=50acb108e615e6a42354c460329cc376
 | shiftedperspectives.net | Understanding Constructs \<XPWarrior3> | https://web.archive.org/web/20120423020202/http://shiftedperspectives.net/articles.php?id=8
+| zhkyrl.brinkster.net/psionline | A Shelling Guide \<Hech> | https://web.archive.org/web/20070105082250/http://zhkyrl.brinkster.net:80/psionline/c_shelling.html
+
 
 ## Shielding
 | Source | Name  \<Author> | Link | Notes |
@@ -67,6 +69,7 @@
 | forums.vsociety.net | Shielding: The Dynamic Psi Perspective \<Kettle> | https://web.archive.org/web/20140703005508/http://forums.vsociety.net/index.php/topic,14903.0.html
 | forums.vsociety.net | I would like to share an article on shielding if I may \<Sigma> | https://web.archive.org/web/20130719183900/http://forums.vsociety.net/index.php/topic,10094.0/prev_next,next.html
 | thepsiworld.net | Basic Shielding Techniques and Thinking in Concepts by Anuboern \<Fearn> | https://web.archive.org/web/20090220084935/http://www.thepsiworld.net:80/forum/index.php/topic,2515.0/prev_next,prev.html
+| zhkyrl.brinkster.net/psionline | A Newbie's Guide to Shielding \<Stony1205> | https://web.archive.org/web/20070106000919/http://zhkyrl.brinkster.net:80/psionline/b_shield.html
 
 ## Sensitivity, Perception, and Scanning
 | Source | Name  \<Author> | Link | Notes |
