@@ -8,6 +8,7 @@
 | artofpsionics.proboards.com | Art of Emotions "Empathy" \<Drynal> | https://web.archive.org/web/20230721065906/https://artofpsionics.proboards.com/thread/89/art-emotions-empathy |
 | freewebs.com/jedikaren | The Cursed Gift \<JediKaren> | https://web.archive.org/web/20071222002831/http://www.freewebs.com:80/jedikaren/generalempathy.htm |
 | psc-online.org | Empathy \<Rainsong> | https://web.archive.org/web/20180507171851/http://psc-online.org/doku.php?id=blog:empathy |
+| psipalatium.com | Empathy and its Use \<ChezNips> | [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=606&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20230605110652/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=606&a1=&p1=&g1=&gp1=&s1=&s=1) |
 
 
 # Telepathy
@@ -26,7 +27,7 @@
 | shiftedperspectives.net | I don't know if you guys do [telepathic suggestion] like this but.... \<Forum thread> | https://web.archive.org/web/20101223094531/http://shiftedperspectives.net/forum/index.php/topic,972.0.html |
 | shiftedperspectives.net | Sending and Receiving \<Stolide Demens> | https://web.archive.org/web/20120423020211/http://shiftedperspectives.net/articles.php?id=100 |
 | hearxmexpsi.blogspot.com | Telepathy Article \<Nervous> | https://web.archive.org/web/20240219015027/http://hearxmexpsi.blogspot.com/2009/06/never-worked-day-in-my-life.html |
-| psionics.net16.net | Some Observations on Telepathy \[ [*See notes*](./index-domains.md#psionicsinstituteorg) ] \<Kath> | https://web.archive.org/web/20110302133752/http://psionics.net16.net:80/forum/viewthread.php?thread_id=50&pid=184
+| psionics.net16.net | Some Observations on Telepathy \[ [*See notes*](./index-domains.md#psionicsinstituteorg) ] \<Kath> | https://web.archive.org/web/20110302133752/http://psionics.net16.net:80/forum/viewthread.php?thread_id=50&pid=184 |
 
 
 # Other 
