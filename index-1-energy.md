@@ -19,6 +19,11 @@
 | shiftedperspectives.net | Psi Balls and Basic Constructs \<Dangpp> | https://web.archive.org/web/20120423020201/http://shiftedperspectives.net/articles.php?id=7 |
 | shiftedperspectives.net | The Flow of Psi \<_multiple authors_> | https://web.archive.org/web/20120423020201/http://shiftedperspectives.net/articles.php?id=9 |
 | psipalatium.com | Moving your Energy \<ChezNips> | [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=605&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20230603044206/http://www.psipalatium.com/index.php?p=200&a=605&l1=2&l2=21) |
+| psipalatium.com | Getting Started \<ChezNips> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=550&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20180206174325/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=550&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) |
+| psipalatium.com | Threads \<ChezNips> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=552&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20230126223628/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=552&a1=&p1=&g1=&gp1=&s1=&s=1) |
+| psipalatium.com | Tracing \<ChezNips> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=554&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20231204134330/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=554&a1=&p1=&g1=&gp1=&s1=&s=1) |
+| psipalatium.com | Programming Constructs/Thoughtforms \<ChezNips> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=557&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20230603051727/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=557&a1=&p1=&g1=&gp1=&s1=&s=1) |
+| psipalatium.com | How-To-Shield \<ChezNips> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=556&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20230324034329/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=556&a1=&p1=&g1=&gp1=&s1=&s=1) |
 
 
 ## Charging and Cultivation
@@ -106,6 +111,7 @@
 | psiscape.net | Increasing Sensitivity... \<Forum thread> | https://web.archive.org/web/20060104165656/http://www.psiscape.net:80/phpBB2/viewtopic.php?t=182&amp;sid=641e3c2f0e6bd2ed12cd9f5206a934e2 |
 | shiftedperspectives.net | Feeling and Using Psi \<Orion> | https://web.archive.org/web/20120423020200/http://shiftedperspectives.net/articles.php?id=83 |
 | shiftedperspectives.net | On Psychological Interpretations of Subtle Energy \<Stolide Demens> | https://web.archive.org/web/20120423020215/http://shiftedperspectives.net/articles.php?id=110 |
+| psipalatium.com | Scanning \<Zeus, Forg> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=531&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20210517132319/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=531&a1=&p1=&g1=&gp1=&s1=&s=1) |
 
 
 ## Healing
