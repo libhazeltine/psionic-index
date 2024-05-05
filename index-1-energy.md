@@ -24,6 +24,8 @@
 | psipalatium.com | Tracing \<ChezNips> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=554&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20231204134330/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=554&a1=&p1=&g1=&gp1=&s1=&s=1) |
 | psipalatium.com | Programming Constructs/Thoughtforms \<ChezNips> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=557&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20230603051727/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=557&a1=&p1=&g1=&gp1=&s1=&s=1) |
 | psipalatium.com | How-To-Shield \<ChezNips> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=556&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20230324034329/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=556&a1=&p1=&g1=&gp1=&s1=&s=1) |
+| psipalatium.com | Beginning with Psi \<Zeus> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=245&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20220516205022/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=245&a1=&p1=&g1=&gp1=&s1=&s=1) |
+| psipalatium.com | Psionics \<WingedWolf> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=258&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20220517001852/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=258&a1=&p1=&g1=&gp1=&s1=&s=1) |
 
 
 ## Charging and Cultivation

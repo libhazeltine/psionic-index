@@ -88,6 +88,7 @@
 | shiftedperspectives.net | Adfeng's Technique Stash \<The Adfeng> | https://web.archive.org/web/20171210051347/http://shiftedperspectives.net:80/forum/index.php?topic=2811.0 |
 | thepsiworld.net | Tech - a new method to working with energy [*Omnimancy, i believe*] \<Brilenus> | https://web.archive.org/web/20090224072222/http://www.thepsiworld.net:80/forum/index.php?topic=2060.0 |
 | houseofancients.com | What Is Psionics [*This forum is rather unhinged but this thread is interesting*] \<D'Los> | https://web.archive.org/web/20110620081204/http://houseofancients.com:80/forums/viewtopic.php?p=2720&sid=513d21d9ecbd3685606d6aa6215d40d3 |
+| psipalatium.com | Psi and You: You're Doing It Right Now \<Kruel> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=246&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20220116211521/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=246&a1=&p1=&g1=&gp1=&s1=&s=1) |
 
 
 
