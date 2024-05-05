@@ -19,10 +19,10 @@ Inclusion on this list is not, in any way, an endorsement of any kind.
    - ✅ Indexed, nothing useful.
  - psipalatium.com - [Live as of 02/2024](http://www.psipalatium.com/index.php), [WebArchive link](https://web.archive.org/web/*/http://www.psipalatium.com/*) 
    - Same situation as psionicsinstitute.org
-   - [=] In queue.
+   - ✅ Indexed.
  - [psionicsonline.net](https://web.archive.org/web/*/psionicsonline.net*)
    - Need to reinvestigate. IIRC some of this site was structured in a weird way that I never actually accounted for, so some of it was ignored.
-   - [=] In queue.
+   - [-] In progress, see [the branch](https://github.com/libhazeltine/libhazeltine/tree/psionicsonline-v2).
  - psipog.net - [Full site backup from closure](https://web.archive.org/web/20130321035504/http://www.psipog.net/), [WebArchive link](https://web.archive.org/web/*/http://www.psipog.net/*)
    - Compressed archive is more comprehensive than webarchives, so I'll have to manually fill in paths to the selfhosted archive.
    - [=] In queue.
