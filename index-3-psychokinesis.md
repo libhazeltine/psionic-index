@@ -11,6 +11,8 @@
 | psionguild.org/forums | TK Technique for Beginners \<Forum thread> | https://web.archive.org/web/20140223011236/http://psionguild.org:80/forums/archive/index.php/t-7329.html | 
 | thepsiworld.proboards37.com | TK Training Guide \<Forum thread> | https://web.archive.org/web/20061021054855/http://thepsiworld.proboards37.com:80/index.cgi?board=mtel&action=display&thread=1158451655 |  
 | freewebs.com/jedikaren | From Psiwheels to Pencils: A Training Guide \<NeoPsychic> | https://web.archive.org/web/20071221045439/http://www.freewebs.com:80/jedikaren/penciltk.htm |
+| psipalatium.com | Psychokinesis Overview \<Zeus> | [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=492&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20220626052026/http://www.psipalatium.com:80/index.php?p=202&fltr=Filter&a=492&a1=&p1=&g1=&gp1=&s1=&s=1) |
+
 
 
 ## Advancing your practice
