@@ -115,6 +115,11 @@ These can help get a window into different versions of the sites content at diff
 | ------------------------------- | ---- | ----- |
 | (??-001) The Art of Programming - Introduction \<Suntzu> | https://web.archive.org/web/20130606084725/http://www.psionicsonline.net/programming-primer
 
+## TODO: "Psionic Mods from a Three Domain Perspective" series - psionicsonline.net
+| Name \[Notes, if any] \<Author> | Link | Notes |
+| ------------------------------- | ---- | ----- |
+| (??-001) Psionic Mods from a Three Domain Perspective \<Felidae> | https://web.archive.org/web/20130817040603/http://psionicsonline.net/psionic-mods-three-domain-perspective
+
 
 ## TODO: "Psionics Workbook (FULL)" series - psionicsonline.net
 | Name \[Notes, if any] \<Author> | Link | Notes |
