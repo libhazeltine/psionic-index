@@ -68,12 +68,34 @@ These can help get a window into different versions of the sites content at diff
 
 
 
+## TODO: "Basic Energy Management" series - psionicsonline.net
+| Name \[Notes, if any] \<Author> | Link | Notes |
+| ------------------------------- | ---- | ----- |
+| (??-001) Basic Energy Management \<Innerfire> | https://web.archive.org/web/20130606145600/http://www.psionicsonline.net/basic-energy-management
+
 
 ## TODO: "Common Pitfalls" series - psionicsonline.net
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | (??-001) Common Pitfalls \<Metalforever, Peebrain, Miri> | https://web.archive.org/web/20130819004926/http://psionicsonline.net/common-pitfalls
 
+
+## TODO: "Constructs for Newbies" series - psionicsonline.net
+| Name \[Notes, if any] \<Author> | Link | Notes |
+| ------------------------------- | ---- | ----- |
+| (??-001)  Constructs for Newbies \<Lesenthe> | https://web.archive.org/web/20130817052635/http://psionicsonline.net/constructs-for-newbies
+
+
+## TODO: "Fundamentals Primer" series - psionicsonline.net
+| Name \[Notes, if any] \<Author> | Link | Notes |
+| ------------------------------- | ---- | ----- |
+| (??-001) A Realistic View of Energy Manipulation \<Metalforever, Archaic, Hech, Peebrain> | https://web.archive.org/web/20130817084116/http://psionicsonline.net/energy-construct-basics
+
+
+## TODO: "How to Be a Psionic Practitioner" series - psionicsonline.net
+| Name \[Notes, if any] \<Author> | Link | Notes |
+| ------------------------------- | ---- | ----- |
+| (??-001) How to Be a Psionic Practitioner \_various_> | https://web.archive.org/web/20130818175737/http://psionicsonline.net/how-be-psionic-practitioner
 
 
 ## TODO: "Introduction to Telekinesis" series - psionicsonline.net
@@ -82,27 +104,10 @@ These can help get a window into different versions of the sites content at diff
 | (??-001) Introduction to Telekinesis \<Anonymous> | https://web.archive.org/web/20130602005753/http://www.psionicsonline.net/telekinesis-training
 
 
-## TODO: "Visualizetion primer" series - psionicsonline.net
+## TODO: "Practical Treatise on the Use of Symbol" series - psionicsonline.net
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
-| (??-001) Visualization Primer: Why is Visualization Important? \<Metalforever> | https://web.archive.org/web/20130605110033/http://www.psionicsonline.net/visualization-primer
-
-## TODO: "Thought primer" series - psionicsonline.net
-| Name \[Notes, if any] \<Author> | Link | Notes |
-| ------------------------------- | ---- | ----- |
-| (??-001) Thought Primer \<Metalforever> | https://web.archive.org/web/20130807041553/http://psionicsonline.net/thought-primer
-`
-
-## TODO: "Basic Energy Management" series - psionicsonline.net
-| Name \[Notes, if any] \<Author> | Link | Notes |
-| ------------------------------- | ---- | ----- |
-| (??-001) Basic Energy Management \<Innerfire> | https://web.archive.org/web/20130606145600/http://www.psionicsonline.net/basic-energy-management
-`
-
-## TODO: "Constructs for Newbies" series - psionicsonline.net
-| Name \[Notes, if any] \<Author> | Link | Notes |
-| ------------------------------- | ---- | ----- |
-| (??-001)  Constructs for Newbies \<Lesenthe> | https://web.archive.org/web/20130817052635/http://psionicsonline.net/constructs-for-newbies
+| (??-001) Practical Treatise on the Use of Symbol \<Metalforever> | https://web.archive.org/web/20130807034956/http://psionicsonline.net/practical-treatise-use-symbol
 
 
 ## TODO: "Programming Primer" series - psionicsonline.net
@@ -111,23 +116,20 @@ These can help get a window into different versions of the sites content at diff
 | (??-001) The Art of Programming - Introduction \<Suntzu> | https://web.archive.org/web/20130606084725/http://www.psionicsonline.net/programming-primer
 
 
-## TODO: "Practical Treatise on the Use of Symbol" series - psionicsonline.net
-| Name \[Notes, if any] \<Author> | Link | Notes |
-| ------------------------------- | ---- | ----- |
-| (??-001) Practical Treatise on the Use of Symbol \<Metalforever> | https://web.archive.org/web/20130807034956/http://psionicsonline.net/practical-treatise-use-symbol
-
-## TODO: "Fundamentals Primer" series - psionicsonline.net
-| Name \[Notes, if any] \<Author> | Link | Notes |
-| ------------------------------- | ---- | ----- |
-| (??-001) A Realistic View of Energy Manipulation \<Metalforever, Archaic, Hech, Peebrain> | https://web.archive.org/web/20130817084116/http://psionicsonline.net/energy-construct-basics
-
-## TODO: "How to Be a Psionic Practitioner" series - psionicsonline.net
-| Name \[Notes, if any] \<Author> | Link | Notes |
-| ------------------------------- | ---- | ----- |
-| (??-001) How to Be a Psionic Practitioner \_various_> | https://web.archive.org/web/20130818175737/http://psionicsonline.net/how-be-psionic-practitioner
-
-
 ## TODO: "Psionics Workbook (FULL)" series - psionicsonline.net
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | (??-001) Psionics Workbook (FULL) \<Anka> | https://web.archive.org/web/20130710234352/http://psionicsonline.net/psionics-workbook-full 
+
+
+## TODO: "Thought primer" series - psionicsonline.net
+| Name \[Notes, if any] \<Author> | Link | Notes |
+| ------------------------------- | ---- | ----- |
+| (??-001) Thought Primer \<Metalforever> | https://web.archive.org/web/20130807041553/http://psionicsonline.net/thought-primer
+`
+
+## TODO: "Visualizetion primer" series - psionicsonline.net
+| Name \[Notes, if any] \<Author> | Link | Notes |
+| ------------------------------- | ---- | ----- |
+| (??-001) Visualization Primer: Why is Visualization Important? \<Metalforever> | https://web.archive.org/web/20130605110033/http://www.psionicsonline.net/visualization-primer
+`
