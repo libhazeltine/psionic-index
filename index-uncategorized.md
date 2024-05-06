@@ -81,6 +81,7 @@
 | ppsociety.com | Another vision on learning TK (Bone breathing) \<Dragor> | https://web.archive.org/web/20050223201453/http://ppsociety.com:80/w_articlev.php?id=9 |
 | psionguild.org | Introduction to Psionics and Dealing with Skeptics \<KMiller> | https://web.archive.org/web/20110706052309/http://psionguild.org:80/education/articles/foundation/introduction-to-psionics-and-dealing-with-skeptics/ |
 | psionguild.org | Various Exercises for Development of Psi Abilities \<No Author> | https://web.archive.org/web/20120214171930/http://psionguild.org:80/education/articles/foundation/various-exercises-for-development
+| psionicsonline.net | Miscellaneous Beginners Information \<Metalforever, Sephectja> | https://web.archive.org/web/20130602162635/http://www.psionicsonline.net/miscellaneous-beginners-information
 | psionicvisionaries.blogspot.com | Psionics, How To Get Better Without Practice | https://web.archive.org/web/20230622030743/http://psionicvisionaries.blogspot.com/2008/02/psionics-how-to-get-better-without.html | 
 | psipalatium.com | Psi and You: You're Doing It Right Now \<Kruel> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=246&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20220116211521/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=246&a1=&p1=&g1=&gp1=&s1=&s=1) |
 | shiftedperspectives.net | Adfeng's Technique Stash \<The Adfeng> | https://web.archive.org/web/20171210051347/http://shiftedperspectives.net:80/forum/index.php?topic=2811.0 |
@@ -89,7 +90,6 @@
 | thepsiworld.net | Tech - a new method to working with energy [*Omnimancy, i believe*] \<Brilenus> | https://web.archive.org/web/20090224072222/http://www.thepsiworld.net:80/forum/index.php?topic=2060.0 |
 | totse.com | Psionic Training Guide \<Xirokoto> | https://web.archive.org/web/20070520064617/http://www.totse.com/en/fringe/dreams_auras_astral_projection/psionictrainin191367.html | 
 | youtube.com \[NOT ARCHIVED] | Science and the taboo of psi \<Dean Radin> | https://youtube.com/watch?v=qw_O9Qiwqew | 
-
 
 
 ## "Dynamic Psi" series - vsociety.net
