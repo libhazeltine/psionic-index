@@ -30,29 +30,6 @@ TODO: double check author names when importing these. Some of these were archive
 | (101-017) Psychic / Psionic Base Concepts: Expectation \<_No author_> | https://web.archive.org/web/20101121123205/http://www.psionicsonline.net/about-psionics/general/144-psychic-psionic-concepts-expectation.html
 | (101-018) Psychic Visualization \<ADMINISTRATOR> | https://web.archive.org/web/20101121123019/http://www.psionicsonline.net/about-psionics/general/145-psychic-visualization.html
 
-## TODO: "Basic Energy Management" series - psionicsonline.net
-| Name \[Notes, if any] \<Author> | Link | Notes |
-| ------------------------------- | ---- | ----- |
-| (102-001) Basic Energy Management \<Innerfire> | https://web.archive.org/web/20130606145600/http://www.psionicsonline.net/basic-energy-management
-
-
-## TODO: "Common Pitfalls" series - psionicsonline.net
-| Name \[Notes, if any] \<Author> | Link | Notes |
-| ------------------------------- | ---- | ----- |
-| (103-001) Common Pitfalls \<Metalforever, Peebrain, Miri> | https://web.archive.org/web/20130819004926/http://psionicsonline.net/common-pitfalls
-
-
-## TODO: "Constructs for Newbies" series - psionicsonline.net
-| Name \[Notes, if any] \<Author> | Link | Notes |
-| ------------------------------- | ---- | ----- |
-| (104-001)  Constructs for Newbies \<Lesenthe> | https://web.archive.org/web/20130817052635/http://psionicsonline.net/constructs-for-newbies
-
-
-## TODO: "Fundamentals Primer" series - psionicsonline.net
-| Name \[Notes, if any] \<Author> | Link | Notes |
-| ------------------------------- | ---- | ----- |
-| (105-001) A Realistic View of Energy Manipulation \<Metalforever, Archaic, Hech, Peebrain> | https://web.archive.org/web/20130817084116/http://psionicsonline.net/energy-construct-basics
-
 
 ## "How to be psychic" series - psionicsonline.net
 | Name \[Notes, if any] \<Author> | Link | Notes |
@@ -77,49 +54,21 @@ TODO: double check author names when importing these. Some of these were archive
 | (106-018) On the Use of Altered States of Consciousness \<Metalforever> | https://web.archive.org/web/20130807024249/http://psionicsonline.net/use-altered-states-consciousness
 
 
-## TODO: "How to Be a Psionic Practitioner" series - psionicsonline.net
-| Name \[Notes, if any] \<Author> | Link | Notes |
-| ------------------------------- | ---- | ----- |
-| (107-001) How to Be a Psionic Practitioner \_various_> | https://web.archive.org/web/20130818175737/http://psionicsonline.net/how-be-psionic-practitioner
 
+## Needs work
 
-## TODO: "Introduction to Telekinesis" series - psionicsonline.net
-| Name \[Notes, if any] \<Author> | Link | Notes |
-| ------------------------------- | ---- | ----- |
-| (108-001) Introduction to Telekinesis \<Anonymous> | https://web.archive.org/web/20130602005753/http://www.psionicsonline.net/telekinesis-training
-
-
-## Done: "Practical Treatise on the Use of Symbol" series - psionicsonline.net
-Done
-
-
-## TODO: "Programming Primer" series - psionicsonline.net
-| Name \[Notes, if any] \<Author> | Link | Notes |
-| ------------------------------- | ---- | ----- |
-| (110-001) The Art of Programming - Introduction \<Suntzu> | https://web.archive.org/web/20130606084725/http://www.psionicsonline.net/programming-primer
-
-## TODO: "Psionic Mods from a Three Domain Perspective" series - psionicsonline.net
-| Name \[Notes, if any] \<Author> | Link | Notes |
-| ------------------------------- | ---- | ----- |
-| (111-001) Psionic Mods from a Three Domain Perspective \<Felidae> | https://web.archive.org/web/20130817040603/http://psionicsonline.net/psionic-mods-three-domain-perspective
-
-
-## TODO: "Psionics Workbook (FULL)" series - psionicsonline.net
-| Name \[Notes, if any] \<Author> | Link | Notes |
-| ------------------------------- | ---- | ----- |
-| (112-001) Psionics Workbook (FULL) \<Anka> | https://web.archive.org/web/20130710234352/http://psionicsonline.net/psionics-workbook-full 
-
-
-## Done: "Thought primer" series - psionicsonline.net
-Done
-
-
-## Done: "Troubleshooting Psionics" series - psionicsonline.net
-Done
-
-
-## TODO: "Visualizetion primer" series - psionicsonline.net
-| Name \[Notes, if any] \<Author> | Link | Notes |
-| ------------------------------- | ---- | ----- |
-| (115-001) Visualization Primer: Why is Visualization Important? \<Metalforever> | https://web.archive.org/web/20130605110033/http://www.psionicsonline.net/visualization-primer
-`
+| Name | First page/index URL at source |
+| ---- | ------------------------------ |
+| Basic Energy Management | https://web.archive.org/web/20130606145600/http://www.psionicsonline.net/basic-energy-management
+| Common Pitfalls | https://web.archive.org/web/20130819004926/http://psionicsonline.net/common-pitfalls
+| Constructs for Newbies | https://web.archive.org/web/20130817052635/http://psionicsonline.net/constructs-for-newbies
+| Fundamentals Primer | https://web.archive.org/web/20130817084116/http://psionicsonline.net/energy-construct-basics
+| How to Be a Psionic Practitioner | https://web.archive.org/web/20130818175737/http://psionicsonline.net/how-be-psionic-practitioner
+| Introduction to Telekinesis | https://web.archive.org/web/20130602005753/http://www.psionicsonline.net/telekinesis-training
+| Practical Treatise on the Use of Symbol | ✅ completed
+| Programming Primer | https://web.archive.org/web/20130606084725/http://www.psionicsonline.net/programming-primer
+| Psionic Mods from a Three Domain Perspective | https://web.archive.org/web/20130817040603/http://psionicsonline.net/psionic-mods-three-domain-perspective
+| ANKA's Psionics Workbook | https://web.archive.org/web/20130710234352/http://psionicsonline.net/psionics-workbook-full 
+| Thought primer | ✅ completed
+| Troubleshooting Psionics | ✅ completed
+| Visualizetion primer | ✅ completed
