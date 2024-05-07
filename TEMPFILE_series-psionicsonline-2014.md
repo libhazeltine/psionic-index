@@ -12,7 +12,7 @@ TODO: double check author names when importing these. Some of these were archive
 | ------------------------------- | ---- | ----- |
 | Psychic Abilities For Beginners \[2014] \<psionicsonline.net> | https://web.archive.org/web/20140419204501/http://psionicsonline.net/beginner-psionics/
 
-## Beginners: Psychic Abilities Exercises - psionicsonline.net (2014)
+## Beginners Training / Psychic Abilities For Beginners / Exercises - psionicsonline.net (2014)
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | How to Create a Psychic Journal \<metalforever> | https://web.archive.org/web/20140419232944/http://psionicsonline.net/psychic-journals/
@@ -27,7 +27,7 @@ TODO: double check author names when importing these. Some of these were archive
 | Fundamental Psychic Skills \<metalforever> | https://web.archive.org/web/20140419164045/http://psionicsonline.net/fundamental-psychic-skills/
 
 
-## Beginners: Informational Articles - psionicsonline.net 
+## Beginners Training / Psychic Abilities For Beginners / Informational - psionicsonline.net 
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | Introduction to Psionics \<metalforever> | https://web.archive.org/web/20140220095233/http://psionicsonline.net/how-to-be-psychic/
@@ -46,7 +46,7 @@ TODO: double check author names when importing these. Some of these were archive
 | Miscellaneous Beginners Information \<Metalforever, Sephectja> | https://web.archive.org/web/20141117104931/http://psionicsonline.net/miscellaneous-beginners-information
 
 
-## Where Practice Goes Wrong: Troubleshooting - psionicsonline.net
+## Beginners Training / Where Practice Goes Wrong / Troubleshooting - psionicsonline.net
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | Trusting Yourself \<Innerfire> | https://web.archive.org/web/20130822230035/http://psionicsonline.net/day-1-day3-trusting-yourself
