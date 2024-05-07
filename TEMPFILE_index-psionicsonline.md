@@ -2,6 +2,23 @@
 This is a notepad file for re-analysing psionicsonline.net (the main site only), which I ran into issues with early on in the indexing process.
 This file is temporary, and will be deleted when its content is integrated back into the repository.
 
+## Homepage Design Versions
+These can help get a window into different versions of the sites content at different times.
+
+| Archive date range | Oldest link | Newest link |
+| ------------------ | ----------- | ----------- |
+| Oct 2007 - Feb 2008 | https://web.archive.org/web/20071021033525/http://www.psionicsonline.net/ | https://web.archive.org/web/20080224232635/http://www.psionicsonline.net/ |
+| Dec 2008 | https://web.archive.org/web/20081222050433/http://www.psionicsonline.net/ | N/A |
+| Feb 2009 - Feb 2010 | https://web.archive.org/web/20090221032847/http://www.psionicsonline.net/ | https://web.archive.org/web/20100208213252/http://www.psionicsonline.net:80/ |
+| Dec 2010 - Jun 2011 | https://web.archive.org/web/20101229230347/http://www.psionicsonline.net/ | https://web.archive.org/web/20110629025333/http://www.psionicsonline.net:80/ | 
+| Jul 2011 - Jan 2013 | https://web.archive.org/web/20110717154300/http://www.psionicsonline.net:80/ | https://web.archive.org/web/20130123114156/http://www.psionicsonline.net:80/ | 
+| Mar 2013 - Jan 2014 | https://web.archive.org/web/20130306114051/http://www.psionicsonline.net:80/ | https://web.archive.org/web/20140128135029/http://psionicsonline.net:80/ |
+| Feb 2014 - Dec 2014 | https://web.archive.org/web/20140228175604/http://psionicsonline.net:80/ | https://web.archive.org/web/20141218041104/http://psionicsonline.net/ |
+| Feb 2015 - Apr 2015 | https://web.archive.org/web/20150217115128/http://psionicsonline.net:80/ | https://web.archive.org/web/20150427055219/http://psionicsonline.net:80/ |
+| Jul 2015 | https://web.archive.org/web/20150717115340/http://psionicsonline.net:80/ | N/A |
+| Sep 2015 - Oct 2015 | https://web.archive.org/web/20150910122058/http://www.psionicsonline.net:80/ | https://web.archive.org/web/20151013071544/http://www.psionicsonline.net:80/ |
+| Nov 2015 - ??? | https://web.archive.org/web/20151113070837/http://psionicsonline.net:80/ |
+
 ## Existing files (main site only)
 | Index/Section | Name \[Notes, if any] \<Author> | Link |
 | ------------- | ------------------------------- | ---- |
