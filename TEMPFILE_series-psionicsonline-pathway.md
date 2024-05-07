@@ -131,6 +131,12 @@ These can help get a window into different versions of the sites content at diff
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | (??-001) Thought Primer \<Metalforever> | https://web.archive.org/web/20130807041553/http://psionicsonline.net/thought-primer
+
+
+## TODO: "Troubleshooting Psionics" series - psionicsonline.net
+| Name \[Notes, if any] \<Author> | Link | Notes |
+| ------------------------------- | ---- | ----- |
+| (??-001) Troubleshooting Psionics \<Innerfire> | https://web.archive.org/web/20130818190324/http://psionicsonline.net/troubleshooting-psionics
 `
 
 ## TODO: "Visualizetion primer" series - psionicsonline.net
