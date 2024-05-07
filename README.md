@@ -3,7 +3,9 @@
 > [!IMPORTANT]
 > **This is, and always has been a data preservation project. Links to or backups of content in this repository does not inherently imply an endorsement of that content,** nor does it mean that the information is meaningful to me or my practice. 
 > 
-> At some point in the future, the index files here will be moved into a different location. They will still be public. **I still have no intent to cancel or stop development.**
+> **Update, May 2024:** These files will soon be reorganized and moved to the [libhazeltine/archives](https://github.com/libhazeltine/archives) repository, which will be made public when this happens. This in preparation for the next phase of the project, which is backing up and reformatting all the text in the URLs listed.
+> 
+> I am aware of the fact that certain people from these communities do not want artifacts of their past being spread. If you participated in the public OEC and actively do not want your writings being stored, please file an [issue](https://github.com/libhazeltine/libhazeltine/issues/new?title=Exclusion+request+for%3A&labels=exclusion) with any screen names that may have been attached to content you have created, and proof that it is yours.
 
 *Phase 1*
 
