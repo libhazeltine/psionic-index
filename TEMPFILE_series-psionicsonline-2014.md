@@ -82,7 +82,7 @@ TODO: double check author names when importing these. Some of these were archive
 | Confirmation Bias \<metalforever> | https://web.archive.org/web/20130819012942/http://www.psionicsonline.net/confirmation-bias
 
 
-## Thought Control / Exercises - psionicsonline.net
+## Thought Control - psionicsonline.net
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | Thought Primer \<Metalforever> | https://web.archive.org/web/20131124221538/http://psionicsonline.net/thought-primer
@@ -97,3 +97,38 @@ TODO: double check author names when importing these. Some of these were archive
 | Focus on Multiple Aspects of an Object at the Same Time \<Metalforever> | https://web.archive.org/web/20131107095413/http://www.psionicsonline.net/focus-multiple-aspects-object-same-time
 | Think About Nothing \<metalforever> | https://web.archive.org/web/20131107071252/http://www.psionicsonline.net/think-about-nothing
 
+
+## Visualization Training - psionicsonline.net
+| Name \[Notes, if any] \<Author> | Link | Notes |
+| ------------------------------- | ---- | ----- |
+| Why Is Visualization Important? \<metalforever> | https://web.archive.org/web/20130327091052/http://www.psionicsonline.net:80/visualization-primer
+| Create a Psychic Journal \<metalforever> | https://web.archive.org/web/20130709183730/http://psionicsonline.net/create-psychic-journal
+| Construct a Scene Visually \<metalforever> | https://web.archive.org/web/20131124231321/http://psionicsonline.net/construct-scene-visually
+| Imagine a Sound \<metalforever> | https://web.archive.org/web/20131113215210/http://www.psionicsonline.net/imagine-sound
+| Add Sound to Your Constructed Scene \<metalforever> | https://web.archive.org/web/20131113204053/http://www.psionicsonline.net/add-sound-your-constructed-scene
+| Imagine a Taste \<metalforever> | https://web.archive.org/web/20131113202715/http://www.psionicsonline.net/imagine-taste
+| Incorporate Taste Into A Visual and Auditory Scene \<metalforever> | https://web.archive.org/web/20131113215703/http://www.psionicsonline.net/incorporate-taste-visual-and-auditory-scene
+| Imagine a Smell \<metalforever> | https://web.archive.org/web/20131113203525/http://www.psionicsonline.net/imagine-smell
+| Incorporate Smell Into A Visual and Auditory Scene \<metalforever> | https://web.archive.org/web/20131113235811/http://www.psionicsonline.net/incorporate-smell-visual-and-auditory-scene
+| Imagine Touch \<metalforever> | https://web.archive.org/web/20131113213926/http://www.psionicsonline.net/imagine-touch
+| Incorporate Touch in a Visual/Auditory Scene \<metalforever> | https://web.archive.org/web/20131113222322/http://www.psionicsonline.net/incorporate-touch-visualauditory-scene
+| Imagine a Concrete Object \<metalforever> | https://web.archive.org/web/20131113225420/http://www.psionicsonline.net/imagine-concrete-object
+| Apply Your Will to Movement of a Concrete Object \<anuj> | https://web.archive.org/web/20141202005055/http://psionicsonline.net/apply-your-will-movement-concrete-object/
+| Project Visualization Unto an Object \<metalforever> | https://web.archive.org/web/20131113231121/http://www.psionicsonline.net/project-visualization-unto-object
+| Add Audio to Exercise #12 \<metalforever> | https://web.archive.org/web/20131113205223/http://www.psionicsonline.net/add-audio-exercise-12
+| Add Touch to Exercise #13 \<metalforever> | https://web.archive.org/web/20131113202534/http://www.psionicsonline.net/add-touch-exercise-13
+| Apply Your Will to Movement of a Concrete Object II \<metalforever> | https://web.archive.org/web/20131113202017/http://www.psionicsonline.net/apply-your-will-movement-concrete-object-ii
+| Imagine a Lecture \<metalforever> | https://web.archive.org/web/20131113203208/http://www.psionicsonline.net/imagine-lecture
+| After Exercise #16 \<metalforever> | https://web.archive.org/web/20131113214815/http://www.psionicsonline.net/after-exercise-16
+
+
+## Psychic Methods Creation - psionicsonline.net
+| Name \[Notes, if any] \<Author> | Link | Notes |
+| ------------------------------- | ---- | ----- |
+| A Practical Treatise on the Use of Symbol \<metalforever> | https://web.archive.org/web/20130602152309/http://www.psionicsonline.net/practical-treatise-use-symbol
+| Technique Similarities \<metalforever> | https://web.archive.org/web/20140219084136/http://psionicsonline.net/technique-similarities/
+| Building Your Own Symbol Set \<metalforever> | https://web.archive.org/web/20130605104636/http://www.psionicsonline.net/building-your-own-symbol-set
+| Building Up Your Symbols \<metalforever> | https://web.archive.org/web/20130605223832/http://www.psionicsonline.net/building-your-symbols
+| Common Choices for Relaying Intention \<metalforever> | https://web.archive.org/web/20130527010905/http://www.psionicsonline.net/common-choices-relaying-intention
+| How to Create Your Own Techniques \<metalforever> | https://web.archive.org/web/20130527005425/http://www.psionicsonline.net/how-create-your-own-techniques
+| Conclusion \<metalforever> | https://web.archive.org/web/20130527005856/http://www.psionicsonline.net/conclusion-1

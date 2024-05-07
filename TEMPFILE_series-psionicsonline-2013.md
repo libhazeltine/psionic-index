@@ -89,10 +89,8 @@ TODO: double check author names when importing these. Some of these were archive
 | (108-001) Introduction to Telekinesis \<Anonymous> | https://web.archive.org/web/20130602005753/http://www.psionicsonline.net/telekinesis-training
 
 
-## TODO: "Practical Treatise on the Use of Symbol" series - psionicsonline.net
-| Name \[Notes, if any] \<Author> | Link | Notes |
-| ------------------------------- | ---- | ----- |
-| (109-001) Practical Treatise on the Use of Symbol \<Metalforever> | https://web.archive.org/web/20130807034956/http://psionicsonline.net/practical-treatise-use-symbol
+## Done: "Practical Treatise on the Use of Symbol" series - psionicsonline.net
+Done
 
 
 ## TODO: "Programming Primer" series - psionicsonline.net
@@ -112,12 +110,12 @@ TODO: double check author names when importing these. Some of these were archive
 | (112-001) Psionics Workbook (FULL) \<Anka> | https://web.archive.org/web/20130710234352/http://psionicsonline.net/psionics-workbook-full 
 
 
-## "Thought primer" series - psionicsonline.net
-*See "Thought Control / Exercises" in [this file](TEMPFILE_series-psionicsonline-2014.md/TEMPFILE_series-psionicsonline-2014.md).*
+## Done: "Thought primer" series - psionicsonline.net
+Done
 
 
-## "Troubleshooting Psionics" series - psionicsonline.net
-*See "Beginners Training / Where Practice Goes Wrong / Troubleshooting" in [this file](TEMPFILE_series-psionicsonline-2014.md).*
+## Done: "Troubleshooting Psionics" series - psionicsonline.net
+Done
 
 
 ## TODO: "Visualizetion primer" series - psionicsonline.net
