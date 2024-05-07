@@ -2,7 +2,7 @@
 *2010, 2013*
 This is a notepad file for re-analysing psionicsonline.net (the main site only), which I ran into issues with early on in the indexing process.
 This file is temporary, and will be deleted when its content is integrated back into the repository.
-Some of these series may also be in [this file](libhazeltine/libhazeltine/TEMPFILE_series-psionicsonline-2014.md), these files will be merged before this branch is committed to main.
+Some of these series may also be in [this file](./TEMPFILE_series-psionicsonline-2014.md), these files will be merged before this branch is committed to main.
 
 **NOTE: Document numbers are for sorting only at the moment and will be changed once the rest of the repository adopts the numbering system.**
 TODO: double check author names when importing these. Some of these were archived from other sites to PO and have different author names in the header and body.
@@ -112,17 +112,13 @@ TODO: double check author names when importing these. Some of these were archive
 | (112-001) Psionics Workbook (FULL) \<Anka> | https://web.archive.org/web/20130710234352/http://psionicsonline.net/psionics-workbook-full 
 
 
-## TODO: "Thought primer" series - psionicsonline.net
-| Name \[Notes, if any] \<Author> | Link | Notes |
-| ------------------------------- | ---- | ----- |
-| (113-001) Thought Primer \<Metalforever> | https://web.archive.org/web/20130807041553/http://psionicsonline.net/thought-primer
+## "Thought primer" series - psionicsonline.net
+*See "Thought Control / Exercises" in [this file](TEMPFILE_series-psionicsonline-2014.md/TEMPFILE_series-psionicsonline-2014.md).*
 
 
-## TODO: "Troubleshooting Psionics" series - psionicsonline.net
-| Name \[Notes, if any] \<Author> | Link | Notes |
-| ------------------------------- | ---- | ----- |
-| (114-001) Troubleshooting Psionics \<Innerfire> | https://web.archive.org/web/20130818190324/http://psionicsonline.net/troubleshooting-psionics
-`
+## "Troubleshooting Psionics" series - psionicsonline.net
+*See "Beginners Training / Where Practice Goes Wrong / Troubleshooting" in [this file](TEMPFILE_series-psionicsonline-2014.md).*
+
 
 ## TODO: "Visualizetion primer" series - psionicsonline.net
 | Name \[Notes, if any] \<Author> | Link | Notes |

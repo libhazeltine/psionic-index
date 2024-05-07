@@ -2,7 +2,7 @@
 *2014*
 This is a notepad file for re-analysing psionicsonline.net (the main site only), which I ran into issues with early on in the indexing process.
 This file is temporary, and will be deleted when its content is integrated back into the repository.
-Some of these series may also be in [this file](libhazeltine/libhazeltine/TEMPFILE_series-psionicsonline-2013.md), these files will be merged before this branch is committed to main.
+Some of these series may also be in [this file](./TEMPFILE_series-psionicsonline-2013.md), these files will be merged before this branch is committed to main.
 
 **NOTE: Document numbers are for sorting only at the moment and will be changed once the rest of the repository adopts the numbering system.**
 TODO: double check author names when importing these. Some of these were archived from other sites to PO and have different author names in the header and body.
@@ -49,8 +49,15 @@ TODO: double check author names when importing these. Some of these were archive
 ## Beginners Training / Where Practice Goes Wrong / Troubleshooting - psionicsonline.net
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
+| Troubleshooting Psionics \<Innerfire> | https://web.archive.org/web/20130818190324/http://psionicsonline.net/troubleshooting-psionics
 | Trusting Yourself \<Innerfire> | https://web.archive.org/web/20130822230035/http://psionicsonline.net/day-1-day3-trusting-yourself
+| Affirmations \<Innerfire> | https://web.archive.org/web/20130829010520/http://psionicsonline.net/day4-day6-affirmations
+| Tricking Yourself \<Innerfire> | https://web.archive.org/web/20130829003831/http://psionicsonline.net/day-7-tricking-yourself
+| Relax \<Innerfire> | https://web.archive.org/web/20130829031125/http://psionicsonline.net/day-8-day9-relax
+| Trusting in Yourself Wrap-Up \<Innerfire> | https://web.archive.org/web/20130829020210/http://psionicsonline.net/day-10-trusting-yourself-wrap
 | Making Things Work \<Innerfire> | https://web.archive.org/web/20150225180012/http://psionicsonline.net/making-things-work/
+| Coincidental Reinforcement II \<Innerfire> | https://web.archive.org/web/20130829032210/http://psionicsonline.net/day-21-day23-coincidental-reinforcement-ii
+| Truth \<Innerfire> | https://web.archive.org/web/20130829024346/http://psionicsonline.net/day-24-day-26-truth
 | Underlying Issues \<Innerfire> | https://web.archive.org/web/20130829031452/http://psionicsonline.net/day-27-day-28-underlying-issues
 | Responsible Forcing \<Innerfire> | https://web.archive.org/web/20150104184403/http://psionicsonline.net/responsible-forcing
 | Finishing on a High Note \<Innerfire> | https://web.archive.org/web/20130829030725/http://psionicsonline.net/day-35-day-39-finishing-high-note
@@ -73,3 +80,20 @@ TODO: double check author names when importing these. Some of these were archive
 | Concerning Sparring \<Miri> | https://web.archive.org/web/20131107064249/http://www.psionicsonline.net/concerning-sparring
 | How Do You Know It’s Real? \<Peebrain> | https://web.archive.org/web/20131107102231/http://www.psionicsonline.net/how-do-you-know-it%E2%80%99s-real
 | Confirmation Bias \<metalforever> | https://web.archive.org/web/20130819012942/http://www.psionicsonline.net/confirmation-bias
+
+
+## Thought Control / Exercises - psionicsonline.net
+| Name \[Notes, if any] \<Author> | Link | Notes |
+| ------------------------------- | ---- | ----- |
+| Thought Primer \<Metalforever> | https://web.archive.org/web/20131124221538/http://psionicsonline.net/thought-primer
+| Passively Allow Images to Arise in Conscious Thought \<Metalforever> | https://web.archive.org/web/20131007144455/http://www.psionicsonline.net/passively-allow-images-arise-conscious-thought
+| Avoid A Topic \<Metalforever> | https://web.archive.org/web/20131107095350/http://www.psionicsonline.net/avoid-topic
+| Avoid A Topic: Hard Mode \<Metalforever> | https://web.archive.org/web/20130828171414/http://psionicsonline.net/avoid-topic-hard-mode
+| Avoid A Word \<Metalforevet> | https://web.archive.org/web/20131107102112/http://www.psionicsonline.net/avoid-word
+| Avoid an Uncommon Letter \<Metalforever> | https://web.archive.org/web/20131107075419/http://www.psionicsonline.net/avoid-uncommon-letter
+| Avoid a Common Letter \<Metalforever> | https://web.archive.org/web/20140420072458/http://psionicsonline.net/avoid-common-letter
+| Focus on One Thought \<Metalforever> | https://web.archive.org/web/20140422035916/http://psionicsonline.net/focus-one-thought/
+| Focus on One Aspect of an Object \<Metalforever> | https://web.archive.org/web/20131107091235/http://www.psionicsonline.net/focus-one-aspect-object
+| Focus on Multiple Aspects of an Object at the Same Time \<Metalforever> | https://web.archive.org/web/20131107095413/http://www.psionicsonline.net/focus-multiple-aspects-object-same-time
+| Think About Nothing \<metalforever> | https://web.archive.org/web/20131107071252/http://www.psionicsonline.net/think-about-nothing
+
