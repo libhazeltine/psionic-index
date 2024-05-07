@@ -59,3 +59,17 @@ TODO: double check author names when importing these. Some of these were archive
 | Energy Revisited \<Innerfire> | https://web.archive.org/web/20130829012840/http://psionicsonline.net/day-50-day-53-energy-revisited
 | Wrap-Up and More Extenuating Circumstances \<Innerfire> | https://web.archive.org/web/20130829025724/http://psionicsonline.net/day-54-wrap-and-more-extenuating-circumstances
 
+
+## Beginners Training / Where Practice Goes Wrong / Soapbox - psionicsonline.net
+*This section is more about specific opinions of and issues within the OEC rather than psionic practice.* 
+| Name \[Notes, if any] \<Author> | Link | Notes |
+| ------------------------------- | ---- | ----- |
+| What Is Fluff? \<Metalforever, Peebrain, Miri> | https://web.archive.org/web/20150221093834/http://psionicsonline.net/fluff
+| Lack of Motivation \<metalforever> | https://web.archive.org/web/20150324074044/http://psionicsonline.net/how-be-psionic-practitioner/
+| Why Does Success Vary? \<metalforever> | https://web.archive.org/web/20131015103232/http://psionicsonline.net/why-does-success-vary
+| Newbie Rant \<Peebrain> | https://web.archive.org/web/20131107080927/http://www.psionicsonline.net/newbie-rant
+| Concerning Personal Teachers \<metalforever> | https://web.archive.org/web/20131107082752/http://www.psionicsonline.net/concerning-personal-%E2%80%9Cteachers%E2%80%9D
+| Overcoming Mediocre Results \<Peebrain> | https://web.archive.org/web/20131107070405/http://www.psionicsonline.net/overcoming-mediocre-results
+| Concerning Sparring \<Miri> | https://web.archive.org/web/20131107064249/http://www.psionicsonline.net/concerning-sparring
+| How Do You Know It’s Real? \<Peebrain> | https://web.archive.org/web/20131107102231/http://www.psionicsonline.net/how-do-you-know-it%E2%80%99s-real
+| Confirmation Bias \<metalforever> | https://web.archive.org/web/20130819012942/http://www.psionicsonline.net/confirmation-bias
