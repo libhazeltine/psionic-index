@@ -132,3 +132,33 @@ TODO: double check author names when importing these. Some of these were archive
 | Common Choices for Relaying Intention \<metalforever> | https://web.archive.org/web/20130527010905/http://www.psionicsonline.net/common-choices-relaying-intention
 | How to Create Your Own Techniques \<metalforever> | https://web.archive.org/web/20130527005425/http://www.psionicsonline.net/how-create-your-own-techniques
 | Conclusion \<metalforever> | https://web.archive.org/web/20130527005856/http://www.psionicsonline.net/conclusion-1
+
+
+# Construct Creation / Constructs for Newbies - psionicsonline.net
+| Name \[Notes, if any] \<Author> | Link | Notes |
+| ------------------------------- | ---- | ----- |
+| What is a Construct? \<Lesenthe> | https://web.archive.org/web/20140822234849/http://psionicsonline.net/construct
+| Subtle Energy \<Lesenthe> | https://web.archive.org/web/20131009210838/http://psionicsonline.net/subtle-energy
+| Why Make Constructs? \<Lesenthe> | https://web.archive.org/web/20131020134210/http://psionicsonline.net/why-make-constructs
+| On Sentience \<Lesenthe> | https://web.archive.org/web/20131020160043/http://psionicsonline.net/sentience
+| Planning and Programming \<Lesenthe> | https://web.archive.org/web/20131020102315/http://psionicsonline.net/planning-and-programming
+| Energy Manipulation \<Lesenthe> | https://web.archive.org/web/20131020134113/http://psionicsonline.net/node/7323
+| Mental Discipline \<Lesenthe> | https://web.archive.org/web/20131023131057/http://psionicsonline.net/mental-discipline
+| Mental Discipline: Focal Point Exercise \<Lesenthe> | https://web.archive.org/web/20131023142037/http://psionicsonline.net/mental-discipline-focal-point-exercise
+| Mental Discipline: The Blank Mind Exercise \<Lesenthe> | https://web.archive.org/web/20130912215706/http://psionicsonline.net/mental-discipline-blank-mind-exercise
+| Mental Discipline: Visualisation Exercise \<Lesenthe> | https://web.archive.org/web/20130912215706/http://psionicsonline.net/mental-discipline-visualisation-exercise
+| Mental Discipline: Tactile/Spatial Exercise \<Lesenthe> | https://web.archive.org/web/20130910001309/http://psionicsonline.net/mental-discipline-tactilespatial-exercise
+| Exercises in Basic Energetics \<Lesenthe> | https://web.archive.org/web/20130909230653/http://psionicsonline.net/exercises-basic-energetics
+| Gathering Internal Energy Exercise \<Lesenthe> | https://web.archive.org/web/20130912010044/http://psionicsonline.net/gathering-internal-energy-exercise
+| Externalising Internal Energy (Basic) Exercise \<Lesenthe> | https://web.archive.org/web/20130912012738/http://psionicsonline.net/externalising-internal-energy-basic-exercise
+| Externalising Internal Energy (Slightly Less Basic) Exercise \<Lesenthe> | https://web.archive.org/web/20130912215707/http://psionicsonline.net/externalising-internal-energy-slightly-less-basic-exercise
+| Gathering Ambient Energy Exercise \<Lesenthe> | https://web.archive.org/web/20130912010021/http://psionicsonline.net/gathering-ambient-energy-exercise
+| Creating Constructs Exercise \<Lesenthe> | https://web.archive.org/web/20130915093506/http://psionicsonline.net/creating-constructs-exercise
+| Shielding 101 \<Zeus> | https://web.archive.org/web/20130912012826/http://psionicsonline.net/shielding-101
+| Energy Types and Sources \<Lesenthe> | https://web.archive.org/web/20130710190633/http://psionicsonline.net/energy-types-and-sources
+| Energetic Body \<Lesenthe> | https://web.archive.org/web/20130710190759/http://psionicsonline.net/energetic-body
+| The Question of Shelling \<Lesenthe> | https://web.archive.org/web/20130710193606/http://psionicsonline.net/question-shelling
+| Going Deeper \<Lesenthe> | https://web.archive.org/web/20130710190816/http://psionicsonline.net/going-deeper
+| Thoughtforms – Accidental Constructs \<Lesenthe> | https://web.archive.org/web/20130710191543/http://psionicsonline.net/thoughtforms-%E2%80%93-accidental-constructs
+| Sample Construct Types \<Lesenthe> | https://web.archive.org/web/20130710190854/http://psionicsonline.net/sample-construct-types
+| Final Notes \<Lesenthe> | https://web.archive.org/web/20130710185307/http://psionicsonline.net/final-notes

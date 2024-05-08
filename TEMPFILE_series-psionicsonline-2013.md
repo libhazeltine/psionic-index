@@ -61,13 +61,13 @@ TODO: double check author names when importing these. Some of these were archive
 | ---- | ------------------------------ |
 | Basic Energy Management | https://web.archive.org/web/20130606145600/http://www.psionicsonline.net/basic-energy-management
 | Common Pitfalls | https://web.archive.org/web/20130819004926/http://psionicsonline.net/common-pitfalls
-| [-] Constructs for Newbies | https://web.archive.org/web/20130817052635/http://psionicsonline.net/constructs-for-newbies
 | Fundamentals Primer | https://web.archive.org/web/20130817084116/http://psionicsonline.net/energy-construct-basics
 | How to Be a Psionic Practitioner | https://web.archive.org/web/20130818175737/http://psionicsonline.net/how-be-psionic-practitioner
 | Introduction to Telekinesis | https://web.archive.org/web/20130602005753/http://www.psionicsonline.net/telekinesis-training
 | Programming Primer | https://web.archive.org/web/20130606084725/http://www.psionicsonline.net/programming-primer
 | Psionic Mods from a Three Domain Perspective | https://web.archive.org/web/20130817040603/http://psionicsonline.net/psionic-mods-three-domain-perspective
 | ANKA's Psionics Workbook | https://web.archive.org/web/20130710234352/http://psionicsonline.net/psionics-workbook-full 
+| Constructs for Newbies | ✅ completed
 | Practical Treatise on the Use of Symbol | ✅ completed
 | Thought primer | ✅ completed
 | Troubleshooting Psionics | ✅ completed
