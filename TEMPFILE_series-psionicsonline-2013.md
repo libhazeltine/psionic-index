@@ -66,7 +66,7 @@ TODO: double check author names when importing these. Some of these were archive
 | Introduction to Telekinesis | https://web.archive.org/web/20130602005753/http://www.psionicsonline.net/telekinesis-training
 | Programming Primer | https://web.archive.org/web/20130606084725/http://www.psionicsonline.net/programming-primer
 | Psionic Mods from a Three Domain Perspective | https://web.archive.org/web/20130817040603/http://psionicsonline.net/psionic-mods-three-domain-perspective
-| ANKA's Psionics Workbook | https://web.archive.org/web/20130710234352/http://psionicsonline.net/psionics-workbook-full 
+| ANKA's Psionics Workbook | ✅ completed 
 | Constructs for Newbies | ✅ completed
 | Practical Treatise on the Use of Symbol | ✅ completed
 | Thought primer | ✅ completed

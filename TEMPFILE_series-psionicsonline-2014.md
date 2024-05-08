@@ -134,7 +134,7 @@ TODO: double check author names when importing these. Some of these were archive
 | Conclusion \<metalforever> | https://web.archive.org/web/20130527005856/http://www.psionicsonline.net/conclusion-1
 
 
-# Construct Creation / Constructs for Newbies - psionicsonline.net
+## Construct Creation / Constructs for Newbies - psionicsonline.net
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | What is a Construct? \<Lesenthe> | https://web.archive.org/web/20140822234849/http://psionicsonline.net/construct
@@ -162,3 +162,40 @@ TODO: double check author names when importing these. Some of these were archive
 | Thoughtforms – Accidental Constructs \<Lesenthe> | https://web.archive.org/web/20130710191543/http://psionicsonline.net/thoughtforms-%E2%80%93-accidental-constructs
 | Sample Construct Types \<Lesenthe> | https://web.archive.org/web/20130710190854/http://psionicsonline.net/sample-construct-types
 | Final Notes \<Lesenthe> | https://web.archive.org/web/20130710185307/http://psionicsonline.net/final-notes
+
+
+
+## Construct Creation / ANKA's Psionics Workbook - psionicsonline.net
+| Name \[Notes, if any] \<Author> | Link | Notes |
+| ------------------------------- | ---- | ----- |
+| Chapter I: Basic Theory \<Anka> | https://web.archive.org/web/20140123113011/http://www.psionicsonline.net/psionics-workbook-full
+| Chapter II \<Anka> | https://web.archive.org/web/20140129204513/http://psionicsonline.net:80/chapter-ii
+| Chapter III \<Anka> | https://web.archive.org/web/20140123154420/http://www.psionicsonline.net/chapter-iii
+| Chapter IV \<Anka> | https://web.archive.org/web/20140119204214/http://www.psionicsonline.net/chapter-iv
+| Week One \<Anka> | https://web.archive.org/web/20140129223853/http://psionicsonline.net/week-one
+| Week Two \<Anka> | https://web.archive.org/web/20140128140040/http://www.psionicsonline.net/week-two
+| Week Three \<Anka> | https://web.archive.org/web/20130710234322/http://psionicsonline.net/week-three
+| Week Four \<Anka> | https://web.archive.org/web/20130710233854/http://psionicsonline.net/week-four
+| Week Five \<Anka> | https://web.archive.org/web/20130710234301/http://psionicsonline.net/week-five
+| Week Six \<Anka> | https://web.archive.org/web/20130710234311/http://psionicsonline.net/week-six
+| Week Seven \<Anka> | https://web.archive.org/web/20130710233447/http://psionicsonline.net/week-seven
+| Week Eight \<Anka> | https://web.archive.org/web/20130710234256/http://psionicsonline.net/week-eight
+| Week Nine \<Anka> | https://web.archive.org/web/20130710234438/http://psionicsonline.net/week-nine
+| Week Ten \<Anka> | https://web.archive.org/web/20130710233912/http://psionicsonline.net/week-ten
+| Week Eleven \<Anka> | https://web.archive.org/web/20130710234428/http://psionicsonline.net/week-eleven
+| Week Twelve \<Anka> | https://web.archive.org/web/20130710233923/http://psionicsonline.net/week-twelve
+| Week Thirteen \<Anka> | https://web.archive.org/web/20130710233917/http://psionicsonline.net/week-thirteen
+| Week Fourteen \<Anka> | https://web.archive.org/web/20130710233902/http://psionicsonline.net/week-fourteen
+| Week Fifteen \<Anka> | https://web.archive.org/web/20130710234433/http://psionicsonline.net/week-fifteen
+| Week Sixteen \<Anka> | https://web.archive.org/web/20130710234316/http://psionicsonline.net/week-sixteen
+| Week Seventeen \<Anka> | https://web.archive.org/web/20130710233455/http://psionicsonline.net/week-seventeen
+| Week Eighteen \<Anka> | https://web.archive.org/web/20130710234423/http://psionicsonline.net/week-eighteen
+| Week Nineteen \<Anka> | https://web.archive.org/web/20130710233907/http://psionicsonline.net/week-nineteen
+| Week Twenty \<Anka> | https://web.archive.org/web/20130710233928/http://psionicsonline.net/week-twenty
+| Week Twenty-One \<Anka> | https://web.archive.org/web/20130710234443/http://psionicsonline.net/week-twenty-one
+| Week Twenty-Two \<Anka> | https://web.archive.org/web/20130710233940/http://psionicsonline.net/week-twenty-two
+| Week Twenty-Three \<Anka> | https://web.archive.org/web/20130710233933/http://psionicsonline.net/week-twenty-three
+| Week Twenty-Four \<Anka> | https://web.archive.org/web/20130710233458/http://psionicsonline.net/week-twenty-four
+| Chapter V \<Anka> | https://web.archive.org/web/20130710234018/http://psionicsonline.net/chapter-v
+| Chapter VI \<Anka> | https://web.archive.org/web/20130710233354/http://psionicsonline.net/chapter-vi
+
