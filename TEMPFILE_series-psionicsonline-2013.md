@@ -59,16 +59,16 @@ TODO: double check author names when importing these. Some of these were archive
 
 | Name | First page/index URL at source |
 | ---- | ------------------------------ |
-| Basic Energy Management | https://web.archive.org/web/20130606145600/http://www.psionicsonline.net/basic-energy-management
 | Common Pitfalls | https://web.archive.org/web/20130819004926/http://psionicsonline.net/common-pitfalls
 | Fundamentals Primer | https://web.archive.org/web/20130817084116/http://psionicsonline.net/energy-construct-basics
 | How to Be a Psionic Practitioner | https://web.archive.org/web/20130818175737/http://psionicsonline.net/how-be-psionic-practitioner
-| Introduction to Telekinesis | https://web.archive.org/web/20130602005753/http://www.psionicsonline.net/telekinesis-training
-| Programming Primer | https://web.archive.org/web/20130606084725/http://www.psionicsonline.net/programming-primer
-| Psionic Mods from a Three Domain Perspective | https://web.archive.org/web/20130817040603/http://psionicsonline.net/psionic-mods-three-domain-perspective
+| Introduction to Telekinesis | [-] in progress
+| Psionic Mods from a Three Domain Perspective | ✅ completed
 | ANKA's Psionics Workbook | ✅ completed 
+| Basic Energy Management | ✅ completed
 | Constructs for Newbies | ✅ completed
 | Practical Treatise on the Use of Symbol | ✅ completed
+| Programming Primer | ✅ completed 
 | Thought primer | ✅ completed
 | Troubleshooting Psionics | ✅ completed
 | Visualizetion primer | ✅ completed

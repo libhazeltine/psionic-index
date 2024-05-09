@@ -199,3 +199,48 @@ TODO: double check author names when importing these. Some of these were archive
 | Chapter V \<Anka> | https://web.archive.org/web/20130710234018/http://psionicsonline.net/chapter-v
 | Chapter VI \<Anka> | https://web.archive.org/web/20130710233354/http://psionicsonline.net/chapter-vi
 
+
+## Construct Creation / Programming - psionicsonline.net
+| Name \[Notes, if any] \<Author> | Link | Notes |
+| ------------------------------- | ---- | ----- |
+| The Art of Programming \<Suntzu> | https://web.archive.org/web/20130828200054/http://www.psionicsonline.net/programming-primer
+| Basic Programming \<Miri> | https://web.archive.org/web/20130828174841/http://www.psionicsonline.net/basic-programming
+| Designing Constructs \<Miri> | https://web.archive.org/web/20130828182858/http://www.psionicsonline.net/designing-constructs-0
+| Passive Intent in Design of Energetic Objects \<Lesenthe> | https://web.archive.org/web/20130828193203/http://psionicsonline.net/passive-intent-design-energetic-objects-0
+| Advanced Constructs \<Miri> | https://web.archive.org/web/20130828190012/http://www.psionicsonline.net/advanced-constructs-0
+
+
+## Energy Manipulation / Field Management - psionicsonline.net
+| Name \[Notes, if any] \<Author> | Link | Notes |
+| ------------------------------- | ---- | ----- |
+| Basic Energy Management \<Innerfire> | https://web.archive.org/web/20130708235905/http://psionicsonline.net/basic-energy-management
+| Passive Techniques \<Innerfire> | `https://web.archive.org/web/20130709000011/http://psionicsonline.net/passive-techniques
+| Active Techniques Introduction \<Innerfire> | https://web.archive.org/web/20130708235900/http://psionicsonline.net/active-techniques-introduction
+| Meditation Exercise \<Innerfire> | https://web.archive.org/web/20130708235945/http://psionicsonline.net/meditation-exercise
+| Microcharging/Energy Focusing Exercise \<Innerfire> | https://web.archive.org/web/20130710233430/http://psionicsonline.net:80/microchargingenergy-focusing-exercise
+| Combinations \<Innerfire> | https://web.archive.org/web/20130710233435/http://psionicsonline.net/combinations
+| Charging \<Innerfire> | https://web.archive.org/web/20130710233442/http://psionicsonline.net/charging
+| Energy Management and Fields \<Innerfire> | https://web.archive.org/web/20130710190416/http://psionicsonline.net/energy-management-and-fields
+| Ambient Energy \<Innerfire> | https://web.archive.org/web/20130710190748/http://psionicsonline.net/ambient-energy
+| Energy Efficiency and Conservation \<Innerfire> | https://web.archive.org/web/20130710190312/http://psionicsonline.net/energy-efficiency-and-conservation
+| Closing \<Innerfire> | https://web.archive.org/web/20130710190823/http://psionicsonline.net/closing
+
+
+## Advanced Energy / Psionic Mods from a Three Domain Perspective - psionicsonline.net
+| Name \[Notes, if any] \<Author> | Link | Notes |
+| ------------------------------- | ---- | ----- |
+| Psionic Mods from a Three Domain Perspective \<Felidae> | https://web.archive.org/web/20130606050432/http://www.psionicsonline.net/psionic-mods-three-domain-perspective
+| The Mental, Exercise: #1: Entering the Control Core \<Felidae> | https://web.archive.org/web/20130828180948/http://www.psionicsonline.net/mental-exercise-1-entering-control-core
+| Exercise Two: Linking with Sigils \<Felidae> | https://web.archive.org/web/20130828184931/http://www.psionicsonline.net/exercise-two-linking-sigils
+| Exercise Three: Holistic Alteration \<Felidae> | https://web.archive.org/web/20130828213436/http://psionicsonline.net/exercise-three-holistic-alteration
+| The Energetic, Exercise #1: Overlays \<Felidae> | https://web.archive.org/web/20130828233932/http://psionicsonline.net/energetic-exercise-1-overlays
+| Exercise Two: Adaptive Modifications \<Felidae> | https://web.archive.org/web/20130828231208/http://psionicsonline.net/exercise-two-adaptive-modifications
+| Exercise Three: Pattern Optimisation \<Felidae> | https://web.archive.org/web/20130828221638/http://psionicsonline.net/exercise-three-pattern-optimisation
+| The Material \<Felidae> | https://web.archive.org/web/20130828225841/http://psionicsonline.net/material
+
+
+## Telekinesis / Training - psionicsonline.net
+| Name \[Notes, if any] \<Author> | Link | Notes |
+| ------------------------------- | ---- | ----- |
+| Introduction to Telekinesis \<Anonymous> | https://web.archive.org/web/20130709183645/http://psionicsonline.net/telekinesis-training
+| **TODO: REPLACE MEEEEEE** | https://web.archive.org/web/20130710051616/http://psionicsonline.net/basics-of-telekinesis
