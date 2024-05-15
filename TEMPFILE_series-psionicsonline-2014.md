@@ -243,4 +243,29 @@ TODO: double check author names when importing these. Some of these were archive
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | Introduction to Telekinesis \<Anonymous> | https://web.archive.org/web/20130709183645/http://psionicsonline.net/telekinesis-training
-| **TODO: REPLACE MEEEEEE** | https://web.archive.org/web/20130710051616/http://psionicsonline.net/basics-of-telekinesis
+| What is Telekinesis? \<Metalforever> | https://web.archive.org/web/20130710051616/http://psionicsonline.net/basics-of-telekinesis
+| Create a Journal \<Metalforever> | https://web.archive.org/web/20131107093521/http://psionicsonline.net/create-journal-0
+| Be Mindful of Your Mental State \<Metalforever> | https://web.archive.org/web/20131107072601/http://psionicsonline.net/be-mindful-your-mental-state
+| Focus on a Specific Aspect of an Object \<Metalforever> | https://web.archive.org/web/20131107083402/http://psionicsonline.net/focus-specific-aspect-object
+| Focus on the Visualization of an Object \<Metalforever> | https://web.archive.org/web/20131107063639/http://psionicsonline.net/focus-visualization-object
+| Tactile Visualization \<Metalforever> | https://web.archive.org/web/20131107095123/http://psionicsonline.net/tactile-visualization
+| Choose Your Practice Object \<Metalforever> | https://web.archive.org/web/20131107072321/http://psionicsonline.net/choose-your-practice-object
+| Creating a Psiwheel \<Metalforever> | https://web.archive.org/web/20131107072946/http://psionicsonline.net/creating-psiwheel
+| Creating a Pendulum \<Metalforever> | https://web.archive.org/web/20131107092153/http://psionicsonline.net/creating-pendulum
+| Creating a Floating Device \<Metalforever> | https://web.archive.org/web/20131107074018/http://psionicsonline.net/creating-floating-device
+| Practicing Telekinesis \<Metalforever> | https://web.archive.org/web/20131107103320/http://psionicsonline.net/practicing-telekinesis
+| Analyze Results In Journal \<Metalforever> | https://web.archive.org/web/20131107065213/http://psionicsonline.net/analyze-results-journal
+| Move it Like a Limb \<Metalforever> | https://web.archive.org/web/20131107091746/http://psionicsonline.net/move-it-limb
+| Alternative Link Forming Exercise \<Metalforever> | https://web.archive.org/web/20131107084518/http://psionicsonline.net/alternative-link-forming-exercise
+| Re-Analyze Your Practice Journal \<Metalforever> | https://web.archive.org/web/20131107105229/http://psionicsonline.net/re-analyze-your-practice-journal
+| Create Your Own Practice Exercise \<Metalforever> | https://web.archive.org/web/20131107063651/http://psionicsonline.net/create-your-own-practice-exercise
+| Stacked Psiwheel \<Metalforever> | https://web.archive.org/web/20131107095720/http://psionicsonline.net/stacked-psiwheel
+| Triple Stacked Psiwheel \<Metalforever> | https://web.archive.org/web/20131107101853/http://psionicsonline.net/triple-stacked-psiwheel
+| Analyze Your Journal \<Metalforever> | https://web.archive.org/web/20131107085741/http://psionicsonline.net/analyze-your-journal
+| Practice Object Under Glass \<Metalforever> | https://web.archive.org/web/20131107063748/http://psionicsonline.net/practice-object-under-glass
+| How to Use Telekinesis to Get What You Want \<Metalforever> | https://web.archive.org/web/20131107095940/http://psionicsonline.net/how-use-telekinesis-get-what-you-want
+| The Tinfoil \<Metalforever> | https://web.archive.org/web/20131107102250/http://psionicsonline.net/tinfoil
+| Balanced Soda Can \<Metalforever> | https://web.archive.org/web/20131107094847/http://psionicsonline.net/balanced-soda-can
+| Telekinesis Using Soda Can \<Metalforever> | https://web.archive.org/web/20131107094557/http://psionicsonline.net/telekinesis-using-soda-can
+| The Pencil/Highlighter \<Metalforever> | https://web.archive.org/web/20131107065945/http://psionicsonline.net/pencilhighlighter
+| Conclusion \<Metalforever> | https://web.archive.org/web/20131107105006/http://psionicsonline.net/conclusion-0
