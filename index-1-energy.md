@@ -13,6 +13,7 @@
 | psionguild.org/forums | Awareness Exercise \<Forum thread> | https://web.archive.org/web/20090105175233/http://www.psionguild.org/forums/archive/index.php/t-1761.html | 
 | psionicsonline.net | Basic Energy Management \<Innerfire> | https://web.archive.org/web/20090827005702/http://www.psionicsonline.net:80/article/basic-energy-management-innerfire | 
 | psionicsonline.net | Field Refinement \<Archaic\[UPC]> | https://web.archive.org/web/20091117130608/http://www.psionicsonline.net:80/article/field-refinement-archaic-upc | 
+| psionicsonline.net | Fundamentals Primer \<Metalforever, Archaic, Hech, Peebrain> | https://web.archive.org/web/20130817084116/http://psionicsonline.net/energy-construct-basics
 | psionicsonline.net/forums | Energy manipulation Practice. \<Forum thread> | https://web.archive.org/web/20080927204311/http://www.psionicsonline.net:80/forums/energy-manipulation-practice | 
 | psipalatium.com | Beginning with Psi \<Zeus> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=245&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20220516205022/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=245&a1=&p1=&g1=&gp1=&s1=&s=1) |
 | psipalatium.com | Getting Started \<ChezNips> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=550&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20180206174325/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=550&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) |

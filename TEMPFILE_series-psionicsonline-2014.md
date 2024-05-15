@@ -269,3 +269,17 @@ TODO: double check author names when importing these. Some of these were archive
 | Telekinesis Using Soda Can \<Metalforever> | https://web.archive.org/web/20131107094557/http://psionicsonline.net/telekinesis-using-soda-can
 | The Pencil/Highlighter \<Metalforever> | https://web.archive.org/web/20131107065945/http://psionicsonline.net/pencilhighlighter
 | Conclusion \<Metalforever> | https://web.archive.org/web/20131107105006/http://psionicsonline.net/conclusion-0
+
+## How to Be a Psionic Practitioner - psionicsonline.net
+| Name \[Notes, if any] \<Author> | Link | Notes |
+| ------------------------------- | ---- | ----- |
+| How to Be a Psionic Practitioner \<Various> | https://web.archive.org/web/20130818175737/http://psionicsonline.net/how-be-psionic-practitioner
+| Engage in Self Study \<Metalforever> | https://web.archive.org/web/20130828180145/http://www.psionicsonline.net/engage-self-study
+| Maintain Focus \<Metalforever> | https://web.archive.org/web/20130828174203/http://www.psionicsonline.net/maintain-focus
+| Be a Skeptic \<Metalforever> | https://web.archive.org/web/20130828161342/http://www.psionicsonline.net/be-skeptic
+| How to Practice \<Peebrain> | https://web.archive.org/web/20130828175848/http://www.psionicsonline.net/how-practice
+| Reasonable Expectations \<Miri> | https://web.archive.org/web/20130828191746/http://www.psionicsonline.net/reasonable-expectations
+| Maintaining a Schedule Successfully \<Metalforever> | https://web.archive.org/web/20130828161949/http://www.psionicsonline.net/maintaining-schedule-successfully
+| Does Belief Matter? \<Float> | https://web.archive.org/web/20130828170251/http://www.psionicsonline.net/does-belief-matter
+| How to Measure/Verify Your Skills \<Peebrain> | https://web.archive.org/web/20130828162134/http://www.psionicsonline.net/how-measureverify-your-skills
+| Psychic Journals \<Metalforever> | https://web.archive.org/web/20130828191735/http://www.psionicsonline.net/psychic-journals

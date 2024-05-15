@@ -59,10 +59,10 @@ TODO: double check author names when importing these. Some of these were archive
 
 | Name | First page/index URL at source |
 | ---- | ------------------------------ |
-| Common Pitfalls | https://web.archive.org/web/20130819004926/http://psionicsonline.net/common-pitfalls
-| Fundamentals Primer | https://web.archive.org/web/20130817084116/http://psionicsonline.net/energy-construct-basics
-| How to Be a Psionic Practitioner | https://web.archive.org/web/20130818175737/http://psionicsonline.net/how-be-psionic-practitioner
-| Introduction to Telekinesis | [-] in progress
+| Where Practice Goes Wrong / Soapbox | ✅ completed
+| Fundamentals Primer | ❎ not included
+| How to Be a Psionic Practitioner | ✅ completed
+| Introduction to Telekinesis | ✅ completed
 | Psionic Mods from a Three Domain Perspective | ✅ completed
 | ANKA's Psionics Workbook | ✅ completed 
 | Basic Energy Management | ✅ completed
