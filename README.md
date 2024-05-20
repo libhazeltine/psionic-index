@@ -16,3 +16,8 @@ These files are NOT comprehensive lists. Some stuff was ignored by me trying to 
 | (23) forums.vsociety.net / Constructs and Shielding
 | (24) forums.vsociety.net / Telepathy
 | (25) forums.vsociety.net / Meditation and Mental Skills 
+| (30) psiworld.net / Basic Energy Manipulation
+| (31) psiworld.net / Perception, Scanning, Focus
+| (32) psiworld.net / Healing and Shielding
+| (33) psiworld.net / Projection and Precognition
+| (34) psiworld.net / Psychokinesis and Alternative Energy Work Approaches
