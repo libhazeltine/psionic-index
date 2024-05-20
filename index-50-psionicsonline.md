@@ -1,6 +1,6 @@
 # Index - psionicsonline.net
 
-## About Psionics (50)
+## "About Psionics" (50)
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | (101-001) What is Psionics? \<Sephectja> | https://web.archive.org/web/20100620010440/http://www.psionicsonline.net:80/about-psionics | 
@@ -23,7 +23,7 @@
 | (101-018) Psychic Visualization \<ADMINISTRATOR> | https://web.archive.org/web/20101121123019/http://www.psionicsonline.net/about-psionics/general/145-psychic-visualization.html
 
 
-## How to be psychic (51)
+## "How to be psychic" (51)
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | (106-001) Introduction to Psionics \<Metalforever> | https://web.archive.org/web/20130425054453/http://www.psionicsonline.net/how-to-be-psychic
@@ -45,7 +45,7 @@
 | (106-017) Energy Working Technique Similarities \<Metalforever> | https://web.archive.org/web/20130807022523/http://psionicsonline.net/energy-working-technique-similarities
 | (106-018) On the Use of Altered States of Consciousness \<Metalforever> | https://web.archive.org/web/20130807024249/http://psionicsonline.net/use-altered-states-consciousness
 
-## Beginners Training / Psychic Abilities For Beginners / Exercises (52)
+## "Psychic Abilities For Beginners - Exercises" (52)
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | How to Create a Psychic Journal \<metalforever> | https://web.archive.org/web/20140419232944/http://psionicsonline.net/psychic-journals/
@@ -59,7 +59,7 @@
 | Studying Psychic Abilities \<metalforever> | https://web.archive.org/web/20140419164015/http://psionicsonline.net/engage-self-study/
 | Fundamental Psychic Skills \<metalforever> | https://web.archive.org/web/20140419164045/http://psionicsonline.net/fundamental-psychic-skills/
 
-## Beginners Training / Psychic Abilities For Beginners / Informational (53) 
+## "Psychic Abilities For Beginners - Informational" (53) 
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | Introduction to Psionics \<metalforever> | https://web.archive.org/web/20140220095233/http://psionicsonline.net/how-to-be-psychic/
@@ -77,7 +77,7 @@
 | Getting Motivated \<GreatSheepKing> | https://web.archive.org/web/20130602194447/http://www.psionicsonline.net/getting-motivated-greatsheepking
 | Miscellaneous Beginners Information \<Metalforever, Sephectja> | https://web.archive.org/web/20141117104931/http://psionicsonline.net/miscellaneous-beginners-information
 
-## Beginners Training / Where Practice Goes Wrong / Troubleshooting (54)
+## "Where Practice Goes Wrong - Troubleshooting" (54)
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | Troubleshooting Psionics \<Innerfire> | https://web.archive.org/web/20130818190324/http://psionicsonline.net/troubleshooting-psionics
@@ -97,7 +97,7 @@
 | Energy Revisited \<Innerfire> | https://web.archive.org/web/20130829012840/http://psionicsonline.net/day-50-day-53-energy-revisited
 | Wrap-Up and More Extenuating Circumstances \<Innerfire> | https://web.archive.org/web/20130829025724/http://psionicsonline.net/day-54-wrap-and-more-extenuating-circumstances
 
-## Beginners Training / Where Practice Goes Wrong / Soapbox (55)
+## "Where Practice Goes Wrong - Soapbox" (55)
 *This section is more about specific opinions of and issues within the OEC rather than psionic practice.* 
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
@@ -111,7 +111,7 @@
 | How Do You Know It’s Real? \<Peebrain> | https://web.archive.org/web/20131107102231/http://www.psionicsonline.net/how-do-you-know-it%E2%80%99s-real
 | Confirmation Bias \<metalforever> | https://web.archive.org/web/20130819012942/http://www.psionicsonline.net/confirmation-bias
 
-## Thought Control (56)
+## "Thought Control" (56)
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | Thought Primer \<Metalforever> | https://web.archive.org/web/20131124221538/http://psionicsonline.net/thought-primer
@@ -126,7 +126,7 @@
 | Focus on Multiple Aspects of an Object at the Same Time \<Metalforever> | https://web.archive.org/web/20131107095413/http://www.psionicsonline.net/focus-multiple-aspects-object-same-time
 | Think About Nothing \<metalforever> | https://web.archive.org/web/20131107071252/http://www.psionicsonline.net/think-about-nothing
 
-## Visualization Training (57)
+## "Visualization Training" (57)
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | Why Is Visualization Important? \<metalforever> | https://web.archive.org/web/20130327091052/http://www.psionicsonline.net:80/visualization-primer
@@ -149,7 +149,7 @@
 | Imagine a Lecture \<metalforever> | https://web.archive.org/web/20131113203208/http://www.psionicsonline.net/imagine-lecture
 | After Exercise #16 \<metalforever> | https://web.archive.org/web/20131113214815/http://www.psionicsonline.net/after-exercise-16
 
-## Psychic Methods Creation (58)
+## "Psychic Methods Creation" (58)
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | A Practical Treatise on the Use of Symbol \<metalforever> | https://web.archive.org/web/20130602152309/http://www.psionicsonline.net/practical-treatise-use-symbol
@@ -160,7 +160,7 @@
 | How to Create Your Own Techniques \<metalforever> | https://web.archive.org/web/20130527005425/http://www.psionicsonline.net/how-create-your-own-techniques
 | Conclusion \<metalforever> | https://web.archive.org/web/20130527005856/http://www.psionicsonline.net/conclusion-1
 
-## Construct Creation / Constructs for Newbies (59)
+## "Constructs for Newbies" (59)
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | What is a Construct? \<Lesenthe> | https://web.archive.org/web/20140822234849/http://psionicsonline.net/construct

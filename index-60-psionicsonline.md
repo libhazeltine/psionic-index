@@ -1,6 +1,6 @@
 # Index - psionicsonline.net, psionicsonline.net/forums
 
-## Construct Creation / ANKA's Psionics Workbook (60)
+## "ANKA's Psionics Workbook" (60)
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | Chapter I: Basic Theory \<Anka> | https://web.archive.org/web/20140123113011/http://www.psionicsonline.net/psionics-workbook-full
@@ -34,7 +34,7 @@
 | Chapter V \<Anka> | https://web.archive.org/web/20130710234018/http://psionicsonline.net/chapter-v
 | Chapter VI \<Anka> | https://web.archive.org/web/20130710233354/http://psionicsonline.net/chapter-vi
 
-## Construct Creation / Programming (61)
+## "Construct Creation - Programming" (61)
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | The Art of Programming \<Suntzu> | https://web.archive.org/web/20130828200054/http://www.psionicsonline.net/programming-primer
@@ -43,7 +43,7 @@
 | Passive Intent in Design of Energetic Objects \<Lesenthe> | https://web.archive.org/web/20130828193203/http://psionicsonline.net/passive-intent-design-energetic-objects-0
 | Advanced Constructs \<Miri> | https://web.archive.org/web/20130828190012/http://www.psionicsonline.net/advanced-constructs-0
 
-## Energy Manipulation / Field Management (62)
+## "Energy Manipulation - Field Management" (62)
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | Basic Energy Management \<Innerfire> | https://web.archive.org/web/20130708235905/http://psionicsonline.net/basic-energy-management
@@ -59,7 +59,7 @@
 | Closing \<Innerfire> | https://web.archive.org/web/20130710190823/http://psionicsonline.net/closing
 
 
-## Advanced Energy / Psionic Mods from a Three Domain Perspective (63)
+## "Psionic Mods from a Three Domain Perspective" (63)
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | Psionic Mods from a Three Domain Perspective \<Felidae> | https://web.archive.org/web/20130606050432/http://www.psionicsonline.net/psionic-mods-three-domain-perspective
@@ -71,7 +71,7 @@
 | Exercise Three: Pattern Optimisation \<Felidae> | https://web.archive.org/web/20130828221638/http://psionicsonline.net/exercise-three-pattern-optimisation
 | The Material \<Felidae> | https://web.archive.org/web/20130828225841/http://psionicsonline.net/material
 
-## Telekinesis / Training (64)
+## "Telekinesis - Training" (64)
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | Introduction to Telekinesis \<Anonymous> | https://web.archive.org/web/20130709183645/http://psionicsonline.net/telekinesis-training
@@ -102,7 +102,7 @@
 | The Pencil/Highlighter \<Metalforever> | https://web.archive.org/web/20131107065945/http://psionicsonline.net/pencilhighlighter
 | Conclusion \<Metalforever> | https://web.archive.org/web/20131107105006/http://psionicsonline.net/conclusion-0
 
-## How to Be a Psionic Practitioner (65)
+## "How to Be a Psionic Practitioner" (65)
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | How to Be a Psionic Practitioner \<Various> | https://web.archive.org/web/20130818175737/http://psionicsonline.net/how-be-psionic-practitioner
@@ -116,7 +116,7 @@
 | How to Measure/Verify Your Skills \<Peebrain> | https://web.archive.org/web/20130828162134/http://www.psionicsonline.net/how-measureverify-your-skills
 | Psychic Journals \<Metalforever> | https://web.archive.org/web/20130828191735/http://www.psionicsonline.net/psychic-journals
 
-## Forum Threads and Miscellaneous / Energy Manipulation, Perception, Constructs, and Programming (66)
+## Other Content - Energy Manipulation, Perception, Constructs, and Programming (66)
 | Source | Name \[Notes, if any] \<Author> | Link |
 | ------ | ------------------------------- | ---- |
 | psionicsonline.net | Field Refinement \<Archaic\[UPC]> | https://web.archive.org/web/20091117130608/http://www.psionicsonline.net:80/article/field-refinement-archaic-upc | 
@@ -141,7 +141,7 @@
 | psionicsonline.net | Remote Presence, Viewing and Touch \<Lesenthe> | https://web.archive.org/web/20080827125245/http://www.psionicsonline.net:80/content/remote-presence-viewing-and-touch-lesenthe | 
 | psionicsonline.net | Three Easy Steps to: Flaring \<Jynx493> | https://web.archive.org/web/20080411092822/http://www.psionicsonline.net:80/flaring | 
 
-## Forum Threads and Miscellaneous / Psychokinesis (67)
+## Other Content - Psychokinesis (67)
 | Source | Name \[Notes, if any] \<Author> | Link |
 | ------ | ------------------------------- | ---- |
 | psionicsonline.net | Floats Telekinesis Article \<Float> | https://web.archive.org/web/20111212201651/http://www.psionicsonline.net/floats-telekinesis-article/
@@ -152,7 +152,7 @@
 | psionicsonline.net | Passive Psychokinetic Force \<Shadowarrior13 \[UPC]> | https://web.archive.org/web/20111212201654/http://www.psionicsonline.net/passive-psychokinetic-force-upc/ | 
 | psionicsonline.net/forums | TK on ice \<Forum thread> | https://web.archive.org/web/20080517020707/http://www.psionicsonline.net:80/forums/index.php/topic,623.0.html |
 
-## Forum Threads and Miscellaneous / Telepathy (68)
+## Other Content - Telepathy (68)
 | Source | Name \[Notes, if any] \<Author> | Link |
 | ------ | ------------------------------- | ---- |
 | psionicsonline.net/forums | Controlling Empathy \<Forum thread> | https://web.archive.org/web/20080317090043/http://www.psionicsonline.net:80/forums/index.php/topic,280.0.html | 
@@ -164,7 +164,7 @@
 | psionicsonline.net | \[PART 1] Different Views: Physical to Non-Physical: E.S.P \<Float> | https://web.archive.org/web/20111212202029/http://www.psionicsonline.net/different-views-physical-to-non-physical-esp/ | 
 | psionicsonline.net | \[PART 2] Different Views: Physical to Non-Physical: E.S.P \<Float> | https://web.archive.org/web/20111212202030/http://www.psionicsonline.net/different-views-physical-to-non-physical-esp-part-2/ |
 
-## Forum Threads and Miscellaneous / Training, Focus, and Projection (69)
+## Other Content - Training, Focus, and Projection (69)
 | Source | Name \[Notes, if any] \<Author> | Link |
 | ------ | ------------------------------- | ---- |
 | psionicsonline.net | Concentration - The Brain Is A Muscle \<Float> | https://web.archive.org/web/20130327090942/http://www.psionicsonline.net:80/concentration-brain-muscle | 
