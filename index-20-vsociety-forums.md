@@ -1,6 +1,6 @@
 # Index - forums.vsociety.net
 
-## Energy Manipulation Guide (21) \<ChezNips>
+## "Energy Manipulation Guide" (21) \<ChezNips>
 | Source | Name \[Notes, if any] \<Author> | Link |
 | ------ | ------------------------------- | ---- |
 | forums.vsociety.net | Energy Manipulation Guide [1/3] \<ChezNips> | https://web.archive.org/web/20190623182335/http://forums.vsociety.net/index.php/topic,10829.0.html |
@@ -39,15 +39,15 @@
 | forums.vsociety.net | Any ways to harm people (besides yourself) doing psi? (2 of 2) \<Forum thread> | https://web.archive.org/web/20130511221055/http%253A//forums.vsociety.net/index.php/topic%252C1013.15.html |
 
 ## "Dynamic Psi" series (26)
-| Name \<Author> | Link |
-| -------------- | ---- | 
-| (index) Welcome to Fundamental Psi \<Mobius> | https://web.archive.org/web/20180909141127/http://forums.vsociety.net/index.php?topic=10393.0
-| (1-0) Fundamental Dynamic Psi for the Beginning Practitioner \<Mobius> | https://web.archive.org/web/20180612165124/http://forums.vsociety.net/index.php?topic=9683.0 |
-| (1-0A) Focal Meditation \<kobok> | https://web.archive.org/web/20190119132224/http://forums.vsociety.net/index.php?topic=4867.0
-| (1-1) Fundamental Psi: Introduction to Kinetics \<Mobius> | https://web.archive.org/web/20180612165611/http://forums.vsociety.net/index.php?topic=9836.0
-| (1-1A) Introduction to Kinetics \<kobok> | https://web.archive.org/web/20190625002649/http://forums.vsociety.net/index.php?topic=4868.0
-| (1-2) Fundamental Psi: Future Selection \<Mobius> | https://web.archive.org/web/20180612165731/http://forums.vsociety.net/index.php?topic=9907.0
-| (1-3) Fundamental Psi: Masters of Transformation | https://web.archive.org/web/20180612165815/http://forums.vsociety.net/index.php?topic=9995.0
+| (Order) Name \<Author> | Link |
+| ---------------------- | ---- | 
+| (1-0) Welcome to Fundamental Psi \<Mobius> | https://web.archive.org/web/20180909141127/http://forums.vsociety.net/index.php?topic=10393.0
+| (1-1) Fundamental Dynamic Psi for the Beginning Practitioner \<Mobius> | https://web.archive.org/web/20180612165124/http://forums.vsociety.net/index.php?topic=9683.0 |
+| (1-1A) Focal Meditation \<kobok> | https://web.archive.org/web/20190119132224/http://forums.vsociety.net/index.php?topic=4867.0
+| (1-2) Fundamental Psi: Introduction to Kinetics \<Mobius> | https://web.archive.org/web/20180612165611/http://forums.vsociety.net/index.php?topic=9836.0
+| (1-2A) Introduction to Kinetics \<kobok> | https://web.archive.org/web/20190625002649/http://forums.vsociety.net/index.php?topic=4868.0
+| (1-3) Fundamental Psi: Future Selection \<Mobius> | https://web.archive.org/web/20180612165731/http://forums.vsociety.net/index.php?topic=9907.0
+| (1-4) Fundamental Psi: Masters of Transformation | https://web.archive.org/web/20180612165815/http://forums.vsociety.net/index.php?topic=9995.0
 | (2-1) Fundamental Psi: Inner Meditation and Linking \<XIII> | https://web.archive.org/web/20180612165835/http://forums.vsociety.net/index.php?topic=10067.0
 | (2-2) Fundamental Psi: Scanning \<XIII> | https://web.archive.org/web/20180612165902/http://forums.vsociety.net/index.php?topic=10154.0
 | (2-3) Fundamental Psi: The Conceptual Domain \<XIII> | https://web.archive.org/web/20180612165923/http://forums.vsociety.net/index.php?topic=10224.0
