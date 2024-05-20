@@ -1,5 +1,5 @@
 # Index - psistudies.net
-~~psistudies.net~~
+
 
 ## Energy Cultivation and Psi-balls (81)
 | Source | Name \[Notes, if any] \<Author> | Link |
