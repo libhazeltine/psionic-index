@@ -3,11 +3,8 @@
 ## Introduction and Basic Energy Manipulation (71)
 | Source | Name \[Notes, if any] \<Author> | Link |
 | ------ | ------------------------------- | ---- |
-| psipalatium.com | Beginning with Psi \<Zeus> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=245&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20220516205022/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=245&a1=&p1=&g1=&gp1=&s1=&s=1) |
-| psipalatium.com | Getting Started \<ChezNips> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=550&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20180206174325/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=550&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) |
-| psipalatium.com | Moving your Energy \<ChezNips> | [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=605&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20230603044206/http://www.psipalatium.com/index.php?p=200&a=605&l1=2&l2=21) |
-| psipalatium.com | Psionics \<WingedWolf> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=258&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20220517001852/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=258&a1=&p1=&g1=&gp1=&s1=&s=1) |
-| psipalatium.com | Psi and You: You're Doing It Right Now \<Kruel> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=246&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20220116211521/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=246&a1=&p1=&g1=&gp1=&s1=&s=1) |
+| astateofmind.eu | 3 steps to ground yourself \<Nathan> | https://web.archive.org/web/20100426065445/http://astateofmind.eu:80/2010/04/22/3-steps-to-ground-yourself/ | 
+| astateofmind.eu | Shelling \<Hech \[UPC]> | https://web.archive.org/web/20100202212950/http://astateofmind.eu:80/2008/12/07/shelling |
 | psionicvisionaries.blogspot.com | Psionics, How To Get Better Without Practice | https://web.archive.org/web/20230622030743/http://psionicvisionaries.blogspot.com/2008/02/psionics-how-to-get-better-without.html | 
 | totse.com | Psionic Training Guide \<Xirokoto> | https://web.archive.org/web/20070520064617/http://www.totse.com/en/fringe/dreams_auras_astral_projection/psionictrainin191367.html | 
 | houseofancients.com | What Is Psionics [*This forum is rather unhinged but this thread is interesting*] \<D'Los> | https://web.archive.org/web/20110620081204/http://houseofancients.com:80/forums/viewtopic.php?p=2720&sid=513d21d9ecbd3685606d6aa6215d40d3 |
@@ -17,11 +14,6 @@
 ## Constructs, Programming, and Shielding (72)
 | Source | Name \[Notes, if any] \<Author> | Link |
 | ------ | ------------------------------- | ---- |
-| psipalatium.com | How-To-Shield \<ChezNips> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=556&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20230324034329/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=556&a1=&p1=&g1=&gp1=&s1=&s=1) |
-| psipalatium.com | Programming Constructs/Thoughtforms \<ChezNips> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=557&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20230603051727/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=557&a1=&p1=&g1=&gp1=&s1=&s=1) |
-| psipalatium.com | Threads \<ChezNips> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=552&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20230126223628/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=552&a1=&p1=&g1=&gp1=&s1=&s=1) |
-| psipalatium.com | Tracing \<ChezNips> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=554&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20231204134330/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=554&a1=&p1=&g1=&gp1=&s1=&s=1) |
-| psipalatium.com | Energy Tagging for ID \<ChezNips> | [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=607&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20230603054122/http://www.psipalatium.com/index.php?p=200&a=607&l1=2&l2=21) |
 | miripsion.googlepages.com | Advanced constructs - A brief guide to the daunting \<miri> | https://web.archive.org/web/20090607140830/http://miripsion.googlepages.com:80/advancedconstructs |
 | psc-online.org | Energetic Cords and Tendrils \<Rainsong> | https://web.archive.org/web/20180507171922/http://psc-online.org/doku.php?id=blog:tendrils |
 | psc-online.org | Stone Tower Shields, and About Shielding Generally \<Rainsong> | https://web.archive.org/web/20180507171401/http://psc-online.org/doku.php?id=blog:stone_tower_shield |
@@ -33,8 +25,12 @@
 ## Telepathy and Perception (73)
 | Source | Name \[Notes, if any] \<Author> | Link |
 | ------ | ------------------------------- | ---- |
-| psipalatium.com | Scanning \<Zeus, Forg> |  [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=531&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20210517132319/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=531&a1=&p1=&g1=&gp1=&s1=&s=1) |
-| psipalatium.com | Empathy and its Use \<ChezNips> | [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=606&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20230605110652/http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=606&a1=&p1=&g1=&gp1=&s1=&s=1) |
+| astateofmind.eu | 5 steps to read an object with psychometry \<Nathan> | https://web.archive.org/web/20100404012436/http://astateofmind.eu:80/2010/04/02/5-steps-to-read-an-object-with-psychometry/ | 
+| astateofmind.eu | How to Learn Telepathy \<Shadowarrior13 \[UPC], Hech \[UPC]> | https://web.archive.org/web/20100327103229/http://astateofmind.eu:80/2008/11/29/how-to-learn-telepathy/ | 
+| astateofmind.eu | How to use your memories to improve clairvoyance \<Nathaniel> | https://web.archive.org/web/20101213024804/http://astateofmind.eu:80/2010/12/03/memories-improve-clairvoyance/ |
+| astateofmind.eu | Remote Viewing: A Look Upon the Abstract \<DagoRed \[UPC]> | https://web.archive.org/web/20081207053358/http://astateofmind.eu:80/2008/12/05/remote-viewing-a-look-upon-the-abstract/ |
+| astateofmind.eu | Rudimentary Scanning \<Jaci \[UPC]> | https://web.archive.org/web/20100204151549/http://astateofmind.eu:80/2008/12/06/rudimentary-scanning/ |
+| astateofmind.eu | Types of psychic attacks & defence against them \<Nathan> | https://web.archive.org/web/20100411013703/http://astateofmind.eu:80/2010/04/08/types-of-psychic-attacks-defence-against-them/ |
 | psc-online.org | Empathy \<Rainsong> | https://web.archive.org/web/20180507171851/http://psc-online.org/doku.php?id=blog:empathy |
 | psc-online.org | Sending \<Rainsong> | https://web.archive.org/web/20180507171914/http://psc-online.org/doku.php?id=blog:sending |
 | psc-online.org | Dreamwalking and Lucid Dreaming \<Rainsong> | https://web.archive.org/web/20180507171847/http://psc-online.org/doku.php?id=blog:dreamwalking_and_lucid_dreams |
@@ -67,8 +63,10 @@
 
 
 ## Psychokinesis and Healing
+| astateofmind.eu | Affecting radiowaves \<JoeRoger \[UPC]> | https://web.archive.org/web/20100404012406/http://astateofmind.eu/2008/11/18/affecting-radiowaves/ |
+| astateofmind.eu | An Introduction to Remote Touch \<Jonn \[UPC]> | https://web.archive.org/web/20100523120850/http://astateofmind.eu:80/2008/11/19/an-introduction-to-remote-touch/ |
+| astateofmind.eu | Introduction to Micro Psychokinesis \<No Author \[UPC]> | https://web.archive.org/web/20090414184938/http://astateofmind.eu/2008/11/30/introduction-to-micro-psychokinesis/ |
 | ppsociety.com | More psi-wheel exercises \<No author> | https://web.archive.org/web/20050224031439/http://ppsociety.com:80/w_exercisev.php?id=4 |
 | ppsociety.com | Paper and thread \<No author> | https://web.archive.org/web/20050224031459/http://ppsociety.com:80/w_exercisev.php?id=2 |
 | ppsociety.com | Rolled up foil |<No author> | https://web.archive.org/web/20050224104104/http://ppsociety.com:80/w_exercisev.php?id=6 |
 | artofpsionics.proboards.com | Healing and Your Energy Body \<Spilledchemicals> | https://web.archive.org/web/20230721065053/https://artofpsionics.proboards.com/thread/63/healing-energy-body |
-| psipalatium.com | Psychokinesis Overview \<Zeus> | [psipalatium.com link](http://www.psipalatium.com/index.php?p=202&fltr=Filter&a=492&a1=0&p1=0&g1=0&gp1=0&s1=0&s=1) - [web.archive.org link](https://web.archive.org/web/20220626052026/http://www.psipalatium.com:80/index.php?p=202&fltr=Filter&a=492&a1=&p1=&g1=&gp1=&s1=&s=1) |
