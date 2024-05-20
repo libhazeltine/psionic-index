@@ -1,11 +1,11 @@
 # Index - forums.vsociety.net
 
 ## "Energy Manipulation Guide" (21) \<ChezNips>
-| Source | Name \[Notes, if any] \<Author> | Link |
-| ------ | ------------------------------- | ---- |
-| forums.vsociety.net | Energy Manipulation Guide [1/3] \<ChezNips> | https://web.archive.org/web/20190623182335/http://forums.vsociety.net/index.php/topic,10829.0.html |
-| forums.vsociety.net | Energy Manipulation Guide [2/3] \<ChezNips> | https://web.archive.org/web/20190623185019/http://forums.vsociety.net/index.php/topic,10829.15.html |
-| forums.vsociety.net | Energy Manipulation Guide [3/3] \<ChezNips> | https://web.archive.org/web/20190625002101/http://forums.vsociety.net/index.php/topic,10829.30.html |
+| (Order) Name \[Notes, if any] \<Author> | Link |
+| ------------------------------- | ---- |
+| (1/3) Energy Manipulation Guide  \<ChezNips> | https://web.archive.org/web/20190623182335/http://forums.vsociety.net/index.php/topic,10829.0.html |
+| (2/3) Energy Manipulation Guide  \<ChezNips> | https://web.archive.org/web/20190623185019/http://forums.vsociety.net/index.php/topic,10829.15.html |
+| (3/3) Energy Manipulation Guide  \<ChezNips> | https://web.archive.org/web/20190625002101/http://forums.vsociety.net/index.php/topic,10829.30.html |
 
 ## Constructs and Shielding (22)
 | Source | Name \[Notes, if any] \<Author> | Link |
@@ -17,26 +17,26 @@
 | forums.vsociety.net | The Secondary Cerebral Cortex of the Psion \<Kettle> | https://web.archive.org/web/20190623185029/http://forums.vsociety.net/index.php/topic,11619.0.html |
 
 ## Telepathy (23)
-| Source | Name \[Notes, if any] \<Author> | Link |
-| ------ | ------------------------------- | ---- |
-| forums.vsociety.net | Telepathy conundrum \[foreign languages] \<Forum thread> | https://web.archive.org/web/20100707181143/http://forums.vsociety.net/index.php/topic,10974.0/prev_next,next.html | 
-| forums.vsociety.net | Telepathy Exercise \<kobok> | https://web.archive.org/web/20130510084247/http%253A//forums.vsociety.net/index.php?topic%253D4829.0 | 
+| Name \[Notes, if any] \<Author> | Link |
+| ------------------------------- | ---- |
+| Telepathy conundrum \[foreign languages] \<Forum thread> | https://web.archive.org/web/20100707181143/http://forums.vsociety.net/index.php/topic,10974.0/prev_next,next.html | 
+| Telepathy Exercise \<kobok> | https://web.archive.org/web/20130510084247/http%253A//forums.vsociety.net/index.php?topic%253D4829.0 | 
 
 ## Meditation and Mental Skills (24)
-| Source | Name \[Notes, if any] \<Author> | Link |
-| ------ | ------------------------------- | ---- |
-| forums.vsociety.net | A Treatise on Self Hypnosis \<Koujiryuu> | https://web.archive.org/web/20190730090217/http://forums.vsociety.net/index.php/topic,10187.0.html |
-| forums.vsociety.net | Altered States \<ChezNips> | https://web.archive.org/web/20140914044502/http://forums.vsociety.net/index.php/topic,10825.0.html |
-| forums.vsociety.net | Benefits of Meditation \<ChezNips> | https://web.archive.org/web/20140914080607/http://forums.vsociety.net/index.php/topic,10826.0.html |
-| forums.vsociety.net | Brain Training \<ChezNips> | https://web.archive.org/web/20180925203804/http://forums.vsociety.net/index.php/topic,10827.0.html |
-| forums.vsociety.net | Relaxation \<Neo> | https://web.archive.org/web/20130512140516/http%253A//forums.vsociety.net/index.php/topic%252C10.0/prev_next%252Cnext.html |
-| forums.vsociety.net | Setting Triggers \<ChezNips> | https://web.archive.org/web/20190727180831/http://forums.vsociety.net/index.php/topic,10839.0.html |
+| Name \[Notes, if any] \<Author> | Link |
+| ------------------------------- | ---- |
+| A Treatise on Self Hypnosis \<Koujiryuu> | https://web.archive.org/web/20190730090217/http://forums.vsociety.net/index.php/topic,10187.0.html |
+| Altered States \<ChezNips> | https://web.archive.org/web/20140914044502/http://forums.vsociety.net/index.php/topic,10825.0.html |
+| Benefits of Meditation \<ChezNips> | https://web.archive.org/web/20140914080607/http://forums.vsociety.net/index.php/topic,10826.0.html |
+| Brain Training \<ChezNips> | https://web.archive.org/web/20180925203804/http://forums.vsociety.net/index.php/topic,10827.0.html |
+| Relaxation \<Neo> | https://web.archive.org/web/20130512140516/http%253A//forums.vsociety.net/index.php/topic%252C10.0/prev_next%252Cnext.html |
+| Setting Triggers \<ChezNips> | https://web.archive.org/web/20190727180831/http://forums.vsociety.net/index.php/topic,10839.0.html |
 
 ## Offense (25)
-| Source | Name \[Notes, if any] \<Author> | Link |
-| ------ | ------------------------------- | ---- |
-| forums.vsociety.net | Any ways to harm people (besides yourself) doing psi? (1 of 2) \<Forum thread> | https://web.archive.org/web/20130512002800/http%253A//forums.vsociety.net/index.php/topic%252C1013.0.html |
-| forums.vsociety.net | Any ways to harm people (besides yourself) doing psi? (2 of 2) \<Forum thread> | https://web.archive.org/web/20130511221055/http%253A//forums.vsociety.net/index.php/topic%252C1013.15.html |
+| Name \[Notes, if any] \<Author> | Link |
+| ------------------------------- | ---- |
+| Any ways to harm people (besides yourself) doing psi? (1 of 2) \<Forum thread> | https://web.archive.org/web/20130512002800/http%253A//forums.vsociety.net/index.php/topic%252C1013.0.html |
+| Any ways to harm people (besides yourself) doing psi? (2 of 2) \<Forum thread> | https://web.archive.org/web/20130511221055/http%253A//forums.vsociety.net/index.php/topic%252C1013.15.html |
 
 ## "Dynamic Psi" series (26)
 | (Order) Name \<Author> | Link |
