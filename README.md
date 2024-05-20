@@ -11,10 +11,8 @@ These files are NOT comprehensive lists. Some stuff was ignored by me trying to 
 | (10) psipalatium.com / Core Theories and Skills | 
 | (11) psipalatium.com / Constructs, Programming, and Shielding | 
 | (12) psipalatium.com / Other Skills | 
-| (..) forums.vsociety.net / Energy Manipulation Guide
-| (..) forums.vsociety.net / Constructs and Shielding
-| (..) forums.vsociety.net / Telepathy
-| (..) forums.vsociety.net / Meditation and Mental Skills 
-| (..) forums.vsociety.net / Meditation and Mental Skills 
-| (..) forums.vsociety.net / Offense
-| (..) forums.vsociety.net / "Dynamic Psi" series
+| (20) forums.vsociety.net / "Dynamic Psi"
+| (21) forums.vsociety.net / "Energy Manipulation Guide"
+| (23) forums.vsociety.net / Constructs and Shielding
+| (24) forums.vsociety.net / Telepathy
+| (25) forums.vsociety.net / Meditation and Mental Skills 
