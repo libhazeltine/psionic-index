@@ -21,3 +21,8 @@ These files are NOT comprehensive lists. Some stuff was ignored by me trying to 
 | (32) psiworld.net / Healing and Shielding
 | (33) psiworld.net / Projection and Precognition
 | (34) psiworld.net / Psychokinesis and Alternative Energy Work Approaches
+| (40) psionguild.org / Basic Energy Manipulation
+| (41) psionguild.org / Constructs, Programming, Shielding
+| (42) psionguild.org / Perception and Scanning
+| (43) psionguild.org / Telepathy, Connections, and Projection
+| (44) psionguild.org / Focus and Concentration
