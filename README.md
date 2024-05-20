@@ -26,23 +26,23 @@ These files are NOT comprehensive lists. Some stuff was ignored by me trying to 
 | (42) psionguild.org / Perception and Scanning
 | (43) psionguild.org / Telepathy, Connections, and Projection
 | (44) psionguild.org / Focus and Concentration
-| (..) psionicsonline.net / "About Psionics"
-| (..) psionicsonline.net / "How to be psychic"
-| (..) psionicsonline.net / "Psychic Abilities For Beginners - Exercises"
-| (..) psionicsonline.net / "Psychic Abilities For Beginners - Informational"
-| (..) psionicsonline.net / "Where Practice Goes Wrong - Troubleshooting"
-| (..) psionicsonline.net / "Where Practice Goes Wrong - Soapbox"
-| (..) psionicsonline.net / "Thought Control"
-| (..) psionicsonline.net / "Visualization Training"
-| (..) psionicsonline.net / "Psychic Methods Creation"
-| (..) psionicsonline.net / "Constructs for Newbies"
-| (..) psionicsonline.net / "ANKA's Psionics Workbook"
-| (..) psionicsonline.net / "Construct Creation - Programming"
-| (..) psionicsonline.net / "Energy Manipulation - Field Management"
-| (..) psionicsonline.net / "Psionic Mods from a Three Domain Perspective"
-| (..) psionicsonline.net / "Telekinesis - Training"
-| (..) psionicsonline.net / "How to Be a Psionic Practitioner"
-| (..) psionicsonline.net / Other Content - Energy Manipulation, Perception, Constructs, and Programming
-| (..) psionicsonline.net / Other Content - Psychokinesis
-| (..) psionicsonline.net / Other Content - Telepathy
-| (..) psionicsonline.net / Other Content - Training, Focus, and Projection
+| (50) psionicsonline.net / "About Psionics"
+| (51) psionicsonline.net / "How to be psychic"
+| (52) psionicsonline.net / "How to Be a Psionic Practitioner"
+| (53) psionicsonline.net / "Psionic Mods from a Three Domain Perspective"
+| (54) psionicsonline.net / "Psychic Abilities For Beginners - Exercises"
+| (55) psionicsonline.net / "Psychic Abilities For Beginners - Informational"
+| (56) psionicsonline.net / "Where Practice Goes Wrong - Troubleshooting"
+| (57) psionicsonline.net / "Where Practice Goes Wrong - Soapbox"
+| (58) psionicsonline.net / "Psychic Methods Creation"
+| (59) psionicsonline.net / "Thought Control"
+| (60) psionicsonline.net / "Visualization Training"
+| (61) psionicsonline.net / "Energy Manipulation - Field Management"
+| (62) psionicsonline.net / "Constructs for Newbies"
+| (63) psionicsonline.net / "Construct Creation - Programming"
+| (64) psionicsonline.net / "Telekinesis - Training"
+| (65) psionicsonline.net / "ANKA's Psionics Workbook"
+| (66) psionicsonline.net / Other Content - Energy Manipulation, Perception, Constructs, and Programming
+| (67) psionicsonline.net / Other Content - Psychokinesis
+| (68) psionicsonline.net / Other Content - Telepathy
+| (69) psionicsonline.net / Other Content - Training, Focus, and Projection

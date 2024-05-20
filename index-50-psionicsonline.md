@@ -45,7 +45,33 @@
 | (106-017) Energy Working Technique Similarities \<Metalforever> | https://web.archive.org/web/20130807022523/http://psionicsonline.net/energy-working-technique-similarities
 | (106-018) On the Use of Altered States of Consciousness \<Metalforever> | https://web.archive.org/web/20130807024249/http://psionicsonline.net/use-altered-states-consciousness
 
-## "Psychic Abilities For Beginners - Exercises" (52)
+## "How to Be a Psionic Practitioner" (52)
+| Name \[Notes, if any] \<Author> | Link | Notes |
+| ------------------------------- | ---- | ----- |
+| How to Be a Psionic Practitioner \<Various> | https://web.archive.org/web/20130818175737/http://psionicsonline.net/how-be-psionic-practitioner
+| Engage in Self Study \<Metalforever> | https://web.archive.org/web/20130828180145/http://www.psionicsonline.net/engage-self-study
+| Maintain Focus \<Metalforever> | https://web.archive.org/web/20130828174203/http://www.psionicsonline.net/maintain-focus
+| Be a Skeptic \<Metalforever> | https://web.archive.org/web/20130828161342/http://www.psionicsonline.net/be-skeptic
+| How to Practice \<Peebrain> | https://web.archive.org/web/20130828175848/http://www.psionicsonline.net/how-practice
+| Reasonable Expectations \<Miri> | https://web.archive.org/web/20130828191746/http://www.psionicsonline.net/reasonable-expectations
+| Maintaining a Schedule Successfully \<Metalforever> | https://web.archive.org/web/20130828161949/http://www.psionicsonline.net/maintaining-schedule-successfully
+| Does Belief Matter? \<Float> | https://web.archive.org/web/20130828170251/http://www.psionicsonline.net/does-belief-matter
+| How to Measure/Verify Your Skills \<Peebrain> | https://web.archive.org/web/20130828162134/http://www.psionicsonline.net/how-measureverify-your-skills
+| Psychic Journals \<Metalforever> | https://web.archive.org/web/20130828191735/http://www.psionicsonline.net/psychic-journals
+
+## "Psionic Mods from a Three Domain Perspective" (53)
+| Name \[Notes, if any] \<Author> | Link | Notes |
+| ------------------------------- | ---- | ----- |
+| Psionic Mods from a Three Domain Perspective \<Felidae> | https://web.archive.org/web/20130606050432/http://www.psionicsonline.net/psionic-mods-three-domain-perspective
+| The Mental, Exercise: #1: Entering the Control Core \<Felidae> | https://web.archive.org/web/20130828180948/http://www.psionicsonline.net/mental-exercise-1-entering-control-core
+| Exercise Two: Linking with Sigils \<Felidae> | https://web.archive.org/web/20130828184931/http://www.psionicsonline.net/exercise-two-linking-sigils
+| Exercise Three: Holistic Alteration \<Felidae> | https://web.archive.org/web/20130828213436/http://psionicsonline.net/exercise-three-holistic-alteration
+| The Energetic, Exercise #1: Overlays \<Felidae> | https://web.archive.org/web/20130828233932/http://psionicsonline.net/energetic-exercise-1-overlays
+| Exercise Two: Adaptive Modifications \<Felidae> | https://web.archive.org/web/20130828231208/http://psionicsonline.net/exercise-two-adaptive-modifications
+| Exercise Three: Pattern Optimisation \<Felidae> | https://web.archive.org/web/20130828221638/http://psionicsonline.net/exercise-three-pattern-optimisation
+| The Material \<Felidae> | https://web.archive.org/web/20130828225841/http://psionicsonline.net/material
+
+## "Psychic Abilities For Beginners - Exercises" (54)
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | How to Create a Psychic Journal \<metalforever> | https://web.archive.org/web/20140419232944/http://psionicsonline.net/psychic-journals/
@@ -59,7 +85,7 @@
 | Studying Psychic Abilities \<metalforever> | https://web.archive.org/web/20140419164015/http://psionicsonline.net/engage-self-study/
 | Fundamental Psychic Skills \<metalforever> | https://web.archive.org/web/20140419164045/http://psionicsonline.net/fundamental-psychic-skills/
 
-## "Psychic Abilities For Beginners - Informational" (53) 
+## "Psychic Abilities For Beginners - Informational" (55) 
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | Introduction to Psionics \<metalforever> | https://web.archive.org/web/20140220095233/http://psionicsonline.net/how-to-be-psychic/
@@ -77,7 +103,7 @@
 | Getting Motivated \<GreatSheepKing> | https://web.archive.org/web/20130602194447/http://www.psionicsonline.net/getting-motivated-greatsheepking
 | Miscellaneous Beginners Information \<Metalforever, Sephectja> | https://web.archive.org/web/20141117104931/http://psionicsonline.net/miscellaneous-beginners-information
 
-## "Where Practice Goes Wrong - Troubleshooting" (54)
+## "Where Practice Goes Wrong - Troubleshooting" (56)
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | Troubleshooting Psionics \<Innerfire> | https://web.archive.org/web/20130818190324/http://psionicsonline.net/troubleshooting-psionics
@@ -97,7 +123,7 @@
 | Energy Revisited \<Innerfire> | https://web.archive.org/web/20130829012840/http://psionicsonline.net/day-50-day-53-energy-revisited
 | Wrap-Up and More Extenuating Circumstances \<Innerfire> | https://web.archive.org/web/20130829025724/http://psionicsonline.net/day-54-wrap-and-more-extenuating-circumstances
 
-## "Where Practice Goes Wrong - Soapbox" (55)
+## "Where Practice Goes Wrong - Soapbox" (57)
 *This section is more about specific opinions of and issues within the OEC rather than psionic practice.* 
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
@@ -111,7 +137,19 @@
 | How Do You Know It’s Real? \<Peebrain> | https://web.archive.org/web/20131107102231/http://www.psionicsonline.net/how-do-you-know-it%E2%80%99s-real
 | Confirmation Bias \<metalforever> | https://web.archive.org/web/20130819012942/http://www.psionicsonline.net/confirmation-bias
 
-## "Thought Control" (56)
+## "Psychic Methods Creation" (58)
+| Name \[Notes, if any] \<Author> | Link | Notes |
+| ------------------------------- | ---- | ----- |
+| A Practical Treatise on the Use of Symbol \<metalforever> | https://web.archive.org/web/20130602152309/http://www.psionicsonline.net/practical-treatise-use-symbol
+| Technique Similarities \<metalforever> | https://web.archive.org/web/20140219084136/http://psionicsonline.net/technique-similarities/
+| Building Your Own Symbol Set \<metalforever> | https://web.archive.org/web/20130605104636/http://www.psionicsonline.net/building-your-own-symbol-set
+| Building Up Your Symbols \<metalforever> | https://web.archive.org/web/20130605223832/http://www.psionicsonline.net/building-your-symbols
+| Common Choices for Relaying Intention \<metalforever> | https://web.archive.org/web/20130527010905/http://www.psionicsonline.net/common-choices-relaying-intention
+| How to Create Your Own Techniques \<metalforever> | https://web.archive.org/web/20130527005425/http://www.psionicsonline.net/how-create-your-own-techniques
+| Conclusion \<metalforever> | https://web.archive.org/web/20130527005856/http://www.psionicsonline.net/conclusion-1
+
+
+## "Thought Control" (59)
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
 | Thought Primer \<Metalforever> | https://web.archive.org/web/20131124221538/http://psionicsonline.net/thought-primer
@@ -126,66 +164,6 @@
 | Focus on Multiple Aspects of an Object at the Same Time \<Metalforever> | https://web.archive.org/web/20131107095413/http://www.psionicsonline.net/focus-multiple-aspects-object-same-time
 | Think About Nothing \<metalforever> | https://web.archive.org/web/20131107071252/http://www.psionicsonline.net/think-about-nothing
 
-## "Visualization Training" (57)
-| Name \[Notes, if any] \<Author> | Link | Notes |
-| ------------------------------- | ---- | ----- |
-| Why Is Visualization Important? \<metalforever> | https://web.archive.org/web/20130327091052/http://www.psionicsonline.net:80/visualization-primer
-| Create a Psychic Journal \<metalforever> | https://web.archive.org/web/20130709183730/http://psionicsonline.net/create-psychic-journal
-| Construct a Scene Visually \<metalforever> | https://web.archive.org/web/20131124231321/http://psionicsonline.net/construct-scene-visually
-| Imagine a Sound \<metalforever> | https://web.archive.org/web/20131113215210/http://www.psionicsonline.net/imagine-sound
-| Add Sound to Your Constructed Scene \<metalforever> | https://web.archive.org/web/20131113204053/http://www.psionicsonline.net/add-sound-your-constructed-scene
-| Imagine a Taste \<metalforever> | https://web.archive.org/web/20131113202715/http://www.psionicsonline.net/imagine-taste
-| Incorporate Taste Into A Visual and Auditory Scene \<metalforever> | https://web.archive.org/web/20131113215703/http://www.psionicsonline.net/incorporate-taste-visual-and-auditory-scene
-| Imagine a Smell \<metalforever> | https://web.archive.org/web/20131113203525/http://www.psionicsonline.net/imagine-smell
-| Incorporate Smell Into A Visual and Auditory Scene \<metalforever> | https://web.archive.org/web/20131113235811/http://www.psionicsonline.net/incorporate-smell-visual-and-auditory-scene
-| Imagine Touch \<metalforever> | https://web.archive.org/web/20131113213926/http://www.psionicsonline.net/imagine-touch
-| Incorporate Touch in a Visual/Auditory Scene \<metalforever> | https://web.archive.org/web/20131113222322/http://www.psionicsonline.net/incorporate-touch-visualauditory-scene
-| Imagine a Concrete Object \<metalforever> | https://web.archive.org/web/20131113225420/http://www.psionicsonline.net/imagine-concrete-object
-| Apply Your Will to Movement of a Concrete Object \<anuj> | https://web.archive.org/web/20141202005055/http://psionicsonline.net/apply-your-will-movement-concrete-object/
-| Project Visualization Unto an Object \<metalforever> | https://web.archive.org/web/20131113231121/http://www.psionicsonline.net/project-visualization-unto-object
-| Add Audio to Exercise #12 \<metalforever> | https://web.archive.org/web/20131113205223/http://www.psionicsonline.net/add-audio-exercise-12
-| Add Touch to Exercise #13 \<metalforever> | https://web.archive.org/web/20131113202534/http://www.psionicsonline.net/add-touch-exercise-13
-| Apply Your Will to Movement of a Concrete Object II \<metalforever> | https://web.archive.org/web/20131113202017/http://www.psionicsonline.net/apply-your-will-movement-concrete-object-ii
-| Imagine a Lecture \<metalforever> | https://web.archive.org/web/20131113203208/http://www.psionicsonline.net/imagine-lecture
-| After Exercise #16 \<metalforever> | https://web.archive.org/web/20131113214815/http://www.psionicsonline.net/after-exercise-16
 
-## "Psychic Methods Creation" (58)
-| Name \[Notes, if any] \<Author> | Link | Notes |
-| ------------------------------- | ---- | ----- |
-| A Practical Treatise on the Use of Symbol \<metalforever> | https://web.archive.org/web/20130602152309/http://www.psionicsonline.net/practical-treatise-use-symbol
-| Technique Similarities \<metalforever> | https://web.archive.org/web/20140219084136/http://psionicsonline.net/technique-similarities/
-| Building Your Own Symbol Set \<metalforever> | https://web.archive.org/web/20130605104636/http://www.psionicsonline.net/building-your-own-symbol-set
-| Building Up Your Symbols \<metalforever> | https://web.archive.org/web/20130605223832/http://www.psionicsonline.net/building-your-symbols
-| Common Choices for Relaying Intention \<metalforever> | https://web.archive.org/web/20130527010905/http://www.psionicsonline.net/common-choices-relaying-intention
-| How to Create Your Own Techniques \<metalforever> | https://web.archive.org/web/20130527005425/http://www.psionicsonline.net/how-create-your-own-techniques
-| Conclusion \<metalforever> | https://web.archive.org/web/20130527005856/http://www.psionicsonline.net/conclusion-1
 
-## "Constructs for Newbies" (59)
-| Name \[Notes, if any] \<Author> | Link | Notes |
-| ------------------------------- | ---- | ----- |
-| What is a Construct? \<Lesenthe> | https://web.archive.org/web/20140822234849/http://psionicsonline.net/construct
-| Subtle Energy \<Lesenthe> | https://web.archive.org/web/20131009210838/http://psionicsonline.net/subtle-energy
-| Why Make Constructs? \<Lesenthe> | https://web.archive.org/web/20131020134210/http://psionicsonline.net/why-make-constructs
-| On Sentience \<Lesenthe> | https://web.archive.org/web/20131020160043/http://psionicsonline.net/sentience
-| Planning and Programming \<Lesenthe> | https://web.archive.org/web/20131020102315/http://psionicsonline.net/planning-and-programming
-| Energy Manipulation \<Lesenthe> | https://web.archive.org/web/20131020134113/http://psionicsonline.net/node/7323
-| Mental Discipline \<Lesenthe> | https://web.archive.org/web/20131023131057/http://psionicsonline.net/mental-discipline
-| Mental Discipline: Focal Point Exercise \<Lesenthe> | https://web.archive.org/web/20131023142037/http://psionicsonline.net/mental-discipline-focal-point-exercise
-| Mental Discipline: The Blank Mind Exercise \<Lesenthe> | https://web.archive.org/web/20130912215706/http://psionicsonline.net/mental-discipline-blank-mind-exercise
-| Mental Discipline: Visualisation Exercise \<Lesenthe> | https://web.archive.org/web/20130912215706/http://psionicsonline.net/mental-discipline-visualisation-exercise
-| Mental Discipline: Tactile/Spatial Exercise \<Lesenthe> | https://web.archive.org/web/20130910001309/http://psionicsonline.net/mental-discipline-tactilespatial-exercise
-| Exercises in Basic Energetics \<Lesenthe> | https://web.archive.org/web/20130909230653/http://psionicsonline.net/exercises-basic-energetics
-| Gathering Internal Energy Exercise \<Lesenthe> | https://web.archive.org/web/20130912010044/http://psionicsonline.net/gathering-internal-energy-exercise
-| Externalising Internal Energy (Basic) Exercise \<Lesenthe> | https://web.archive.org/web/20130912012738/http://psionicsonline.net/externalising-internal-energy-basic-exercise
-| Externalising Internal Energy (Slightly Less Basic) Exercise \<Lesenthe> | https://web.archive.org/web/20130912215707/http://psionicsonline.net/externalising-internal-energy-slightly-less-basic-exercise
-| Gathering Ambient Energy Exercise \<Lesenthe> | https://web.archive.org/web/20130912010021/http://psionicsonline.net/gathering-ambient-energy-exercise
-| Creating Constructs Exercise \<Lesenthe> | https://web.archive.org/web/20130915093506/http://psionicsonline.net/creating-constructs-exercise
-| Shielding 101 \<Zeus> | https://web.archive.org/web/20130912012826/http://psionicsonline.net/shielding-101
-| Energy Types and Sources \<Lesenthe> | https://web.archive.org/web/20130710190633/http://psionicsonline.net/energy-types-and-sources
-| Energetic Body \<Lesenthe> | https://web.archive.org/web/20130710190759/http://psionicsonline.net/energetic-body
-| The Question of Shelling \<Lesenthe> | https://web.archive.org/web/20130710193606/http://psionicsonline.net/question-shelling
-| Going Deeper \<Lesenthe> | https://web.archive.org/web/20130710190816/http://psionicsonline.net/going-deeper
-| Thoughtforms – Accidental Constructs \<Lesenthe> | https://web.archive.org/web/20130710191543/http://psionicsonline.net/thoughtforms-%E2%80%93-accidental-constructs
-| Sample Construct Types \<Lesenthe> | https://web.archive.org/web/20130710190854/http://psionicsonline.net/sample-construct-types
-| Final Notes \<Lesenthe> | https://web.archive.org/web/20130710185307/http://psionicsonline.net/final-notes
 
