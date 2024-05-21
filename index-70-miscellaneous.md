@@ -60,6 +60,8 @@
 | psionicvisionaries.blogspot.com | Meditation \<Tantalus> | https://web.archive.org/web/20230622025434/http://psionicvisionaries.blogspot.com/2008/01/meditation.html |
 
 ## Psychokinesis and Healing (74)
+| Source | Name \[Notes, if any] \<Author> | Link |
+| ------ | ------------------------------- | ---- |
 | astateofmind.eu | Affecting radiowaves \<JoeRoger \[UPC]> | https://web.archive.org/web/20100404012406/http://astateofmind.eu/2008/11/18/affecting-radiowaves/ |
 | astateofmind.eu | An Introduction to Remote Touch \<Jonn \[UPC]> | https://web.archive.org/web/20100523120850/http://astateofmind.eu:80/2008/11/19/an-introduction-to-remote-touch/ |
 | astateofmind.eu | Introduction to Micro Psychokinesis \<No Author \[UPC]> | https://web.archive.org/web/20090414184938/http://astateofmind.eu/2008/11/30/introduction-to-micro-psychokinesis/ |

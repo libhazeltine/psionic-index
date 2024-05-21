@@ -2,8 +2,8 @@
 
 
 ## "Visualization Training" \<anuj, Metalforever> (60)
-| (Order) Name \[Notes, if any] \<Author> | Link | Notes |
-| --------------------------------------- | ---- | ----- |
+| (Order) Name \[Notes, if any] \<Author> | Link |
+| --------------------------------------- | ---- |
 | (01) Why Is Visualization Important? \<Metalforever> | https://web.archive.org/web/20130327091052/http://www.psionicsonline.net:80/visualization-primer
 | (02) Create a Psychic Journal \<Metalforever> | https://web.archive.org/web/20130709183730/http://psionicsonline.net/create-psychic-journal
 | (03) Construct a Scene Visually \<Metalforever> | https://web.archive.org/web/20131124231321/http://psionicsonline.net/construct-scene-visually
@@ -25,8 +25,8 @@
 | (19) After Exercise #16 \<Metalforever> | https://web.archive.org/web/20131113214815/http://www.psionicsonline.net/after-exercise-16
 
 ## "Energy Manipulation - Field Management" \<Innerfire> (61)
-| (Order) Name \[Notes, if any] \<Author> | Link | Notes |
-| --------------------------------------- | ---- | ----- |
+| (Order) Name \[Notes, if any] \<Author> | Link |
+| --------------------------------------- | ---- |
 | (01) Basic Energy Management \<Innerfire> | https://web.archive.org/web/20130708235905/http://psionicsonline.net/basic-energy-management
 | (02) Passive Techniques \<Innerfire> | `https://web.archive.org/web/20130709000011/http://psionicsonline.net/passive-techniques
 | (03) Active Techniques Introduction \<Innerfire> | https://web.archive.org/web/20130708235900/http://psionicsonline.net/active-techniques-introduction
@@ -40,8 +40,8 @@
 | (11) Closing \<Innerfire> | https://web.archive.org/web/20130710190823/http://psionicsonline.net/closing
 
 ## "Constructs for Newbies" \<Lesenthe> (62)
-| (Order) Name \[Notes, if any] \<Author> | Link | Notes |
-| --------------------------------------- | ---- | ----- |
+| (Order) Name \[Notes, if any] \<Author> | Link |
+| --------------------------------------- | ---- |
 | (01) What is a Construct? \<Lesenthe> | https://web.archive.org/web/20140822234849/http://psionicsonline.net/construct
 | (02) Subtle Energy \<Lesenthe> | https://web.archive.org/web/20131009210838/http://psionicsonline.net/subtle-energy
 | (03) Why Make Constructs? \<Lesenthe> | https://web.archive.org/web/20131020134210/http://psionicsonline.net/why-make-constructs
@@ -69,8 +69,8 @@
 | (25) Final Notes \<Lesenthe> | https://web.archive.org/web/20130710185307/http://psionicsonline.net/final-notes
 
 ## "Construct Creation - Programming" \<Suntzu, Miri, Lesenthe> (63)
-| (Order) Name \[Notes, if any] \<Author> | Link | Notes |
-| --------------------------------------- | ---- | ----- |
+| (Order) Name \[Notes, if any] \<Author> | Link |
+| --------------------------------------- | ---- |
 | (01) The Art of Programming \<Suntzu> | https://web.archive.org/web/20130828200054/http://www.psionicsonline.net/programming-primer
 | (02) Basic Programming \<Miri> | https://web.archive.org/web/20130828174841/http://www.psionicsonline.net/basic-programming
 | (03) Designing Constructs \<Miri> | https://web.archive.org/web/20130828182858/http://www.psionicsonline.net/designing-constructs-0
@@ -78,8 +78,8 @@
 | (05) Advanced Constructs \<Miri> | https://web.archive.org/web/20130828190012/http://www.psionicsonline.net/advanced-constructs-0
 
 ## "Telekinesis - Training" \<Metalforever> (64)
-| (Order) Name \[Notes, if any] \<Author> | Link | Notes |
-| --------------------------------------- | ---- | ----- |
+| (Order) Name \[Notes, if any] \<Author> | Link |
+| --------------------------------------- | ---- |
 | (01) Introduction to Telekinesis \<Anonymous> | https://web.archive.org/web/20130709183645/http://psionicsonline.net/telekinesis-training
 | (02) What is Telekinesis? \<Metalforever> | https://web.archive.org/web/20130710051616/http://psionicsonline.net/basics-of-telekinesis
 | (03) Create a Journal \<Metalforever> | https://web.archive.org/web/20131107093521/http://psionicsonline.net/create-journal-0
@@ -109,8 +109,8 @@
 | (27) Conclusion \<Metalforever> | https://web.archive.org/web/20131107105006/http://psionicsonline.net/conclusion-0
 
 ## "ANKA's Psionics Workbook" (65)
-| (Order) Name \[Notes, if any] \<Author> | Link | Notes |
-| --------------------------------------- | ---- | ----- |
+| (Order) Name \[Notes, if any] \<Author> | Link |
+| --------------------------------------- | ---- |
 | (01) Chapter I: Basic Theory \<Anka> | https://web.archive.org/web/20140123113011/http://www.psionicsonline.net/psionics-workbook-full
 | (02) Chapter II \<Anka> | https://web.archive.org/web/20140129204513/http://psionicsonline.net:80/chapter-ii
 | (03) Chapter III \<Anka> | https://web.archive.org/web/20140123154420/http://www.psionicsonline.net/chapter-iii

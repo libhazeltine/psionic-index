@@ -7,7 +7,7 @@
 | ~~forums.vsociety.net~~ | Altered States \<ChezNips> | https://web.archive.org/web/20140914044502/http://forums.vsociety.net/index.php/topic,10825.0.html |
 | ~~forums.vsociety.net~~ | Benefits of Meditation \<ChezNips> | https://web.archive.org/web/20140914080607/http://forums.vsociety.net/index.php/topic,10826.0.html |
 | ~~forums.vsociety.net~~ | Brain Training \<ChezNips> | https://web.archive.org/web/20180925203804/http://forums.vsociety.net/index.php/topic,10827.0.html |
-| ~~forums.vsociety.net~~ | Relaxation \<Neo> | https://web.archive.org/web/20130512140516/http%253A//forums.vsociety.net/index.php/topic%252C10.0/prev_next%252Cnext.html |
+| ~~forums.vsociety.net~~ | Relaxation \<Neo> | https://web.archive.org/web/20130512140516/http://forums.vsociety.net/index.php/topic%252C10.0/prev_next%252Cnext.html |
 | ~~forums.vsociety.net~~ | Setting Triggers \<ChezNips> | https://web.archive.org/web/20190727180831/http://forums.vsociety.net/index.php/topic,10839.0.html |
 | ~~freewebs.com/jedikaren~~ | Staying on Topic \<JediKaren> | https://web.archive.org/web/20080102135227/http://www.freewebs.com:80/jedikaren/staying.htm |
 | ~~psionguild.org~~ | Concentration Exercise \<Winged Wolf> | https://web.archive.org/web/20120215120646/http://psionguild.org:80/education/articles/foundation/concentration-excercise |
@@ -63,8 +63,8 @@
 | Source | Name \[Notes, if any] \<Author> | Link |
 | ------ | ------------------------------- | ---- |
 | ~~astateofmind.eu~~ | Types of psychic attacks & defence against them \<Nathan> | https://web.archive.org/web/20100411013703/http://astateofmind.eu:80/2010/04/08/types-of-psychic-attacks-defence-against-them/ |
-| ~~forums.vsociety.net~~ | Any ways to harm people (besides yourself) doing psi? (1 of 2) \<Forum thread> | https://web.archive.org/web/20130512002800/http%253A//forums.vsociety.net/index.php/topic%252C1013.0.html |
-| ~~forums.vsociety.net~~ | Any ways to harm people (besides yourself) doing psi? (2 of 2) \<Forum thread> | https://web.archive.org/web/20130511221055/http%253A//forums.vsociety.net/index.php/topic%252C1013.15.html |
+| ~~forums.vsociety.net~~ | Any ways to harm people (besides yourself) doing psi? (1 of 2) \<Forum thread> | https://web.archive.org/web/20130512002800/http://forums.vsociety.net/index.php/topic%252C1013.0.html |
+| ~~forums.vsociety.net~~ | Any ways to harm people (besides yourself) doing psi? (2 of 2) \<Forum thread> | https://web.archive.org/web/20130511221055/http://forums.vsociety.net/index.php/topic%252C1013.15.html |
 | ~~freewebs.com/jedikaren~~ | Breaking Shields \<Garenzo> | https://web.archive.org/web/20071221031700/http://www.freewebs.com:80/jedikaren/breakshield.htm
 | ~~psionline.org~~ | How to Alter Your Signature \<FrozenFlames> | https://web.archive.org/web/20071114083124/http://www.psionline.org:80/2007/10/cullens-guide-to-energy-manipulation.html |
 | ~~psiscape.net~~ | Non-Shielding Defences against Empathy and/or Telepathy \<Forum thread> | https://web.archive.org/web/20060104125631/http://www.psiscape.net:80/phpBB2/viewtopic.php?t=74&amp;start=0&amp;sid=cca37b8afffb4b9eedee37f4967b39c6 |

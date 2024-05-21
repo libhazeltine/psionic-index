@@ -46,8 +46,8 @@
 | (18) On the Use of Altered States of Consciousness \<Metalforever> | https://web.archive.org/web/20130807024249/http://psionicsonline.net/use-altered-states-consciousness
 
 ## "How to Be a Psionic Practitioner" \<Peebrain, Miri, Float, Metalforever> (52)
-| (Order) Name \[Notes, if any] \<Author> | Link | Notes |
-| --------------------------------------- | ---- | ----- |
+| (Order) Name \[Notes, if any] \<Author> | Link |
+| --------------------------------------- | ---- |
 | (01) How to Be a Psionic Practitioner \<Various> | https://web.archive.org/web/20130818175737/http://psionicsonline.net/how-be-psionic-practitioner
 | (02) Engage in Self Study \<Metalforever> | https://web.archive.org/web/20130828180145/http://www.psionicsonline.net/engage-self-study
 | (03) Maintain Focus \<Metalforever> | https://web.archive.org/web/20130828174203/http://www.psionicsonline.net/maintain-focus
@@ -60,8 +60,8 @@
 | (10) Psychic Journals \<Metalforever> | https://web.archive.org/web/20130828191735/http://www.psionicsonline.net/psychic-journals
 
 ## "Psionic Mods from a Three Domain Perspective" \<Felidae> (53)
-| (Order) Name \[Notes, if any] \<Author> | Link | Notes |
-| --------------------------------------- | ---- | ----- |
+| (Order) Name \[Notes, if any] \<Author> | Link |
+| --------------------------------------- | ---- |
 | (01) Psionic Mods from a Three Domain Perspective \<Felidae> | https://web.archive.org/web/20130606050432/http://www.psionicsonline.net/psionic-mods-three-domain-perspective
 | (02) The Mental, Exercise: #1: Entering the Control Core \<Felidae> | https://web.archive.org/web/20130828180948/http://www.psionicsonline.net/mental-exercise-1-entering-control-core
 | (03) Exercise Two: Linking with Sigils \<Felidae> | https://web.archive.org/web/20130828184931/http://www.psionicsonline.net/exercise-two-linking-sigils
@@ -72,8 +72,8 @@
 | (08) The Material \<Felidae> | https://web.archive.org/web/20130828225841/http://psionicsonline.net/material
 
 ## "Psychic Abilities For Beginners - Exercises" \<Metalforever> (54)
-| (Order) Name \[Notes, if any] \<Author> | Link | Notes |
-| --------------------------------------- | ---- | ----- |
+| (Order) Name \[Notes, if any] \<Author> | Link |
+| --------------------------------------- | ---- |
 | (01) How to Create a Psychic Journal \<Metalforever> | https://web.archive.org/web/20140419232944/http://psionicsonline.net/psychic-journals/
 | (02) The Use of Symbol to Create Psychic Techniques \<Metalforever> | https://web.archive.org/web/20140419164020/http://psionicsonline.net/formal-introduction-use-symbol/
 | (03) Using Action to Create Effective Psychic Techniques \<Metalforever> | https://web.archive.org/web/20140419163941/http://psionicsonline.net/action-psionic-tool/
@@ -86,8 +86,8 @@
 | (10) Fundamental Psychic Skills \<Metalforever> | https://web.archive.org/web/20140419164045/http://psionicsonline.net/fundamental-psychic-skills/
 
 ## "Psychic Abilities For Beginners - Informational" \<Peebrain, Float, Miri, Sephectja, GreatSheepKing, Metalforever> (55) 
-| (Order) Name \[Notes, if any] \<Author> | Link | Notes |
-| --------------------------------------- | ---- | ----- |
+| (Order) Name \[Notes, if any] \<Author> | Link |
+| --------------------------------------- | ---- |
 | (01) Introduction to Psionics \<Metalforever> | https://web.archive.org/web/20140220095233/http://psionicsonline.net/how-to-be-psychic/
 | (02) Belief Structures \<Metalforever> | https://web.archive.org/web/20140219075723/http://psionicsonline.net/belief-structures/
 | (03) Danger Disclosure \<Metalforever> | https://web.archive.org/web/20141204033333/http://psionicsonline.net/danger-disclosure
@@ -104,8 +104,8 @@
 | (14) Miscellaneous Beginners Information \<Metalforever, Sephectja> | https://web.archive.org/web/20141117104931/http://psionicsonline.net/miscellaneous-beginners-information
 
 ## "Where Practice Goes Wrong - Troubleshooting" \<Innerfire> (56)
-| (Order) Name \[Notes, if any] \<Author> | Link | Notes |
-| --------------------------------------- | ---- | ----- |
+| (Order) Name \[Notes, if any] \<Author> | Link |
+| --------------------------------------- | ---- |
 | (01) Troubleshooting Psionics \<Innerfire> | https://web.archive.org/web/20130818190324/http://psionicsonline.net/troubleshooting-psionics
 | (02) Trusting Yourself \<Innerfire> | https://web.archive.org/web/20130822230035/http://psionicsonline.net/day-1-day3-trusting-yourself
 | (03) Affirmations \<Innerfire> | https://web.archive.org/web/20130829010520/http://psionicsonline.net/day4-day6-affirmations
@@ -125,8 +125,8 @@
 
 ## "Where Practice Goes Wrong - Soapbox" \<Peebrain, Miri, Metalforever> (57)
 *This section is more about specific opinions of and issues within the OEC rather than psionic practice.* 
-| (Order) Name \[Notes, if any] \<Author> | Link | Notes |
-| --------------------------------------- | ---- | ----- |
+| (Order) Name \[Notes, if any] \<Author> | Link |
+| --------------------------------------- | ---- |
 | (01) What Is Fluff? \<Metalforever, Peebrain, Miri> | https://web.archive.org/web/20150221093834/http://psionicsonline.net/fluff
 | (02) Lack of Motivation \<Metalforever> | https://web.archive.org/web/20150324074044/http://psionicsonline.net/how-be-psionic-practitioner/
 | (03) Why Does Success Vary? \<Metalforever> | https://web.archive.org/web/20131015103232/http://psionicsonline.net/why-does-success-vary
@@ -138,8 +138,8 @@
 | (09) Confirmation Bias \<Metalforever> | https://web.archive.org/web/20130819012942/http://www.psionicsonline.net/confirmation-bias
 
 ## "Psychic Methods Creation" \<Metalforever> (58)
-| (Order) Name \[Notes, if any] \<Author> | Link | Notes |
-| --------------------------------------- | ---- | ----- |
+| (Order) Name \[Notes, if any] \<Author> | Link |
+| --------------------------------------- | ---- |
 | (01) A Practical Treatise on the Use of Symbol \<Metalforever> | https://web.archive.org/web/20130602152309/http://www.psionicsonline.net/practical-treatise-use-symbol
 | (02) Technique Similarities \<Metalforever> | https://web.archive.org/web/20140219084136/http://psionicsonline.net/technique-similarities/
 | (03) Building Your Own Symbol Set \<Metalforever> | https://web.archive.org/web/20130605104636/http://www.psionicsonline.net/building-your-own-symbol-set
@@ -149,8 +149,8 @@
 | (07) Conclusion \<Metalforever> | https://web.archive.org/web/20130527005856/http://www.psionicsonline.net/conclusion-1
 
 ## "Thought Control" (59)
-| (Order) Name \[Notes, if any] \<Author> | Link | Notes |
-| --------------------------------------- | ---- | ----- |
+| (Order) Name \[Notes, if any] \<Author> | Link |
+| --------------------------------------- | ---- |
 | (01) Thought Primer \<Metalforever> | https://web.archive.org/web/20131124221538/http://psionicsonline.net/thought-primer
 | (02) Passively Allow Images to Arise in Conscious Thought \<Metalforever> | https://web.archive.org/web/20131007144455/http://www.psionicsonline.net/passively-allow-images-arise-conscious-thought
 | (03) Avoid A Topic \<Metalforever> | https://web.archive.org/web/20131107095350/http://www.psionicsonline.net/avoid-topic
