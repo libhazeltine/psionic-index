@@ -2,8 +2,8 @@
 
 
 ## "About Psionics" \<Sephectja, Metalforever> (50)
-| (Order) Name \[Notes, if any] \<Author> | Link | Notes |
-| --------------------------------------- | ---- | ----- |
+| (Order) Name \[Notes, if any] \<Author> | Link |
+| --------------------------------------- | ---- |
 | (01) What is Psionics? \<Sephectja> | https://web.archive.org/web/20100620010440/http://www.psionicsonline.net:80/about-psionics | 
 | (02) Learn Psychic Abilities \<Sephectja, Metalforever> | https://web.archive.org/web/20100421144646/http://www.psionicsonline.net/about-psionics/general/81-psychic-getting-started-about.html |
 | (03) Unit 1: Psychic / Psionic Abilities- Preparation and Recall, Preface \<Sephectja, Metalforever> | https://web.archive.org/web/20100305070054/http://www.psionicsonline.net/about-psionics/general/82-psychic-preparation-and-recall-learn.html
@@ -24,8 +24,8 @@
 | (18) Psychic Visualization \<ADMINISTRATOR> | https://web.archive.org/web/20101121123019/http://www.psionicsonline.net/about-psionics/general/145-psychic-visualization.html
 
 ## "How to be psychic" \<Metalforever> (51)
-| (Order) Name \[Notes, if any] \<Author> | Link | Notes |
-| --------------------------------------- | ---- | ----- |
+| (Order) Name \[Notes, if any] \<Author> | Link |
+| --------------------------------------- | ---- |
 | (01) Introduction to Psionics \<Metalforever> | https://web.archive.org/web/20130425054453/http://www.psionicsonline.net/how-to-be-psychic
 | (02) Causing Change \<Metalforever> | https://web.archive.org/web/20130503001000/http://www.psionicsonline.net/about-psionics 
 | (03) PRELIMINARY EXERCISE: Create a Journal \<Metalforever> | https://web.archive.org/web/20130605110339/http://www.psionicsonline.net/create-journal
