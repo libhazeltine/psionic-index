@@ -5,7 +5,7 @@ These links go to the Wayback Machine and are organized in a way that can be use
 
 These files are NOT comprehensive lists. Some stuff was ignored by me trying to navigate the huge mass of content on the Wayback Machine, and other content was never archived by it to begin with. You can look at the Wayback Machine's unfiltered index for any domain by navigating to the "URLs" tab of that domain.
 
-## Contents [[DRAFT!!]]
+## Contents
 | (ID) Section | Link |
 | ------- | ---- |
 | (10) psipalatium.com / Core Theories and Skills | 
