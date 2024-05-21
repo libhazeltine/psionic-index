@@ -13,11 +13,11 @@ These files are NOT comprehensive lists. Some stuff was ignored by me trying to 
 | (12) psipalatium.com / Other Skills | 
 | (20) forums.vsociety.net / "Dynamic Psi"
 | (21) forums.vsociety.net / "Energy Manipulation Guide"
-| (23) forums.vsociety.net / Constructs and Shielding
-| (24) forums.vsociety.net / Telepathy
-| (25) forums.vsociety.net / Meditation and Mental Skills 
+| (22) forums.vsociety.net / Constructs and Shielding
+| (23) forums.vsociety.net / Telepathy
+| (24) forums.vsociety.net / Meditation and Mental Skills 
 | (30) psiworld.net / Basic Energy Manipulation
-| (31) psiworld.net / Perception, Scanning, Focus
+| (31) psiworld.net / Perception, Scanning, and Focus
 | (32) psiworld.net / Healing and Shielding
 | (33) psiworld.net / Projection and Precognition
 | (34) psiworld.net / Psychokinesis and Alternative Energy Work Approaches

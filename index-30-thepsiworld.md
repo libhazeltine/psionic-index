@@ -1,5 +1,6 @@
 # Index - thepsiworld.net, freewebs.com/jedikaren, thepsiworld.proboards37.com
 
+
 ## Basic Energy Manipulation (30)
 | Source | Name \[Notes, if any] \<Author> | Link |
 | ------ | ------------------------------- | ---- |
@@ -7,7 +8,7 @@
 | freewebs.com/jedikaren | The Flow of Psi \<no credit given> | https://web.archive.org/web/20070529181721/http://www.freewebs.com:80/jedikaren/flow.htm |
 | thepsiworld.proboards37.com | Gathering \<Forum thread> | https://web.archive.org/web/20070527044113/http://thepsiworld.proboards37.com:80/index.cgi?board=gpsi&action=display&thread=1177624130 |
 
-## Perception, Scanning, Focus (31)
+## Perception, Scanning, and Focus (31)
 | Source | Name \[Notes, if any] \<Author> | Link |
 | ------ | ------------------------------- | ---- |
 | freewebs.com/jedikaren | Remote Viewing \<JediKaren> | https://web.archive.org/web/20071020184806/http://www.freewebs.com:80/jedikaren/rv.htm |

@@ -1,5 +1,6 @@
 # Index - psipalatium.com
 
+
 # Core Theories and Skills (10)
 | Name \[Notes, if any] \<Author> | Link |
 | ------------------------------- | ---- |

@@ -1,5 +1,6 @@
 # Index - shiftedperspectives.net
 
+
 ## Energy Manipulation, Programming and General Theories (90)
 | Name \[Notes, if any] \<Author> | Link | Notes |
 | ------------------------------- | ---- | ----- |
