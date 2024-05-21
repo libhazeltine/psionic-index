@@ -9,7 +9,7 @@
 | psionguild.org | Grounding and Centering \<Tetra> | https://web.archive.org/web/20110705064330/http://psionguild.org:80/education/articles/foundation/grounding-centering |
 | psionguild.org | Introduction to Psionics and Dealing with Skeptics \<KMiller> | https://web.archive.org/web/20110706052309/http://psionguild.org:80/education/articles/foundation/introduction-to-psionics-and-dealing-with-skeptics/ |
 | psionguild.org | How To Charge \<Winged Wolf> | https://web.archive.org/web/20120214163626/http://psionguild.org:80/education/articles/foundation/how-to-charge |
-| psionguild.org | Various Exercises for Development of Psi Abilities \<No Author> | https://web.archive.org/web/20120214171930/http://psionguild.org:80/education/articles/foundation/various-exercises-for-development
+| psionguild.org | Various Exercises for Development of Psi Abilities \<No Author> | https://web.archive.org/web/20120214171930/http://psionguild.org:80/education/articles/foundation/various-exercises-for-development |
 
 ## Constructs, Programming, Shielding (41)
 | Source | Name \[Notes, if any] \<Author> | Link |
