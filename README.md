@@ -46,3 +46,13 @@ These files are NOT comprehensive lists. Some stuff was ignored by me trying to 
 | (67) psionicsonline.net / Other Content - Psychokinesis
 | (68) psionicsonline.net / Other Content - Telepathy
 | (69) psionicsonline.net / Other Content - Training, Focus, and Projection
+| (70) Miscellaneous Sources / Introduction and Basic Energy Manipulation
+| (71) Miscellaneous Sources / Constructs, Programming, and Shielding
+| (72) Miscellaneous Sources / Telepathy and Perception
+| (73) Miscellaneous Sources / Visualization, Focus, and Meditation
+| (74) Miscellaneous Sources / Psychokinesis and Healing
+| (80) psistudies.net / Energy Cultivation and Psi-balls
+| (81) psistudies.net / Constructs and Programming
+| (82) psistudies.net / Psychokinesis and Healing
+| (90) shiftedperspectives.net / Energy Manipulation, Programming and General Theories
+| (91) shiftedperspectives.net / Telepathy and Offense

@@ -1,7 +1,7 @@
 # Index - Miscellaneous Sources
 *astateofmind.eu, psionicvisionaries.blogspot.com, miripsion.googlepages.com, psc-online.org, psiscape.net, psionline.org, artofpsionics.proboards.com, psiontemple.proboards.com, psilinks.net, and more*
 
-## Introduction and Basic Energy Manipulation (71)
+## Introduction and Basic Energy Manipulation (70)
 | Source | Name \[Notes, if any] \<Author> | Link |
 | ------ | ------------------------------- | ---- |
 | astateofmind.eu | 3 steps to ground yourself \<Nathan> | https://web.archive.org/web/20100426065445/http://astateofmind.eu:80/2010/04/22/3-steps-to-ground-yourself/ | 
@@ -11,7 +11,7 @@
 | houseofancients.com | What Is Psionics [*This forum is rather unhinged but this thread is interesting*] \<D'Los> | https://web.archive.org/web/20110620081204/http://houseofancients.com:80/forums/viewtopic.php?p=2720&sid=513d21d9ecbd3685606d6aa6215d40d3 |
 | youtube.com \[NOT ARCHIVED] | Science and the taboo of psi \<Dean Radin> | https://youtube.com/watch?v=qw_O9Qiwqew | 
 
-## Constructs, Programming, and Shielding (72)
+## Constructs, Programming, and Shielding (71)
 | Source | Name \[Notes, if any] \<Author> | Link |
 | ------ | ------------------------------- | ---- |
 | miripsion.googlepages.com | Advanced constructs - A brief guide to the daunting \<miri> | https://web.archive.org/web/20090607140830/http://miripsion.googlepages.com:80/advancedconstructs |
@@ -21,7 +21,7 @@
 | zhkyrl.brinkster.net/psionline | A Newbie's Guide to Shielding \<Stony1205> | https://web.archive.org/web/20070106000919/http://zhkyrl.brinkster.net:80/psionline/b_shield.html |
 | psionline.org | How to Alter Your Signature \<FrozenFlames> | https://web.archive.org/web/20071114083124/http://www.psionline.org:80/2007/10/cullens-guide-to-energy-manipulation.html |
 
-## Telepathy and Perception (73)
+## Telepathy and Perception (72)
 | Source | Name \[Notes, if any] \<Author> | Link |
 | ------ | ------------------------------- | ---- |
 | astateofmind.eu | 5 steps to read an object with psychometry \<Nathan> | https://web.archive.org/web/20100404012436/http://astateofmind.eu:80/2010/04/02/5-steps-to-read-an-object-with-psychometry/ | 
@@ -49,7 +49,7 @@
 | psilinks.net/forum | Telepathic Illusion or what? \<Forum thread> | https://web.archive.org/web/20081005173939/http://www.psilinks.net:80/forum/index.php/topic,472.0.html | 
 | psilinks.net/forum | Telepathy With Animals \<Forum thread> | https://web.archive.org/web/20080307025152/http://www.psilinks.net:80/forum/index.php/topic,204.0.html | 
 
-## Visualization, Focus, and Meditation (74)
+## Visualization, Focus, and Meditation (73)
 | Source | Name \[Notes, if any] \<Author> | Link |
 | ------ | ------------------------------- | ---- |
 | psiscape.net | Visualization/Focusing Exercise \<Forum thread> | https://web.archive.org/web/20060104114520/http://www.psiscape.net:80/phpBB2/viewtopic.php?t=349&amp;sid=ca5e6d801b1ef9233f5f81e9eb54dd05 |
@@ -59,7 +59,7 @@
 | ppsociety.com | Another vision on learning TK (Bone breathing) \<Dragor> | https://web.archive.org/web/20050223201453/http://ppsociety.com:80/w_articlev.php?id=9 |
 | psionicvisionaries.blogspot.com | Meditation \<Tantalus> | https://web.archive.org/web/20230622025434/http://psionicvisionaries.blogspot.com/2008/01/meditation.html |
 
-## Psychokinesis and Healing
+## Psychokinesis and Healing (74)
 | astateofmind.eu | Affecting radiowaves \<JoeRoger \[UPC]> | https://web.archive.org/web/20100404012406/http://astateofmind.eu/2008/11/18/affecting-radiowaves/ |
 | astateofmind.eu | An Introduction to Remote Touch \<Jonn \[UPC]> | https://web.archive.org/web/20100523120850/http://astateofmind.eu:80/2008/11/19/an-introduction-to-remote-touch/ |
 | astateofmind.eu | Introduction to Micro Psychokinesis \<No Author \[UPC]> | https://web.archive.org/web/20090414184938/http://astateofmind.eu/2008/11/30/introduction-to-micro-psychokinesis/ |
