@@ -15,6 +15,7 @@ You can look at the Wayback Machine's unfiltered index for any domain by navigat
 This repo is organized into indexes (files) and sections. 
 Websites with a lot of content have their own indexes, sites with a smaller amount of important things get put into the [miscellaneous sources index](./index-70-miscellaneous.md).
 Sections with names in quotes were organized by their authors to be read in a specific order, and are sorted as they were on their original source. All other sections are organized by category.
+Psipog.net is not listed here, as its backup is available in full on both [this GitHub account](https://github.com/libhazeltine/psipog-lhz) and as a [compressed archive](https://web.archive.org/web/20130321035504/http://www.psipog.net/) on the Wayback Machine.
 
 ### Contents
 | (Number) Section | Link |
