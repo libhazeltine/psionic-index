@@ -4,7 +4,7 @@ This repository contains lists of links from various websites and forums from th
 These links go to the Wayback Machine and are organized in a way that can be used by other people to facilitate backups and reformatting of the content.
 
 The OECs were mostly composed around a system called psionics that used ideas from both parapsychology and other spiritual systems. This repository seeks to organize the documentation of that system, as nearly all the websites have gone offline when the communities fell apart.
-The original purpose was to create a full-text backup and formatted archive of the linked content, however I am no longer pursuing this, as I have moved past personal investment in these practices.
+The original plan was to create a full-text backup and formatted archive of the content directly alongside these links, however I am no longer pursuing this, as I have moved past personal investment in these practices.
 
 These files are **not** comprehensive lists. Some stuff was ignored by me trying to navigate the huge mass of content on the Wayback Machine, and other content was never archived by it to begin with. 
 You can look at the Wayback Machine's unfiltered index for any domain by navigating to the "URLs" tab of that domain.
