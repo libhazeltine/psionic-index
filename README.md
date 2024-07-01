@@ -1,9 +1,9 @@
-# [The Hazeltine Library](https://github.com/libhazeltine/libhazeltine)
+# [Hazeltine OEC/Psionic Index](https://github.com/libhazeltine/libhazeltine/)
 
-This repository contains lists of links from various websites and forums from the Online Energy Communities. 
+This repository contains lists of links from various websites and forums about psychic phenomena. 
 These links go to the Wayback Machine and are organized in a way that can be used by other people to facilitate backups and reformatting of the content.
 
-The OECs were mostly composed around a system called psionics that used ideas from both parapsychology and other spiritual systems. This repository seeks to organize the documentation of that system, as nearly all the websites have gone offline when the communities fell apart.
+The sites linked here were mostly composed around a system called psionics that used ideas from both parapsychology and other spiritual systems. This repository seeks to organize the documentation of that system, as nearly all the websites have gone offline when the communities fell apart.
 The original plan was to create a full-text backup and formatted archive of the content directly alongside these links, however I am no longer pursuing this, as I have moved past personal investment in these practices.
 
 These files are **not** comprehensive lists. Some stuff was ignored by me trying to navigate the huge mass of content on the Wayback Machine, and other content was never archived by it to begin with. 
